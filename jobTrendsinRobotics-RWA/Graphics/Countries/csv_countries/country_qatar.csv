@@ -1,0 +1,708 @@
+,year,subject,content
+0,2009,job opening: postdoc in computer vision/robot perception,"opening for a postdoctoral fellow at carnegie mellon's qatar campus,
+located in doha, qatar. the position will start in the fall of 2009.
+
+our research group is looking for a talented researcher to lead
+the research and development of a vision system for a pipe-inspecting
+robot for operating in natural gas plants (lng/gtl). this work will
+involve building 3d appearance maps of pipe walls, registering them
+across runs, and automated detection of corrosion points. this work is
+part of a larger effort that involves both the pittsburgh and qatar
+campuses to develop new robotics technology for the natural gas
+industry. our particular focus is on improving safety and productivity.
+
+we are looking for researchers with experience in computer vision and
+robot perception systems. particularly relevant areas include image
+registration, visual mapping, stereo and classification.
+
+carnegie mellon offers very competitive postdoctoral salaries with
+numerous additional benefits above the normal rate for residing in qatar.
+
+for more information on carnegie mellon's qatar effort, please visit
+http://www.qatar.cmu.edu.
+
+please send all resumes and references to:
+
+brett browning <brettb at cs.cmu.edu>
+
+-- 
+
+-------
+brett browning, ph.d., 
+carnegie mellon university"
+1,2010,a robotics job posting - please post to robotics-wprldwide,"opening for a senior research engineer in robotics at carnegie mellon's 
+campus, located in doha, qatar. the position is available immediately 
+and the start date will be as soon as possible.
+
+our robotics research group is looking for a talented senior research 
+engineer with significant, hands-on experience with mechatronic, 
+embedded, and  robotic platform development. the ideal candidate will be 
+the primary hardware
+developer for all the projects in our robotics lab. our lab focuses on a 
+range of research problems centered on educational tools and games, 
+perception, multi-robot control, human-robot interaction, educational 
+robotics, and robot learning. our group's mission is to develop and 
+field computing and robotics technology for use in industrial 
+environments, such as oil & gas plants, in the community in qatar, and 
+in a variety of community-impact projects including developing and 
+under-resourced communities around the world.
+
+successful candidates will have extensive experience and proven skills in:
+* mobile robotics platform enhancement/development
+* printed circuit board (pcbs) development
+* low-power micro-controller based embedded systems development
+* mechatronic system development incorporating dc motors, custom drive 
+circuits, various state of the art sensors
+* mill/lathe machining experience
+* solid works and/or proe experience
+* altium designer or similar software experience
+* embedded c/c++ experience
+* recharging circuits
+
+our projects involve work at both the pittsburgh and qatar campuses, and 
+occasional travel to the us and to international conferences is an 
+expected part of the job.
+
+carnegie mellon offers very competitive salaries and benefits for 
+residing in qatar.
+
+for more information on carnegie mellon's qatar effort, please visit
+http://www.qatar.cmu.edu.
+
+please send all resumes and references to:
+
+dr. m. bernardine dias <mbdias at cs.cmu.edu>
+
+-- 
+*******************************************************************
+m. bernardine dias, ph.d.
+
+assistant research professor, robotics institute
+founder and director, techbridgeworld (www.techbridgeworld.org)
+co-founder and co-director, rcommerce robotics lab, pittsburgh
+co-founder and co-director, qri8 robotics lab, doha
+school of computer science
+pittsburgh and doha campuses
+carnegie mellon university
+*******************************************************************"
+2,2010,job opening: two postdocs for vision-based slam research at cmu-ri and cmuq,"we have two immediate openings for postdoctoral fellows; one at
+carnegie mellon's robotics institute, located in pittsburgh, usa, and
+the other at carnegie mellon's qatar campus, located in doha,
+qatar. both positions will ideally be filled with a start date of
+october 1, 2010.
+
+our group is looking for talented postdocs to lead the research and
+development of a vision-based slam system for a vehicle to operate in
+oil and gas plants. the work will involve a mix of sparse and dense
+stereo slam, wide fish-eye monocular slam, and exploration of learned
+feature detectors for improved vslam in oil and gas plant
+environments.
+
+this project will be jointly developed between carnegie mellon's
+pittsburgh and qatar campuses and is funded by a 3-year qatar national
+research fund grant. the work is also part of a larger effort that
+involves both the pittsburgh and qatar campuses to develop new
+robotics technology for the natural gas industry. our particular focus
+is on using robotic technology to improve safety and productivity.
+
+we are looking for researchers with extensive experience in computer
+vision and robot perception systems. we have a strong preference for
+candidates with hands on experience in visual slam, 2d or 3d laser
+slam, or structure from motion. experience in kalman filtering and/or
+particle filters is also desirable. field robotics experience is an
+added bonus.  candidates should have deep working knowledge of camera
+calibration for stereo and monocular configurations. experience in
+machine learning is desirable but not essential.
+
+carnegie mellon offers competitive postdoctoral salaries. qatar
+candidates also obtain additional expatriate benefits for residing in
+qatar.
+
+for more information on the robotics institute, please visit
+    http://www.ri.cmu.edu
+
+for more information on carnegie mellon's qatar effort, please visit
+    http://www.qatar.cmu.edu
+
+please apply with resume and three references to:
+
+brett browning <brettb at cs.cmu.edu>
+
+-- 
+
+-------
+brett browning, ph.d.,
+robotics institute/nrec carnegie mellon university
+web: http://www.cs.cmu.edu/~brettb"
+3,2010,lecturer position in mechatronics at northwestern university,"lecturer in mechatronics and electromechanical design
+
+northwestern university's mccormick school of engineering and applied
+science is looking for a dynamic educator and practitioner in
+electromechanical design to further develop northwestern's broad
+offerings in mechatronics. the ideal applicant will have an ms or phd
+in electrical, mechanical, or computer engineering, or a related
+field; experience in, and enthusiasm for, working with undergraduates
+on design projects; and several years of experience in
+electromechanical design. specifically, the applicant should be
+experienced in
+
+* embedded computing with microcontrollers
+* analog and digital circuit design, including pcb layout
+* selection of sensors, actuators, and mechanical components
+* cad, mechanical design, and fabrication
+* dynamics and system modeling
+* real-time control
+
+job responsibilities include
+
+* managing the northwestern mechatronics design lab, including
+   coordinating use among several departments
+* advising students on design projects for courses and independent
+   projects, for both internal and external clients
+* coordinating the annual robot design competition
+* curriculum development and support of existing courses
+* curriculum development and teaching for new courses and professional short
+   courses
+* overseeing the mechatronics wiki
+* consulting with faculty on research projects
+
+this will be a non-tenure track appointment for a three year term,
+renewable based on excellent performance and availability of
+funds. compensation will be determined based on experience and
+qualifications.
+
+qualified women and minorities are encouraged to apply.  northwestern
+university is an equal opportunity, affirmative action employer.  it
+is the policy of northwestern university not to discriminate against
+any individual on the basis of race, color, religion, national origin,
+sex, sexual orientation, marital status, age, disability, citizenship,
+veteran status or other protected group status.  hiring is contingent
+upon eligibility to work in the united states.
+
+how to apply
+
+to apply, please send a single pdf file containing a cover letter, cv,
+contact information for at least three references, and a portfolio of
+any significant electromechanical design projects you have undertaken.
+if these projects were group projects, please indicate portions for which
+you were responsible. this portfolio may consist of one
+or more links to websites with more information about the design, or
+figures and/or text descriptions embedded in the pdf file. apart from
+links to websites, the application must be fully self-contained in the
+single pdf file.
+
+applications should be sent to amy masters, amy-masters at northwestern.edu.
+for full consideration, applications should be received by september
+20, 2010.
+
+about northwestern university
+
+northwestern university is a private institution founded in 1851.
+northwestern has three campuses:  the main campus in evanston, the
+first suburb north of chicago; a campus in downtown chicago; and a
+campus in doha, qatar.  the mccormick school of engineering and
+applied science is located on the main campus in evanston."
+4,2010,"postdoc positions opening- smart medical devices lab, qatar university","job title: full time post-doctoral researchers 
+
+institution: qatar university, doha, qatar 
+
+project (1) development of an automated urinary bladder surveillance system for cancer diagnosis 
+
+project (2) development and test of a surgical telerobot system integrated with a flexible imaging probe in hostile environments
+
+job location: doha, qatar 
+
+pi: dr. w. jong yoon, smart medical devices lab (smdl), mechanical & industrial engineering, college of engineering 
+
+starting date: 2010 fall or open until filled 
+
+ 
+
+job description: 
+
+the smart medical devices laboratory within the qatar university department of mechanical & industrial engineering is seeking two full time post-doctoral researchers to lead the development of (1) an automated cystoscopic system for future use in bladder cancer surveillance and screening using a multi-bending system and (2) the development and test of a surgical telerobot system integrated with a flexible imaging probe. 
+
+ 
+
+the individual hired will work as a leader of a small team at qatar university, doha, qatar. s/he will be required to design the entire electro-mechanical system and conduct experiments with dr. yoon to evaluate the systems’ effectiveness. 
+
+ 
+
+qualifications: 
+
+ doctoral degree or equivalent experience in electro-mechanical engineering/robotics 
+
+ strong expertise in programming languages and computing/development tools such as labview and matlab to conduct independent research in the field 
+
+ knowledge of smart materials and actuator design is a plus 
+
+ strong written and verbal communication skills in english 
+
+ 
+
+responsibilities: 
+
+ these positions are up to 32 months of appointment based at qatar university, qatar. 
+
+ design and construct a portable electro-mechanical steering mechanism and control program/user interface. 
+
+ incorporate various real time video camera system (imaging probe) to the steering system and test them for optimization. 
+
+ test the device in vitro and ex vivo models to demonstrate the functionality of the prototype and determine the effectiveness of the system. a parametric study will be performed coordinated with clinicians. 
+
+ 
+
+benefits: 
+
+ tax-free salary, plus fully furnished accommodation, education allowance, health insurance, annual air tickets for summer vacation, and an annual summer leave entitlement of 35 days per year (according to qu hr policies). 
+
+ the successful candidate will be part of a recognized international research team including prof. blake hannaford and eric j. seibel (university of washington, usa). 
+
+ for more information about qatar university, please visit: http://www.qu.edu.qa 
+
+ 
+
+how to apply: 
+
+ contact: dr. w. jong yoon (wjyoon at qu.edu.qa) 
+
+ material needed to send (in pdf format) 
+
+o a cover letter detailing experience and future interests 
+
+o cv including names of three references 
+
+o one representative publication
+
+o available start date
+
+ 
+
+-------------------------------------------------------------------------
+
+w.jong yoon, phd
+
+assistant professor
+
+mechanical & industrial engineering department 
+
+qatar university, po box 2713 
+
+doha, qatar
+
+ 
+
+phone: 974-4403-4313, 974-5564-3526 (cell)
+
+fax: +974-4485-2110
+
+e-mail: wjyoon at qu.edu.qa
+
+www.qu.edu.qa/engineering/mechanical/
+
+http://faculty.qu.edu.qa/wjyoon
+
+--------------------------------------------------------------------------
+
+""hang in there tough,
+
+and keep believing in your dream.""
+"
+5,2011,postdoctoral positions on ensemble programming,"postdoctoral positions on ensemble programming
+
+(further details at www.qatar.cmu.edu/iliano/projects/ripple)
+
+the school of computer science at carnegie mellon university seeks
+applications for two postdoctoral fellow positions on effective
+programming for large distributed ensembles. these positions target
+complementary expertise towards the synergistic development of recent
+work on logic-based multiset rewriting and on programmable matter
+(claytronics) into a usable and verifiable programming language for
+large distributed ensembles of agents. see below for a detailed
+description of each position. see also the project page for publications
+and links related to the project.
+
+one position will be based on the qatar campus of cmu and the other on
+its pittsburgh campus, with travel between the two. the research will be
+conducted under the supervision of prof. iliano cervesato in qatar and
+prof. seth goldstein in pittsburgh. to apply, send a cover letter, a cv
+and a list of references in pdf format to seth at cs.cmu.edu and
+iliano at cmu.edu. additional material will be requested as needed.
+
+
+position in qatar (effective immediately)
+
+ideal applicants bring together a strong theoretical background and a
+keen interest in turning new theoretical developments into practical
+applications. specifically, applicants for this position should have an
+established research record in some combination of the following fields:
+
+    * multiset/term rewriting
+    * concurrency
+    * massively distributed systems
+    * programming language design/implementation
+    * linear logic
+    * logic programming
+    * swarm robotics
+
+
+why would i go to qatar?
+
+we are an integral part of the school of computer science of carnegie
+mellon university in pittsburgh. with some 30 people, equally divided
+among faculty, postdocs and research staff, the computer science group
+at carnegie mellon qatar is comparable to the best mid-size cs
+departments around the world. indeed, we publish our research in the
+same venues, go to the same conferences, and interact in the same way
+with our colleagues worldwide. differently from many mid-size cs
+departments, we are committed to and have the resources for significant
+further growth.
+
+a postdoc in the cs group at cmu qatar has the opportunity not only to
+do cutting edge research with world-renowned experts, but also to be
+part of a new dynamic environment, to gain responsibilities that go well
+beyond the typical postdoc experience, and to contribute to the growth
+of cmu qatar. all former cmu qatar postdocs are enjoying successful
+careers in academia or in industry (at google, in startups).
+
+the position in qatar offers a highly competitive salary, a foreign
+service premium, excellent international health care coverage, and
+allowances for housing, transportation, and travel. benefits may vary
+with contract type. the position comes with support for conferences and
+equipment. postdocs are encouraged to explore research ideas on top of
+and beyond the project description. the positions provide significant
+opportunities for professional development.
+
+
+about cmu qatar
+
+in 2004, carnegie mellon university established a branch campus in qatar
+with the goal of promoting the same high standards of research and
+education as its original pittsburgh campus. cmu qatar is located in
+education city, an ultramodern 2,500 acre campus which currently hosts
+branches of six of the world's leading universities. the campus provides
+cutting-edge research facilities in a dynamic and multidisciplinary
+environment.
+
+carnegie mellon qatar is located in qatar's capital, doha, an
+up-and-coming modern city with easy access to the world. qatar is a
+small country on the east coast of the arabian peninsula. its abundant
+reserves of natural gas have resulted in it having a gdp per capita
+among the highest in the world. it is cosmopolitan, vibrant, yet
+pleasant and safe. and of course, it was recently selected to host the
+2022 fifa world cup
+
+
+
+position in pittsburgh
+
+(we will start accepting applications for the pittsburgh position only
+after the qatar position has been filled.)
+
+ideal applicants bring together a strong systems background and a keen
+interest in developing highly experimental systems. specifically,
+applicants for this position should have an established research record
+in some combination of the following fields:
+
+    * distributed systems
+    * embedded systems
+    * programming language implementation
+    * reconfigurable computing
+    * swarm robotics
+
+the position in pittsburgh offers the standard benefits of a
+postdoctoral fellowship in the usa.
+-- 
+iliano cervesato      www.qatar.cmu.edu/~iliano/
+associate professor   carnegie mellon university"
+6,2011,postdoc/programmer position in human robot interaction at carnegie mellon university in qatar,"relevant info here:
+http://www.qatar.cmu.edu/~msakr/postdoc_hri/
+
+-- 
+senior research programmer
+robotics and cloud computing laboratory
+carnegie mellon university - qatar foundation
+tel:  +974-44548549
+mob:+974-55839962
+http://qatar.cmu.edu/~imranf"
+7,2011,postdoc position #1,"a fully funded 3-year postdoctoral appointment (project 1) is available in the smart medical devices lab at qatar university, qatar. 
+starting date: 2011 dec. 
+>
+project 1: integrated bio-sensors and automated instrumentation for early stomach cancer detection using flexible capsule endoscope
+this position involves work on development of integrated bio-sensor and automated instrumentation system for stomach cancer application.
+the main aim of this project is to entail the design construction of a custom computer-controlled navigation mechanism and robotic approach to deliver the tethered capsule to reach spaces within the stomach and analyze the h. pylori sample in situ. also, the researcher will be extensively collaborating with international researchers to integrate biochip sensor & navigation with the tethered capsule endoscope system and to test the device in vitro and ex vivo models to demonstrate the functionality of the prototype and determine the effectiveness of the system. 
+
+qualifications:
+..doctoral degree in robotics, electrical or mechanical engineering 
+..applicant with robot learning, micro-robot grasping and manipulation, and biomimetic robotics background are particularly encouraged. 
+..strong expertise in design and programming languages and electro-mechanical development tools to conduct micro-robot development is desired. 
+..knowledge of (1) micro sensor platform design and implementation and (2) cmos image sensor with optical filters is a plus.
+..strong written and verbal communication skills in english ..can freely travel to the u.s. for research collaboration
+
+benefits:
+competitive tax-free salary, furnished accommodation, annual economy air ticket allowance and education allowance. annual paid vacation for 35 calendar days. health insurance. the successful candidate will be part of a recognized international research teams.
+
+how to apply:
+contact: dr. yoon (wjyoon at qu.edu.qa) 
+material needed to send (in pdf format) 
+.. a cover letter .. cv with 3 references .. 2 representative publications
+
+w. jong yoon, phd
+assistant professor, mechanical & industrial engineering, qatar university
+tel: 974 4403 4313
+www.qu.edu.qa/engineering/mechanical"
+8,2011,postdoc position #2,"another postdoctoral appointment (project 2) is available in the smart medical devices lab at qatar university, doha, qatar. 
+starting date: 2011 dec.
+>
+project 2: development of smart minimum invasive surgery tools with tactile sensing capabilities for telerobot surgery system
+this position involves work on design/simulation and development of tactile sensing system which is composed of novel capacitive-type sensors such as dielectric elastomer transducer or pvdf sensor to detect the magnitude and distribution of contact force and incipient slip in robotic surgery applications. the individual hired will extensively collaborate with international teams. s/he will be required to simulate and develop novel tactile sensor system and validate the performance of the system integrating it with mis tool's tip of the surgical robot system. 
+
+qualifications:
+..doctoral degree or equivalent experience in electro-mechanical engineering
+..applicants with simulation and design of smart sensor systems such as capacitive-type and piezoelectric polymer based sensor array for force and slip sensing background are particularly encouraged.
+..strong expertise in programming languages and electro-mechanical hardware development tools to conduct sensor development/control research is desired.
+..experience in micro-fabrication and mems is a plus
+..knowledge of engineering specifications for manipulating tissues is a plus
+..strong written and verbal communication skills in english 
+..can freely travel to the u.s. for research collaboration
+
+benefits:
+competitive tax-free salary, furnished accommodation, annual economy air ticket allowance and education allowance. annual paid vacation for 35 calendar days. health insurance. the successful candidate will be part of a recognized international research teams.
+
+how to apply:
+contact: dr. yoon (wjyoon at qu.edu.qa) 
+material needed to send (in pdf format) 
+.. a cover letter .. cv with 3 references .. 2 representative publications
+
+w. jong yoon, phd
+assistant professor, mechanical & industrial engineering, qatar university
+tel: 974 4403 4313
+www.qu.edu.qa/engineering/mechanical"
+9,2012,full time post-doctoral researcher in haptics/ar,"project: development of smart minimum invasive surgery tools with tactile sensing capabilities for telerobot surgery system
+institution: qatar university, doha, qatar
+job location: doha, qatar (may work in south korea and university of washington, usa for a few months per year)
+pi: dr. w. jong yoon, smart medical devices lab (smdl), department of mechanical & industrial engineering, college of engineering
+starting date: 2013 january or open until filled
+
+job description:
+the smart medical devices laboratory within the qatar university department of mechanical & industrial engineering is seeking a full time post-doctoral haptics/ar researcher to lead the design and development of a user interface for a sensorized smart grasper in robot surgery which is built by integrating the contact and  shear force sensors. the three-axial film-type force sensor configuration will the sensor is a thin-film type capacitive one with a multiple cell structure capable of measuring normal and shear forces at contacts simultaneously. the proposed system can provide realistic immersive experience through either vibro-tactile feedback (haptic) or real-time visualization of tactile data (e.g., using an augmented-reality approach).
+
+the individual hired will work as a leader of a small team at qatar university, doha, qatar, and extensively collaborate with distinguished international research teams at sungkyunkwan university, korea, and uw biorobotics lab, usa. s/he will be required to validate the performance of the surgical robot system and to optimize the tactile display/feedback system. this work will be submitted for multiple international conferences and journal publications.
+
+qualifications:
+
+1)      doctoral degree or equivalent experience in human perception, human computer interface, user interface design, virtual/augmented reality or haptics.
+
+2)      applicants with a background in augmented-reality (ar) approach to real-time visualization of various perceptual data or haptic feedback interface are particularly encouraged.
+
+3)      strong expertise in programming
+
+4)      knowledge of engineering specifications for manipulating tissues is a plus
+
+5)      strong written and verbal communication skills in english
+
+6)      can freely travel to the u.s. and korea for research collaboration
+
+responsibilities:
+
+1)      this position is a fully funded 2 year (1st year probation) appointment based at qatar university, qatar.
+
+2)      may be involved in a couple other similar projects, if needed.
+3)      publish the work with other authors during and after the project.
+4)      upon completion of his/her assigned work, the researcher will be responsible for transferring all the technologies to the smart medical devices lab and jointly filing international patents.
+
+benefits:
+1)      tax-free competitive salary, furnished accommodation, annual economy air ticket allowance to the home country for the employee, accompanying spouse and up to three children and education allowance.
+2)      annual paid vacation for 35 calendar days.
+3)      health insurance for the employee and family
+4)      the successful candidate will be part of recognized international research teams.
+5)      for more information about qatar university, please visit: http://www.qu.edu.qa
+
+how to apply:
+
+  *   contact:    dr. w. jong yoon (wjyoon at qu.edu.qa<mailto:wjyoon at qu.edu.qa>)
+  *   material needed to send (in pdf format)
+     *   a cover letter detailing experience and future interests
+     *   cv including names of three references
+     *   two representative publications
+
+________________________________
+
+??????: ?? ???? ????? ??? ?????? ??????? ??????? ?? ???????? ????? ?????? ??????? ????????? ??????? ?????? ?? ??????? ?????????? ???????????.
+
+our vision: qatar university shall be a model national university in the region, recognized for high quality education and research, and for being a leader of economic and social development."
+10,2013,postdoc position: carnegie mellon qatar,"opening for a one-year postdoctoral fellow in the qatar robotics innovation
+lab at the carnegie mellon university campus located in doha, qatar. the
+position is currently open with the earliest possible start date for the
+chosen qualified candidate.
+
+our research group is looking for a talented researcher with experience in
+computer vision and/or machine learning preferably applied to robot
+perception problems. the postdoctoral position will involve work on two
+projects built around visual slam for robot ground vehicles in urban
+and industrial environments and for robot vehicles operating in pipe
+environments. experience with visual odometry (or structure from motion),
+visual or lidar slam, object detection/classification/tracking, and/or
+image retrieval is highly desirable. experience with robot
+perception systems is also highly desirable.
+
+this work is part of a larger effort that involves both the pittsburgh and
+qatar campuses to develop new robotics technology for the natural gas
+industry. the position will involve work with dr. brett browning, dr. m.
+bernardine dias, dr. peter rander, and dr. peter hansen. our particular
+focus is on developing technology that will enhance robots operating in oil
+and gas facilities for inspection and maintenance tasks to improve safety
+and productivity (e.g. www.rec.ri.cmu.edu/projects/shell).
+
+carnegie mellon qatar offers very competitive postdoctoral salaries with
+numerous additional benefits due to the foreign campus location. the
+position will also entail periodic travel to the main campus in pittsburgh,
+along with travel opportunities to conferences.
+
+for more information on carnegie mellon qatar, please visit
+http://www.qatar.cmu.edu.
+carnegie mellon is an equal opportunity employer.
+
+please send all resumes and references to:
+peter hansen <phansen at qatar.cmu.edu>
+
+-- 
+peter hansen
+school of computer science
+carnegie mellon university in qatar
+tel: +974 4454 8638"
+11,2014,post-doctoral opening - surgeon-robot collaboration in the operating room (qatar),"[jobs] post-doctoral opening - surgeon-robot collaboration in the operating room (qatar)
+
+the hamad medical center in qatar, and the intelligent systems and
+assistive technologies labs (isat), school of industrial engineering,
+at purdue university, is seeking for a postdoctoral fellow in the
+field of human-robot interaction and usability studies.
+
+candidate:
+
+we are looking for an excellent postdoc with a good background in
+robotics and hci, as well as an interest in conceptual modeling and
+systems engineering. a high level of programming skills is required
+(c++, matlab, linux). the applicant must have completed a phd studies
+with thesis in bme, ece, ee, cs or ie prior to starting the position.
+the candidate is expected to start as soon as possible. it is also
+expected that the candidate will have excellent oral and verbal
+english communication skills. the candidate will conduct most of the
+research at hmc (qatar) and occasionally travel to the us. salaries
+are very competitive.
+project:
+
+the project is dedicated to develop a robotic system capable of
+automatically detecting and analyzing explicit and implicit requests
+during surgery as the surgeon interacts with a robotic scrub nurse and
+surgical equipment. we are developing a surgical system that can
+pass the correct surgical instruments as required by the main surgeon,
+and track, count, organize and log the usage of instruments to prevent
+instruments from being left in the patient's body. this project
+constitutes an important step in a research program that will address
+other challenges related to operative efficiency and safety. the
+qatari team will oversee the clinical aspects of the co-robot design
+and the conceptual model of communications in the or. the
+postdoc residing in qatar will help design the simulated surgery scenarios and the
+validation tools. the postdoc will also provide the human factors and
+statistical knowledge background to analyze the performance measures
+of the project, and the development of the conceptual model.
+
+for more information on the project see:
+http://web.ics.purdue.edu/~jpwachs/gestonurse/
+
+information and applications:
+
+please send your cv, a list of publications/conferences, and a list of
+references to:
+
+
+juan p. wachs, ph.d.:    juan.wachs at gmail.com<mailto:juan.wachs at gmail.com>
+
+the deadline for applications is march 10, 2014, however applications will be considered until the position is filled.
+
+juan p. wachs, ph.d.
+assistant professor,
+regenstrief center for healthcare engineering school of industrial
+engineering purdue university
+315 n. grant street
+west lafayette, in 47907
+765 496-7380 (tel)
+765 494-1299 (fax)
+http://web.ics.purdue.edu/~jpwachs/
+
+
+juan p. wachs, ph.d.
+assistant professor,
+regenstrief center for healthcare engineering
+school of industrial engineering purdue university
+315 n. grant street
+west lafayette, in 47907
+765 496-7380 (tel)
+765 494-1299 (fax)
+http://web.ics.purdue.edu/~jpwachs/
+"
+12,2014,post-doctoral opening - surgeon-robot collaboration in the operating room (qatar),"post-doctoral opening - surgeon-robot collaboration in the operating room (qatar)
+
+the hamad medical center in qatar, and the intelligent systems and
+assistive technologies labs (isat), school of industrial engineering,
+at purdue university (usa), is seeking for a postdoctoral fellow in the
+field of human-robot interaction and usability studies.
+
+candidate:
+
+we are looking for an excellent postdoc with a good background in
+robotics and hci, as well as an interest in computer vision and
+systems engineering. a high level of programming skills is required
+(c++, matlab, linux). the applicant must have completed a phd studies
+with thesis in bme, ece, ee, cs or ie prior to starting the position.
+the candidate is expected to start as soon as possible. it is also
+expected that the candidate will have excellent oral and verbal
+english communication skills. the candidate will conduct most of the
+research at hmc (qatar) and occasionally travel to the us. salaries
+are very competitive.
+project:
+
+the project is dedicated to develop a robotic system capable of
+automatically detecting and analyzing explicit and implicit requests
+during surgery as the surgeon interacts with a robotic scrub nurse and surgical equipment. we are developing a surgical system that can
+pass the correct surgical instruments as required by the main surgeon, and track, count, organize and log the usage of instruments to prevent instruments from being left in the patient's body. this project constitutes an important step in a research program that will address other challenges related to operative efficiency and safety.
+the qatari team will oversee the clinical aspects of the co-robot design and the conceptual model of communications in the or. the
+postdoc residing in qatar will help design the simulated surgery scenarios and the validation tools. the postdoc will also provide the human factors and statistical knowledge background to analyze the performance measures of the project, and the development of the conceptual model.
+
+for more information on the project see:
+http://web.ics.purdue.edu/~jpwachs/gestonurse/<http://web.ics.purdue.edu/%7ejpwachs/gestonurse/>
+
+information and applications:
+
+please send your cv, a list of publications/conferences, and a list of
+references to:
+juan p. wachs, ph.d.:    juan.wachs at gmail.com<mailto:juan.wachs at gmail.com>
+
+applications are reviewed in a rolling basis and applications will be considered until the position is filled.
+
+juan p. wachs, ph.d.
+assistant professor,
+regenstrief center for healthcare engineering school of industrial
+engineering purdue university
+315 n. grant street
+west lafayette, in 47907
+765 496-7380<tel:765%20496-7380> (tel)
+765 494-1299<tel:765%20494-1299> (fax)
+http://web.ics.purdue.edu/~jpwachs/<http://web.ics.purdue.edu/%7ejpwachs/>
+
+
+
+juan p. wachs, ph.d.
+assistant professor,
+regenstrief center for healthcare engineering
+school of industrial engineering purdue university
+315 n. grant street
+west lafayette, in 47907
+765 496-7380 (tel)
+765 494-1299 (fax)
+http://web.ics.purdue.edu/~jpwachs/"
+13,2016,postdoctoral position in robotic  exoskeletons for rehabilitation at texas a&m university-qatar," postdoctoral position ? exoskeleton-based robotic rehabilitation a postdoctoral position in exoskeleton-based stroke rehabilitation is available at texas a&m university-qatar (tamu-q). applicants must have control, design and biomechanics background. good oral and written communication skills and the ability to prepare internal and external documents and presentations as well as hands-on experience are desirable. tamu-q offers excellent benefits and a number of special items. for example, the package includes furnished accommodations in doha at no cost, a local transportation allowance, and dependent education allowance. tamu-q (see: www.qatar.tamu.edu) is a branch campus of texas a&m university and is located in education city, doha, qatar. education city is the location of a number of premier institutions, which are engaged in activities of advanced scientific and engineering research and applications. major companies are establishing facilities in education city and its vicinity as well. review of applications will begin immediately, and continue until the positions are filled. candidates who would like to apply need to submit their curriculum vita to: dr. reza langari professor and jr thompson department head chair engineering technology and industrial distribution (etid) texas a&m university college station, tx 77843-3367 979-845-4949 (office) 979-847-9396 (fax) rlangari at tamu.edu<mailto:rlangari at tamu.edu> and to dr. reza tafreshi associate professor of mechanical engineering texas a&m university at qatar education city p.o. box 23874, doha, qatar 974-4423-0237 (office) 974-4423-0066 (fax) email: reza.tafreshi at qatar.tamu.edu<mailto:reza.tafreshi at qatar.tamu.edu> *please note that only shot-listed candidates will be contacted."
+14,2016,postdoctoral position in robotic  exoskeletons at texas a&m university at qatar," postdoctoral position ? exoskeleton-based robotic rehabilitation a postdoctoral position in exoskeleton-based stroke rehabilitation is available at texas a&m university-qatar (tamu-q). applicants must have control, design and biomechanics background. good oral and written communication skills and the ability to prepare internal and external documents and presentations as well as hands-on experience are desirable. tamu-q offers excellent benefits and a number of special items. for example, the package includes furnished accommodations in doha at no cost, a local transportation allowance, and dependent education allowance. tamu-q (see: www.qatar.tamu.edu) is a branch campus of texas a&m university and is located in education city, doha, qatar. education city is the location of a number of premier institutions, which are engaged in activities of advanced scientific and engineering research and applications. major companies are establishing facilities in education city and its vicinity as well. review of applications will begin immediately, and continue until the positions are filled. candidates who would like to apply need to submit their curriculum vita to: dr. reza langari professor and jr thompson department head chai engineering technology and industrial distribution (etid) texas a&m university college station, tx 77843-3367 979-845-4949 (office) 979-847-9396 (fax) rlangari at tamu.edu (email) and to dr. reza tafreshi associate professor of mechanical engineering texas a&m university at qatar education city p.o. box 2387 doha, qatar 974-4423-0237 (office) 974-4423-0066 (fax) reza.tafreshi at qatar.tamu.edu (email)"
+15,2016,postdoctoral position in robotic  exoskeletons at texas a&m university at qatar in-reply-to: <d332b979.566ec%rlangari@exchange.tamu.edu> references: <d332b979.566ec%rlangari@exchange.tamu.edu>," postdoctoral position ? exoskeleton-based robotic rehabilitation a postdoctoral position in exoskeleton-based stroke rehabilitation is available at texas a&m university-qatar (tamu-q). applicants must have control, design and biomechanics background. good oral and written communication skills and the ability to prepare internal and external documents and presentations as well as hands-on experience are desirable. tamu-q offers excellent benefits and a number of special items. for example, the package includes furnished accommodations in doha at no cost, a local transportation allowance, and dependent education allowance. tamu-q (see: www.qatar.tamu.edu) is a branch campus of texas a&m university and is located in education city, doha, qatar. education city is the location of a number of premier institutions, which are engaged in activities of advanced scientific and engineering research and applications. major companies are establishing facilities in education city and its vicinity as well. review of applications will begin immediately, and continue until the positions are filled. candidates who would like to apply need to submit their curriculum vita to: dr. reza langari professor and jr thompson department head chai engineering technology and industrial distribution (etid) texas a&m university college station, tx 77843-3367 979-845-4949 (office) 979-847-9396 (fax) rlangari at tamu.edu (email) and to dr. reza tafreshi associate professor of mechanical engineering texas a&m university at qatar education city p.o. box 2387 doha, qatar 974-4423-0237 (office) 974-4423-0066 (fax) reza.tafreshi at qatar.tamu.edu (email)"
+16,2018,"postdoctoral positions in robotics, ai,  networks - carnegie mellon university in qatar"," three postdoctoral positions in the domains of robotics, ai, computer networks, distributed systems, theory the department of computer science of carnegie mellon university in qatar invites applications for three postdoctoral positions (position cmuq-cs15-002). these positions are designed for candidates who are interested in enhancing their teaching portfolio, along with their research portfolio, to be better prepared for future academic positions. the positions expect candidates to relocate to carnegie mellon's campus in doha with a start no later than august 1, 2018. job description: responsibilities include supporting two to three advanced undergraduate courses per year, holding recitations/office hours, working closely with students, and supporting our general educational missions. in addition to this load, successful candidates are expected to conduct research in collaboration with any cmu-q computer science faculty of their choice. we are particularly interested in candidates in the following areas: robotics and ai, distributed systems, computer networks, and theory. outstanding candidates in other areas are also encouraged to apply. cmu qatar's benefits package is highly attractive, with salaries comparable to those in the us, but free of tax. relocation, housing, transportation, and health benefits are also covered. qualifications:   *   have completed, by the time of being hired, his/her phd in computer science, computer engineering, or related fields.   *   a proven track record of productive research and excellent academic credentials.   *   exceptionally strong communication and interpersonal skills.   *   be able to work independently, as well as in a team. application instructions: the application should be submitted online at the following link :https://urldefense.proofpoint.com/v2/url?u=https-3a__apply.interfolio.com_48500&d=dwifag&c=clk7kqutwtaveovigvi0nu5bouhhpn0h8p7csfnc_gi&r=0w3solp5fswiywf2rl6rss8mcefamfepafdtohgtfyi&m=0rtwowlyetzk1grwiaweiuxibftqs0rc6tnrgrgacw0&s=u8ptgqkfg9jgc8tcyzvr1exqighc6gjc7nd-nelanjg&e= <https://urldefense.proofpoint.com/v2/url?u=https-3a__apply.interfolio.com_48500-250b-250b&d=dwifag&c=clk7kqutwtaveovigvi0nu5bouhhpn0h8p7csfnc_gi&r=0w3solp5fswiywf2rl6rss8mcefamfepafdtohgtfyi&m=0rtwowlyetzk1grwiaweiuxibftqs0rc6tnrgrgacw0&s=c9wibjf914okogn4e1_tol_iycv5cpsuhldw-lbtr-o&e=>- the hiring committee initially expects a cover letter, cv, teaching statement, research statement, and video presentation. - the video can be a 2 minute presentation from the candidate regarding his/her motivation and goals behind applying for this position; or it can be a video of the candidate giving a research talk or lecture. - three reference letters are expected. your application will be fully processed when the letters are received, so please make sure you contact your referees to promptly provide these letters. - the final stage will include an online interview with candidates that have reached this stage, and will be accompanied with offline coding or problem solving challenges. deadline for submission: april 15, 2018"

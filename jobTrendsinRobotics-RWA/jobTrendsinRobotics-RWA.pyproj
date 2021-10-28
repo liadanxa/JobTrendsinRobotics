@@ -1,0 +1,204 @@
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>659b2472-efa7-4aca-a4f8-d8ef0e3311f4</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
+    <StartupFile>main.py</StartupFile>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <Name>jobTrendsinRobotics-RWA</Name>
+    <RootNamespace>jobTrendsinRobotics-RWA</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Analyzer.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="main.py" />
+    <Compile Include="Configuration.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Purifier.py">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Graphics\" />
+    <Folder Include="Graphics\Careers\" />
+    <Folder Include="Graphics\Countries\" />
+    <Folder Include="Graphics\Countries\csv_countries\" />
+    <Folder Include="Graphics\Countries\Continents\" />
+    <Folder Include="Graphics\Countries\top 10\" />
+    <Folder Include="Graphics\Fields\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="config.csv" />
+    <Content Include="config.xlsx" />
+    <Content Include="Graphics\Careers\job_posts_per_year_by_career.png" />
+    <Content Include="Graphics\Careers\job_posts_per_year_in_academia.png" />
+    <Content Include="Graphics\Careers\job_posts_per_year_in_industry.png" />
+    <Content Include="Graphics\Careers\job_posts_per_year_in_managerial positions.png" />
+    <Content Include="Graphics\Careers\job_posts_per_year_in_research.png" />
+    <Content Include="Graphics\Careers\percentage_of_job_posts_per_year_by_career.png" />
+    <Content Include="Graphics\Countries\Continents\job_posts_per_year_africa.png" />
+    <Content Include="Graphics\Countries\Continents\job_posts_per_year_asia.png" />
+    <Content Include="Graphics\Countries\Continents\job_posts_per_year_australia_oceania.png" />
+    <Content Include="Graphics\Countries\Continents\job_posts_per_year_europe.png" />
+    <Content Include="Graphics\Countries\Continents\job_posts_per_year_north_america.png" />
+    <Content Include="Graphics\Countries\Continents\job_posts_per_year_south_america.png" />
+    <Content Include="Graphics\Countries\csv_countries\country_australia.csv" />
+    <Content Include="Graphics\Countries\csv_countries\country_austria.csv" />
+    <Content Include="Graphics\Countries\csv_countries\country_belgium.csv" />
+    <Content Include="Graphics\Countries\csv_countries\country_brazil.csv" />
+    <Content Include="Graphics\Countries\csv_countries\country_bulgaria.csv" />
+    <Content Include="Graphics\Countries\csv_countries\country_canada.csv" />
+    <Content Include="Graphics\Countries\csv_countries\country_chad.csv" />
+    <Content Include="Graphics\Countries\csv_countries\country_chile.csv" />
+    <Content Include="Graphics\Countries\csv_countries\country_china.csv" />
+    <Content Include="Graphics\Countries\csv_countries\country_croatia.csv" />
+    <Content Include="Graphics\Countries\csv_countries\country_cyprus.csv" />
+    <Content Include="Graphics\Countries\csv_countries\country_czech republic.csv" />
+    <Content Include="Graphics\Countries\csv_countries\country_denmark.csv" />
+    <Content Include="Graphics\Countries\csv_countries\country_estonia.csv" />
+    <Content Include="Graphics\Countries\csv_countries\country_ethiopia.csv" />
+    <Content Include="Graphics\Countries\csv_countries\country_finland.csv" />
+    <Content Include="Graphics\Countries\csv_countries\country_france.csv" />
+    <Content Include="Graphics\Countries\csv_countries\country_germany.csv" />
+    <Content Include="Graphics\Countries\csv_countries\country_greece.csv" />
+    <Content Include="Graphics\Countries\csv_countries\country_hungary.csv" />
+    <Content Include="Graphics\Countries\csv_countries\country_iceland.csv" />
+    <Content Include="Graphics\Countries\csv_countries\country_india.csv" />
+    <Content Include="Graphics\Countries\csv_countries\country_indonesia.csv" />
+    <Content Include="Graphics\Countries\csv_countries\country_iran.csv" />
+    <Content Include="Graphics\Countries\csv_countries\country_ireland.csv" />
+    <Content Include="Graphics\Countries\csv_countries\country_israel.csv" />
+    <Content Include="Graphics\Countries\csv_countries\country_italy.csv" />
+    <Content Include="Graphics\Countries\csv_countries\country_japan.csv" />
+    <Content Include="Graphics\Countries\csv_countries\country_kazakhstan.csv" />
+    <Content Include="Graphics\Countries\csv_countries\country_luxembourg.csv" />
+    <Content Include="Graphics\Countries\csv_countries\country_malaysia.csv" />
+    <Content Include="Graphics\Countries\csv_countries\country_mexico.csv" />
+    <Content Include="Graphics\Countries\csv_countries\country_morocco.csv" />
+    <Content Include="Graphics\Countries\csv_countries\country_namibia.csv" />
+    <Content Include="Graphics\Countries\csv_countries\country_new zealand.csv" />
+    <Content Include="Graphics\Countries\csv_countries\country_norway.csv" />
+    <Content Include="Graphics\Countries\csv_countries\country_peru.csv" />
+    <Content Include="Graphics\Countries\csv_countries\country_poland.csv" />
+    <Content Include="Graphics\Countries\csv_countries\country_portugal.csv" />
+    <Content Include="Graphics\Countries\csv_countries\country_qatar.csv" />
+    <Content Include="Graphics\Countries\csv_countries\country_romania.csv" />
+    <Content Include="Graphics\Countries\csv_countries\country_russia.csv" />
+    <Content Include="Graphics\Countries\csv_countries\country_saudi arabia.csv" />
+    <Content Include="Graphics\Countries\csv_countries\country_singapore.csv" />
+    <Content Include="Graphics\Countries\csv_countries\country_slovenia.csv" />
+    <Content Include="Graphics\Countries\csv_countries\country_south africa.csv" />
+    <Content Include="Graphics\Countries\csv_countries\country_south korea.csv" />
+    <Content Include="Graphics\Countries\csv_countries\country_spain.csv" />
+    <Content Include="Graphics\Countries\csv_countries\country_sweden.csv" />
+    <Content Include="Graphics\Countries\csv_countries\country_switzerland.csv" />
+    <Content Include="Graphics\Countries\csv_countries\country_thailand.csv" />
+    <Content Include="Graphics\Countries\csv_countries\country_the netherlands.csv" />
+    <Content Include="Graphics\Countries\csv_countries\country_turkey.csv" />
+    <Content Include="Graphics\Countries\csv_countries\country_united arab emirates.csv" />
+    <Content Include="Graphics\Countries\csv_countries\country_united kingdom.csv" />
+    <Content Include="Graphics\Countries\csv_countries\country_united states of america.csv" />
+    <Content Include="Graphics\Countries\csv_countries\country_vietnam.csv" />
+    <Content Include="Graphics\Countries\top 10\job_posts_per_year_by_career_in_australia.png" />
+    <Content Include="Graphics\Countries\top 10\job_posts_per_year_by_career_in_canada.png" />
+    <Content Include="Graphics\Countries\top 10\job_posts_per_year_by_career_in_china.png" />
+    <Content Include="Graphics\Countries\top 10\job_posts_per_year_by_career_in_europe.png" />
+    <Content Include="Graphics\Countries\top 10\job_posts_per_year_by_career_in_france.png" />
+    <Content Include="Graphics\Countries\top 10\job_posts_per_year_by_career_in_germany.png" />
+    <Content Include="Graphics\Countries\top 10\job_posts_per_year_by_career_in_italy.png" />
+    <Content Include="Graphics\Countries\top 10\job_posts_per_year_by_career_in_north_america.png" />
+    <Content Include="Graphics\Countries\top 10\job_posts_per_year_by_career_in_singapore.png" />
+    <Content Include="Graphics\Countries\top 10\job_posts_per_year_by_career_in_switzerland.png" />
+    <Content Include="Graphics\Countries\top 10\job_posts_per_year_by_career_in_united kingdom.png" />
+    <Content Include="Graphics\Countries\top 10\job_posts_per_year_by_career_in_united states of america.png" />
+    <Content Include="Graphics\Countries\top 10\job_posts_per_year_by_field_in_australia.png" />
+    <Content Include="Graphics\Countries\top 10\job_posts_per_year_by_field_in_canada.png" />
+    <Content Include="Graphics\Countries\top 10\job_posts_per_year_by_field_in_china.png" />
+    <Content Include="Graphics\Countries\top 10\job_posts_per_year_by_field_in_europe.png" />
+    <Content Include="Graphics\Countries\top 10\job_posts_per_year_by_field_in_france.png" />
+    <Content Include="Graphics\Countries\top 10\job_posts_per_year_by_field_in_germany.png" />
+    <Content Include="Graphics\Countries\top 10\job_posts_per_year_by_field_in_italy.png" />
+    <Content Include="Graphics\Countries\top 10\job_posts_per_year_by_field_in_north_america.png" />
+    <Content Include="Graphics\Countries\top 10\job_posts_per_year_by_field_in_singapore.png" />
+    <Content Include="Graphics\Countries\top 10\job_posts_per_year_by_field_in_switzerland.png" />
+    <Content Include="Graphics\Countries\top 10\job_posts_per_year_by_field_in_united kingdom.png" />
+    <Content Include="Graphics\Countries\top 10\job_posts_per_year_by_field_in_united states of america.png" />
+    <Content Include="Graphics\Countries\top 10\total_job_posts_per_year_in_australia.png" />
+    <Content Include="Graphics\Countries\top 10\total_job_posts_per_year_in_canada.png" />
+    <Content Include="Graphics\Countries\top 10\total_job_posts_per_year_in_china.png" />
+    <Content Include="Graphics\Countries\top 10\total_job_posts_per_year_in_france.png" />
+    <Content Include="Graphics\Countries\top 10\total_job_posts_per_year_in_germany.png" />
+    <Content Include="Graphics\Countries\top 10\total_job_posts_per_year_in_italy.png" />
+    <Content Include="Graphics\Countries\top 10\total_job_posts_per_year_in_singapore.png" />
+    <Content Include="Graphics\Countries\top 10\total_job_posts_per_year_in_switzerland.png" />
+    <Content Include="Graphics\Countries\top 10\total_job_posts_per_year_in_united kingdom.png" />
+    <Content Include="Graphics\Countries\top 10\total_job_posts_per_year_in_united states of america.png" />
+    <Content Include="Graphics\Fields\job_posts_per_year_by_field.png" />
+    <Content Include="Graphics\Fields\job_posts_per_year_in_artificial intelligence.png" />
+    <Content Include="Graphics\Fields\job_posts_per_year_in_automation.png" />
+    <Content Include="Graphics\Fields\job_posts_per_year_in_biocybernetics.png" />
+    <Content Include="Graphics\Fields\job_posts_per_year_in_design and control.png" />
+    <Content Include="Graphics\Fields\job_posts_per_year_in_digital electronics and microprocessors.png" />
+    <Content Include="Graphics\Fields\job_posts_per_year_in_medical robotics.png" />
+    <Content Include="Graphics\Fields\job_posts_per_year_in_microrobotics.png" />
+    <Content Include="Graphics\Fields\job_posts_per_year_in_operator interface.png" />
+    <Content Include="Graphics\Fields\job_posts_per_year_in_programming.png" />
+    <Content Include="Graphics\Fields\job_posts_per_year_in_robot locomotion and mobility.png" />
+    <Content Include="Graphics\Fields\job_posts_per_year_in_robot manipulators and effectors.png" />
+    <Content Include="Graphics\Fields\job_posts_per_year_in_sensing and perception.png" />
+    <Content Include="Graphics\Fields\percentage_of_job_posts_per_year_by_field.png" />
+    <Content Include="Graphics\job_posts_per_year.png" />
+    <Content Include="posts_in_2005.csv" />
+    <Content Include="posts_in_2006.csv" />
+    <Content Include="posts_in_2007.csv" />
+    <Content Include="posts_in_2008.csv" />
+    <Content Include="posts_in_2009.csv" />
+    <Content Include="posts_in_2010.csv" />
+    <Content Include="posts_in_2011.csv" />
+    <Content Include="posts_in_2012.csv" />
+    <Content Include="posts_in_2013.csv" />
+    <Content Include="posts_in_2014.csv" />
+    <Content Include="posts_in_2015.csv" />
+    <Content Include="posts_in_2016.csv" />
+    <Content Include="posts_in_2017.csv" />
+    <Content Include="posts_in_2018.csv" />
+    <Content Include="posts_in_2019.csv" />
+    <Content Include="posts_in_2020.csv" />
+    <Content Include="posts_in_2021.csv" />
+    <Content Include="robotics-worldwide_jobs.csv" />
+    <Content Include="robotics-worldwide_jobs.xlsx" />
+    <Content Include="robotics-worldwide_jobs_purified.csv" />
+    <Content Include="robotics-worldwide_jobs_purified_lower.csv" />
+    <Content Include="robotics_careers_glossary.csv" />
+    <Content Include="robotics_careers_glossary.xlsx" />
+    <Content Include="robotics_fields_glossary.csv" />
+    <Content Include="robotics_fields_glossary.xlsx" />
+    <Content Include="world_countries_by_continent.csv" />
+    <Content Include="world_countries_by_continent.xlsx" />
+    <Content Include="world_countries_by_identifier.csv" />
+    <Content Include="world_countries_by_identifier.xlsx" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
+  <!-- Uncomment the CoreCompile target to enable the Build command in
+       Visual Studio and specify your pre- and post-build commands in
+       the BeforeBuild and AfterBuild targets below. -->
+  <!--<Target Name="CoreCompile" />-->
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+</Project>

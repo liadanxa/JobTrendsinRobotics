@@ -1,0 +1,629 @@
+,year,subject,content
+0,2006,faculty position of potential nterest at the technical university of crete,"european citizens, currently on the job market, who have worked on robot 
+teams, distributed coordination algorithms, or distributed software 
+architectures for robots, might be interested in a new tenure-track 
+faculty opening in the area of ""distributed software systems"" at the 
+technical university of crete in greece. details may be found at the 
+following url:
+
+http://www.ece.tuc.gr/dep_en.htm
+
+best regards,
+
+michail
+
+-- 
+
+assistant professor
+intelligent systems laboratory
+department of electronic and computer engineering
+technical university of crete
+kounoupidiana, 73100 chania
+hellas (greece)
+
+office : e5.001
+phone  : +30-28210-37244
+fax    : +30-28210-37542
+email  : lagoudakis at intelligence.tuc.gr
+www    : www.intelligence.tuc.gr/~lagoudakis"
+1,2006,"postdoctoral fellow position in machine learning at tuc, greece"," *** postdoctoral fellow position in machine learning ***
+           *** technical university of crete, greece ***
+
+a full-time postdoctoral fellow position in machine learning is
+available within the intelligence lab of the department of electronic
+and computer engineering, technical university of crete, chania, greece.
+this appointment is scheduled to begin in january 2007 and involves an
+initial one-year commitment with the possibility of renewal for one
+additional year.
+
+the successful candidate will conduct research on the use of modern
+supervised learning methods for approximating and representing policies
+in large reinforcement learning problems. the focus of the project will
+be on scalability, efficiency, and applicability to real-world problems.
+proposed methods will be applied and tested on various single- and
+multi- robot learning tasks using the robotic equipment of the lab (four
+aibos, a hexapod, two humanoids, a modular robot).
+
+the successful candidate will work closely with assistant professor
+michail g. lagoudakis and his group of graduate students. there will
+also be opportunities for interaction and collaboration with members of
+the robocup team of the lab, as well as possibilities for lectures,
+seminars, and graduate classes.
+
+suitable applicants must hold a phd degree in computer science, machine
+learning, or a related discipline and have a strong background in
+reinforcement and supervised learning. candidates familiar with
+programming (mainly c and matlab) and robot programming in particular
+will be given priority. excellent command of the english language is
+required.
+
+interested candidates should submit their electronic cvs including at
+least three contacts for references to michail g. lagoudakis (contact
+information below) by *december 15, 2006* as url pointers on the web (no
+attachments or hard copies). the search will continue until the position
+is filled.
+
+links:
+
+intelligence lab: http://www.intelligence.tuc.gr/
+ece department: http://www.ece.tuc.gr/index_en.htm
+tuc: http://www.tuc.gr/english/index.html
+
+contact information:
+
+michail g. lagoudakis
+assistant professor
+intelligent systems laboratory
+department of electronic and computer engineering
+technical university of crete
+kounoupidiana, 73100 chania
+hellas (greece)
+
+office : e5.001
+phone  : +30-28210-37244
+fax    : +30-28210-37542
+email  : lagoudakis at intelligence.tuc.gr
+www    : www.intelligence.tuc.gr/~lagoudakis
+"
+2,2008,"postdoc position mbari, california","[apologies for multiple messages]
+
+
+the autonomous system group at the monterey bay aquarium research  
+institute (mbari) invites applications for 1 postdoc position.
+
+mbari (http://www.mbari.org)  is a private non-profit oceanographic  
+research institute located in moss landing, california, in the heart  
+of the  largest marine sanctuary in the united states, just outside  
+silicon valley. the institute is an inter-disciplinary research  
+institution guided by a strong peer relationship between scientists,  
+engineers and marine operations staff. mbari pioneered the use of  
+remotely operated vehicles (rovs http://www.mbari.org/dmo/vessels_vehicles/tiburon/tiburon.html) 
+  and autonomous underwater vehicles (auvs http://www.mbari.org/auv/default.htm) 
+  for deep ocean research and continues to be at the cutting edge of  
+marine robotics, marine sensor development, ocean chemistry, marine  
+geology, micro-biology and ecology.
+
+research focus:
+
+the autonomous systems group is uniquely placed as being the only  
+artificial intelligence group within an operational oceanographic  
+setting anywhere. the focus of the groups effort is in automated  
+reasoning for embodied robust intelligence for auvs with a focus on  
+automated planning, execution, constraint-based reasoning and machine  
+learning. the core development effort is to enable adaptive control  
+for auvs to survey, sample and characterize dynamic and episodic ocean  
+phenomenon such as harmful algal blooms, fronts and thin layers which  
+have substantial societal impact (http://www.mbari.org/autonomy/ 
+trex/). further efforts are underway to study the feasibility of goal- 
+based commanding for underwater feature-based slam, mixed-initiative  
+platform control and multi-vehicle coordination.
+
+research environment:
+
+the autonomous systems group was established in 2005 by researchers  
+from nasa with extensive background in commanding spacecraft including  
+the twin mars rovers spirit and opportunity. a strong inter- 
+disciplinary effort with biological oceanographers at mbari and others  
+outside has driven the design and deployment of a hybrid executive*  
+which enables an auv to adaptively sample the environment using  
+planning and machine learning techniques to inform dynamic in-situ  
+behavior. publishing in peer-reviewed conferences and journals in ai,  
+robotics and the ocean sciences and interacting with scientists in the  
+fields of biology, chemistry, ecology, genetics, ocean physics, marine  
+robotics is an important aspect of the research effort. the group  
+collaborates with ai and robotics researchers in academia in the us  
+and europe and hosts visiting graduate students and researchers from  
+within the us and europe.
+
+key topic areas of interest for this position are:
+
+1. automated planning and execution
+2. scheduling
+3. machine learning
+4. constraint-based reasoning
+5. distributed planning
+
+applicants are encouraged to communicate with the pi for project  
+feasibility and relevance to ongoing mbari research. women and  
+minorities are strongly encouraged to apply. details of the  
+application process are at http://www.mbari.org/oed/jobs/postdocs-2009.html 
+. the deadline for applications is december 11th 2008.
+
+
+*
+1. mcgann, c., py, f., rajan, k., ryan, j., thomas, h., henthorn, r.,  
+and mcewen, r. “preliminary results for model-based adaptive control  
+of an autonomous underwater vehicle” intnl. symposium on experimental  
+robotics (iser) (athens, greece, 2008).
+
+2. mcgann, c., py, f., rajan, k., ryan, j., and henthorn, r.  
+“adaptive control for autonomous underwater vehicles” in proc.  
+assoc. for the advancement of artiﬁcial intelligence, national  
+conference (aaai) (chicago, il, 2008).
+
+3. mcgann, c., py, f., rajan, k., thomas, h., henthorn, r., and  
+mcewen, r. “a deliberative architecture for auv control” in proc.  
+ieee international conference on robotics and automation (icra)  
+(pasadena, ca, may 2008).
+
+4. mcgann, c., py, f., rajan, k., thomas, h., henthorn, r., and  
+mcewen, r., “automated decision making for a new class of auv  
+science”, in aslo/ocean sciences, florida, 2008.
+
+5. py, f., ryan, j., rajan, k., mcgann, c., fox, m, “adaptive water  
+sampling from an autonomous underwater vehicle based on unsupervised  
+clustering”, in aslo/ocean sciences, florida, 2008"
+3,2008,"postdoc position mbari, california","[apologies for multiple messages]
+
+
+the autonomous system group at the monterey bay aquarium research  
+institute (mbari) invites applications for 1 postdoc position.
+
+mbari (http://www.mbari.org)  is a private non-profit oceanographic  
+research institute located in moss landing, california, in the heart  
+of the  largest marine sanctuary in the united states, just outside  
+silicon valley. the institute is an inter-disciplinary research  
+institution guided by a strong peer relationship between scientists,  
+engineers and marine operations staff. mbari pioneered the use of  
+remotely operated vehicles (rovs http://www.mbari.org/dmo/vessels_vehicles/tiburon/tiburon.html) 
+  and autonomous underwater vehicles (auvs http://www.mbari.org/auv/default.htm) 
+  for deep ocean research and continues to be at the cutting edge of  
+marine robotics, marine sensor development, ocean chemistry, marine  
+geology, micro-biology and ecology.
+
+research focus:
+
+the autonomous systems group is uniquely placed as being the only  
+artificial intelligence group within an operational oceanographic  
+setting anywhere. the focus of the groups effort is in automated  
+reasoning for embodied robust intelligence for auvs with a focus on  
+automated planning, execution, constraint-based reasoning and machine  
+learning. the core development effort is to enable adaptive control  
+for auvs to survey, sample and characterize dynamic and episodic ocean  
+phenomenon such as harmful algal blooms, fronts and thin layers which  
+have substantial societal impact (http://www.mbari.org/autonomy/ 
+trex/). further efforts are underway to study the feasibility of goal- 
+based commanding for underwater feature-based slam, mixed-initiative  
+platform control and multi-vehicle coordination.
+
+research environment:
+
+the autonomous systems group was established in 2005 by researchers  
+from nasa with extensive background in commanding spacecraft including  
+the twin mars rovers spirit and opportunity. a strong inter- 
+disciplinary effort with biological oceanographers at mbari and others  
+outside has driven the design and deployment of a hybrid executive*  
+which enables an auv to adaptively sample the environment using  
+planning and machine learning techniques to inform dynamic in-situ  
+behavior. publishing in peer-reviewed conferences and journals in ai,  
+robotics and the ocean sciences and interacting with scientists in the  
+fields of biology, chemistry, ecology, genetics, ocean physics, marine  
+robotics is an important aspect of the research effort. the group  
+collaborates with ai and robotics researchers in academia in the us  
+and europe and hosts visiting graduate students and researchers from  
+within the us and europe.
+
+key topic areas of interest for this position are:
+
+1. automated planning and execution
+2. scheduling
+3. machine learning
+4. constraint-based reasoning
+5. distributed planning
+
+applicants are encouraged to communicate with the pi for project  
+feasibility and relevance to ongoing mbari research. women and  
+minorities are strongly encouraged to apply. details of the  
+application process are at http://www.mbari.org/oed/jobs/postdocs-2009.html 
+. the deadline for applications is december 11th 2008.
+
+
+*
+1. mcgann, c., py, f., rajan, k., ryan, j., thomas, h., henthorn, r.,  
+and mcewen, r. “preliminary results for model-based adaptive control  
+of an autonomous underwater vehicle” intnl. symposium on experimental  
+robotics (iser) (athens, greece, 2008).
+
+2. mcgann, c., py, f., rajan, k., ryan, j., and henthorn, r.  
+“adaptive control for autonomous underwater vehicles” in proc.  
+assoc. for the advancement of artiﬁcial intelligence, national  
+conference (aaai) (chicago, il, 2008).
+
+3. mcgann, c., py, f., rajan, k., thomas, h., henthorn, r., and  
+mcewen, r. “a deliberative architecture for auv control” in proc.  
+ieee international conference on robotics and automation (icra)  
+(pasadena, ca, may 2008).
+
+4. mcgann, c., py, f., rajan, k., thomas, h., henthorn, r., and  
+mcewen, r., “automated decision making for a new class of auv  
+science”, in aslo/ocean sciences, florida, 2008.
+
+5. py, f., ryan, j., rajan, k., mcgann, c., fox, m, “adaptive water  
+sampling from an autonomous underwater vehicle based on unsupervised  
+clustering”, in aslo/ocean sciences, florida, 2008
+"
+4,2011,postdoctoral positions at the institute of computer science - forth,"<>the institute of computer science of forth (www.ics.forth.gr)
+in heraklion, greece, has immediate openings
+for two full-time technical staff positions at the postdoctoral level,
+to work in the context of soft-bodied robotic systems
+in aquatic environments.
+
+1. bio-inspired control:
+<>the first research associate will focus on the development
+of bio-inspired control strategies for continuous and compliant robotic 
+systems.
+candidates are expected to have professional expertise relevant to
+robotic locomotion and manipulation, nonlinear control, mechanics,
+computational modeling and simulation, and implementation of robotic 
+systems.
+experience relevant to processing and use of sensory information,
+as well as to neural networks, both in the context of robot control, is 
+also desirable.
+
+2. elastodynamics:
+<>the second research associate will focus on the development
+of finite element methods for nonlinear elasticity,
+targeting the accurate simulation of forced motion for robotic arms
+consisting of rubber-like materials with complex structure.
+the aim is the development of control strategies for such robotic systems.
+candidates are expected to have professional expertise relevant to
+dynamic motion of continuous media, to the underlying theory of 
+governing equations
+and to computational methods used for their numerical solution.
+experience relevant to the control of such systems is also desirable.  <>
+
+we are looking for highly motivated young scientists, able to work
+as part of an interdisciplinary team in the framework of funded research 
+projects.
+good computing skills are necessary for both positions
+(including c/c++ and matlab/simulink),
+as well as excellent verbal and written english communication skills.  <>
+
+the successful candidates will be offered a contract for one year,
+with the possibility of renewal. interested candidates should submit by 
+email
+a curriculum vitae, a statement of research qualifications and interests,
+a list of at least 3 references and a few representative publications
+to dr. dimitris tsakiris (tsakiris at ics.forth.gr).
+candidates should indicate which position they are applying for.
+consideration of applications will begin immediately.
+
+ 
+
+
+-------------------------------------------------------------------
+
+dimitris p. tsakiris, ph.d.
+principal researcher
+institute of computer science - forth
+100, n. plastira str., vassilika vouton
+gr-70013 heraklion, greece
+- and -
+faculty member
+graduate program in the brain and mind sciences
+university of crete
+gr-71409 heraklion, greece
+
+phone:  +30-2810-391708
+www:    http://www.ics.forth.gr/~tsakiris"
+5,2012,"3 postdoc positions at forth, heraklion, greece","job title: research fellows in mobile robotics - computational vision
+
+host institution: computational vision and robotics lab (cvrl - 
+http://www.ics.forth.gr/cvrl), institute of computer science 
+(http://www.ics.forth.gr), foundation for research and technology - 
+hellas (forth),
+heraklion, crete, greece
+
+job description: cvrl immediately invites applications for three (3) 
+postdoc positions in the following areas:
+
+a. computational vision: visual tracking (2d/3d), 3d reconstruction, 
+activity recognition, gesture/expression recognition
+b. mobile robotics: visual odometry, probabilistic laser/visual slam, 
+object grasping/manipulation
+
+researchers will have an opportunity to work in a cutting-edge 
+interactive environment, and will be involved in ongoing and new 
+eu-funded projects. the positions require a phd in a related area. 
+relevant research experience as evidenced by publications in peer 
+reviewed journals and international conferences is desirable. strong 
+capacity and commitment to research is mandatory.
+
+salaries are competitive and are determined according to the successful 
+applicants' profiles (experience and qualifications).
+
+please submit the following by e-mail to panos trahanias 
+(trahania at ics.forth.gr).
+
+a. curriculum vitae
+b. brief research statement
+c. two/three names and contacts of recommendation
+d. availability date
+
+review of applicants will begin immediately and continue until the 
+positions are filled."
+6,2012,post-doctoral position in computer vision/robotics available at ics-forth,"see also:
+http://www.ics.forth.gr/~argyros/postdocpositions_forth.pdf
+
+
+position: one post-doctoral position
+start date: possibility for immediate starting
+duration: 1 or 2 years – extendable
+salary: highly competitive and commensurate with qualifications
+
+description:
+the institute of computer science of forth (http://www.ics.forth.gr) at 
+heraklion, crete, greece, has immediate opening for a full-time position 
+at the post-doctoral level, to work in the area of computer vision and, 
+in particular, in any of the following topics:
+- markerless hand tracking
+- hand posture/gesture recognition
+- visual interpretation of object grasping and manipulation activities
+- markerless human tracking, both in indoor and outdoor environments
+- human posture and activity recognition
+
+the position will be supported by recently funded eu projects which will 
+be executed until november january 2016. in the context of these 
+projects, the goal of our research group is to develop visual 
+capabilities for robotic assistants and for humanoid robots. the 
+selected applicants will be offered a contract for one or two years, 
+with the possibility of renewal.
+
+applicants must have:
+- a phd in computer science, computer engineering, or related field
+- documented research record in computer vision and, preferably, in the 
+topics listed above
+- strong computing skills (including c/c++ and matlab)
+- strong mathematical background
+- excellent verbal and written english communication skills
+- willingness and ability for cooperative work in the context of a 
+research team
+
+desired skills:
+- parallel programming with emphasis on gpu-programming, cuda
+- experience with computer graphics techniques and physics-based modeling
+
+applicants must submit the following documents:
+- curriculum vitae
+- statement of research qualifications and interests
+- contact details of at least three referees
+
+evaluation of applications:
+the evaluation of applications is ongoing and will continue until the 
+position is filled.
+
+links:
+research: http://www.ics.forth.gr/~argyros/research.htm
+forth-ics: http://www.ics.forth.gr
+crete: http://www.uoc.gr/crete/crete.html
+
+for more information or to apply, please contact:
+asoc. prof. antonis argyros
+institute of computer science, forth
+n. plastira 100, vassilika vouton
+gr-70013 heraklion, crete, greece
+e-mail: argyros at ics.forth.gr
+url: http://www.ics.forth.gr/~argyros
+
+
+-------------------------------------------------------------------
+assoc. prof. antonis argyros, http://www.ics.forth.gr/~argyros
+------------------------------+------------------------------------
+computer science department   | institute of comp. science - forth
+university of crete, gr 71409 | n plastira 100, vasilika vouton
+heraklion, crete, greece      | gr 70013 heraklion, crete, greece
+tel    : +30 2810 393594      | tel    : +30 2810 391704
+fax    : +30 2810 393501      | fax    : +30 2810 391601
+e-mail : argyros at csd.uoc.gr   | e-mail : argyros at ics.forth.gr
+------------------------------+------------------------------------
+"
+7,2012,"robotics postdoc opening at auth, gr","a post doctoral opening in robotics
+
+automation and robotics lab,
+
+department of electrical and computer engineering,
+
+aristotle university of thessaloniki,
+
+greece
+
+ 
+
+the department of electrical and computer engineering of the aristotle
+university of thessaloniki, greece is seeking to appoint a well motivated
+full-time postdoctoral research fellow who will have a key research role in
+the area of controlling commercially available arm/hand platforms for
+human-like physically interactive robot services within the piros project
+which is co-financed by the eu-esf and greek national funds through the
+operational program ""education and lifelong learning"" of the national
+strategic reference framework (nsrf) - research funding program aristeia.
+
+ 
+
+we seek for young scientists with background in electrical /mechanical
+/control engineering and phd in robotics with strong scientific
+
+knowledge and experience with standard platform experimentation in one or
+more of the following subjects: robot arm motion and/or force control, robot
+object grasping and/or manipulation.
+
+ 
+
+the successful candidate will be offered an up to three years contract
+depending on qualifications and experience. he/she will work on one or more
+of the following areas;
+
+* human-like reaching movements,
+* grasping and manipulation with multi-fingered hands
+* physical human robot interaction
+
+ 
+
+the position is open for immediate fill. the salary will be competitive with
+respect to the european job market and will provide more than adequate funds
+for living and working in greece. 
+
+extension of post doc contract beyond the three year duration is possible
+and subject to successful completion. greek nationals as well as
+international applicants are encouraged. 
+
+ 
+
+interested applicants should submit their cv outlining experience and
+qualifications, a list of publications, a statement of research interests,
+and at least the names of two referees by the end of 2012 to zoe doulgeri
+(doulgeri at eng.auth.gr).
+
+ 
+
+ 
+
+ 
+
+    ______________________________________________________________
+
+ 
+
+     professor zoe doulgeri
+     automation & robotics lab
+
+     department of electrical and computer engineering,
+     aristotle university of thessaloniki,  
+     gr54124 thessaloniki, greece    
+
+ 
+
+     tel/fax:       + 30- 2310- 996364
+     email:         doulgeri at eng.auth.gr
+     _____________________________________________________________"
+8,2014,the european academy for marine and underwater robotics (robocademy) is looking for 13 early-stage-researchers,"joint training and joint development of robot systems to explore the oceans:
+this is the aim with which the european network for training and research on
+maritime and underwater robotics, robocademy, has been started this year.
+the
+project is funded by the eu with 3.61 million euro deals with developing key
+qualifications for junior researchers and strengthening technology
+development
+in the field of underwater robotics. through the close collaboration of
+leading
+research institutes, academia, industry, and small–medium enterprises in
+robotics, marine technology, marine science, and offshore industry,
+robocademy
+will provide first-class training and research opportunities for
+early-stage-researchers.
+
+the robocademy is currently looking for 13 early-stage-researchers (esr),
+who
+made their diploma or master degree within the last four years in one of the
+following disciplines: 
+
+•             computer science
+•             math or physics
+•             computer engineering
+•             robotics
+
+in well-defined and well-tutored phd research projects, the robocademy
+fellows
+will push the state-of-the-art in the area of robust, reliable and
+autonomous
+underwater robots. specialized scientific training modules will enable the
+fellows to obtain both a sound basis in robotics and an introduction to
+topics
+that are specific to their research areas. this will be complemented by a
+high-quality soft-skills training programme for and the opportunity to gain
+extensive on-site hands-on experience through secondments to maritime
+industry
+and oceanographic research institutes.
+for 36 months the researchers will reside in one of the following institutes
+or
+small–medium enterprises:
+
+•             dfki, robotics innovation center, bremen, germany
+•             heriot-watt university, ocean systems lab, edinburgh, united
+kingdom
+•             tallinn university of technology, centre of biorobotics,
+tallinn, estonia
+•             universitat de girona, computer vision and robotics research
+group, girona,  spain 
+•             natural environment research council, national oceanography
+centre, swindon wiltshire, united kingdom
+•             centre for maritime research and experimentation, la spezia,
+italy
+•             national technical university of athens, control systems lab,
+athens, greece
+•             atlas elektronik gmbh, bremen, germany
+•             seebyte ltd, edinburgh, united kingdom
+•             graal tech, genova, italy
+
+interested researchers should check out the website www.robocademy.eu or the
+euraxess-portal. the deadline for application is on july 30th. 
+
+for further information please contact:
+
+german research center for artificial intelligence
+dfki bremen
+robotics innovation center
+robert-hooke-straße 1
+d-28359 bremen
+
+tom runge
+phone: +49 (0)421 / 178 45-6635
+e-mail: tom.runge at dfki.de
+
+ 
+
+ 
+
+----------------------------------------------------------------------- 
+tom runge 
+research assistant 
+
+dfki bremen 
+robotics innovation center (ric) 
+robert-hooke-straße 1 
+28359 bremen, germany 
+
+phone: +49 (0)421 178 45 6635 
+mobile:+49 (0)176 800 312 28 
+email: tom.runge at dfki.de 
+
+weitere informationen: http://www.dfki.de/robotik 
+
+----------------------------------------------------------------------- 
+deutsches forschungszentrum für künstliche intelligenz (dfki) gmbh 
+trippstadter strasse 122 
+d-67663 kaiserslautern 
+geschäftsführung: 
+prof. dr. dr. h.c. mult. wolfgang wahlster (vorsitzender) dr. walter olthoff
+
+vorsitzender des aufsichtsrats: 
+prof. dr. h.c. hans a. aukes 
+sitz der gesellschaft: kaiserslautern (hrb 2313) 
+ust-id.nr.: de 148646973 
+steuernummer: 19/673/0060/3 
+-----------------------------------------------------------------------"
+9,2014,post doctoral fellow opening available 	at ntua," dear all, the control systems lab (csl - http://csl-ep.mech.ntua.gr), school of mechanical  engineering at the national technical university of athens (ntua), greece, has  an opening for one (1) fully funded postdoctoral fellow.   project: laelaps ? dynamics, control and design of multi-joint, variable compliance,  quadruped robots?, action ""excellence"", co-financed by the european union -  european social fund (esf) and national funds through the operational program  ""education and lifelong learning"". the objective of this project is to advance  the state of the art in legged locomotion and specifically in efficient and agile  quadruped locomotion, through the development of novel designs and control methods.   required qualifications: diploma in electrical or mechanical engineering or a related field phd degree in robotics or automatic control systems strong experience in design, modeling, and realization of robotic mechanisms  with emphasis in legged robots strong hands-on experience in linear and non-linear control of robotic mechanisms additional desired qualifications/knowledge: proficiency in software programming (c/c++, matlab/simulink/simulink real time, rtos) hands-on experience in position, velocity, and acceleration sensors high quality publication record in automatic control of mechantronic, and robotic mechanisms participation in relevant research projects   additional information: the position is for one (1) year. starting date: immediately annually salary: 28750 euros   application process: interested applicants should email their cv and a brief (about 2 pages) statement of their  educational background, research experience, and future objectives to prof. evangelos  papadopoulos <egpapado at central.ntua.gr>. for further information, please feel free to contact me. evangelos papadopoulos ====================================================================== evangelos papadopoulos, professor department of mechanical engineering national technical university of athens 15780 athens, greece tel: +(30) 210-772-1440  fax: +(30) 210-772-1455   email: egpapado at central.ntua.gr, http://nereus.mech.ntua.gr/,  http://csl-ep.mech.ntua.gr/ ======================================================================="
+10,2014,post doctoral fellow opening available 	at ntua," dear all, the control systems lab (csl - http://csl-ep.mech.ntua.gr), school of mechanical  engineering at the national technical university of athens (ntua), greece, has  an opening for one (1) fully funded postdoctoral fellow.   project: laelaps ? dynamics, control and design of multi-joint, variable compliance,  quadruped robots?, action ""excellence"", co-financed by the european union -  european social fund (esf) and national funds through the operational program  ""education and lifelong learning"". the objective of this project is to advance  the state of the art in legged locomotion and specifically in efficient and agile  quadruped locomotion, through the development of novel designs and control methods.   required qualifications: diploma in electrical or mechanical engineering or a related field phd degree in robotics or automatic control systems strong experience in design, modeling, and realization of robotic mechanisms  with emphasis in legged robots strong hands-on experience in linear and non-linear control of robotic mechanisms additional desired qualifications/knowledge: proficiency in software programming (c/c++, matlab/simulink/simulink real time, rtos) hands-on experience in position, velocity, and acceleration sensors high quality publication record in automatic control of mechantronic, and robotic mechanisms participation in relevant research projects   additional information: the position is for one (1) year. starting date: immediately annually salary: 28750 euros   application process: interested applicants should email their cv and a brief (about 2 pages) statement of their  educational background, research experience, and future objectives to prof. evangelos  papadopoulos <egpapado at central.ntua.gr>. for further information, please feel free to contact me. evangelos papadopoulos ====================================================================== evangelos papadopoulos, professor department of mechanical engineering national technical university of athens 15780 athens, greece tel: +(30) 210-772-1440  fax: +(30) 210-772-1455   email: egpapado at central.ntua.gr, http://nereus.mech.ntua.gr/,  http://csl-ep.mech.ntua.gr/ ======================================================================="
+11,2015,phd or post-doc researcher position  within european project in robotics and education," phd or post-doc researcher position within european project in robotics and education the vision for robotics lab (v4r) at the technische universit?t wien (tu wien) is offering a full time position in the european project er4stem (educational robotics for science technology engineering and mathematics) starting with 1 october 2015 for three years. our project partners are across europe (austria, bulgaria, czech republic, greece,., and wales). occasional traveling will be required. the researcher will lead a work package in the project and will be responsible for the development of the er4stem framework with the aim to turn curious young children into young adults passionate about science and technology with a hands-on use case: robotics. er4stem will refine, unify and enhance current european approaches to stem education through robotics in one open operational and conceptual framework. innovative approaches will be developed to achieve an integrated and consistent concept that picks children up at different ages, beginning in primary school and accompany them until graduation from secondary school. applicants will need a solid background in technology and management, like wirtschaftsingenieurwesen (i.e. engineering and business administration) or industrial engineering, but are not limited to that. background in robotics or education is not mandatory, yet can be helpful. most important are the applicant's motivation and fit into the team, especially skills of interdisciplinary teamwork and international communication, the abilities to structure complex problems, conceptualize different inputs and carry out rigorous high-quality research as well as a passion for teaching children are required. the work will be done under the supervision of project coordinator lara lammer. it is expected that the research work will be published. the position is limited to a 36 month contract from tu wien. payment will be according to the university payment scheme for project assistants, depending on the candidate's experience and qualifications ( http://www.tuwien.ac.at/fileadmin/t/pers1/downloads/personalkostensaetze_2015.pdf ). your application should include a concise cv with your contact information and a one-page motivation letter in which you describe how you would develop the er4stem framework. both to be sent together to lammer at acin.tuwien.ac.at the vision for robotics group (http://v4r.acin.tuwien.ac.at/) is part of the tu wien and located in the centre of vienna. v4r is a leading center of robot vision for service robotics and industrial robot automation. we make robots see and understand the world around them. team spirit, fun, and the strive for novel solutions drive us forward. our passion for teaching unifies us. within the university we are one of the best performing teams. tu wien is located in the heart of europe, in a cosmopolitan city of great cultural diversity. for nearly 200 years, tu wien has been a place of research, teaching and learning in the service of progress. tu wien is among the most successful technical universities in europe and is austria?s largest scientific-technical research and educational institution. more information can be found on: http://tuwien.ac.at historically, vienna has always been a city of science and research and is one of the oldest university cities in europe. the research landscape is shaped by nine universities, five technical colleges, as well as about 1.300 research institutions. working in vienna means finding a creative and stimulating environment. living in vienna also means living in a city that is regularly rated as having the best quality of life. since 1997 the austrian capital has invested approximately eur 400 million into research and technology projects predominantly focused on the key areas of competence, including life science, creative industries, information and communication technologies and transport/logistics. more information can be found on: http://www.wien.gv.at/english/     lara lammer project manager schr?ge roboter <http://schraegeroboter.wordpress.com/> - das kreative mitmachlabor vienna university of technology acin | automation & control institute v4r | vision for robotics group http://www.acin.tuwien.ac.at gusshausstrasse 27-29/e376 1040 vienna, austria"
+12,2018,"postdoc/phd/predoc researcher positions  in deep learning / computer vision for drones/ uavs in aiia lab, auth,  thessaloniki, greece"," postdoc/phd/predoc researcher positions in deep learning / computer vision for drones/ uavs in aiia lab, auth, thessaloniki, greece       r & d topics: visual information analysis (image and video for drones) computer/robotic vision for drones (object/crowd/obstacle/poi detection/tracking etc.) machine learning for data analysis and control of drones analysis of rgb-d data, point clouds, drone mapping software implementations in robotic operating system (ros) computational cinematography using drones privacy and security issues in drone applications  control of collaborative and autonomous robots (drones)     post doc researchers or phd candidates or predoc researchers are welcomed. candidates are expected to have:   a) bsc or msc or phd degrees in computer science or electrical / electronic / computer engineering or equivalent; b) very good knowledge in machine learning / deep neural networks and/or computer vision and/or robotics and/or image / video / signal processing; c)  very good programming skills (c / c ++, python, matlab). knowledge of ros and/or deep nn programming tools is welcomed; d) be eu citizens or have work permit for greece.   funding is subject to the procedures and rules of the aristotle university of thessaloniki (auth), thessaloniki, greece. research will be done at the artificial intelligence and information analysis (aiia) lab of csd, auth, in cooperation of the icarus.auth special interest group. thessaloniki and auth provide an excellent living, work and study environment. aiia lab is very well known internationally for research in computer vision, machine learning/pattern recognition, image/video processing and digital media  (its members have 10+ books, 50+ book chapters, 1200+ publications, 33000+ citations, h-index 80+).   relevant links: projects: https://urldefense.proofpoint.com/v2/url?u=https-3a__multidrone.eu_&d=dwifaq&c=clk7kqutwtaveovigvi0nu5bouhhpn0h8p7csfnc_gi&r=0w3solp5fswiywf2rl6rss8mcefamfepafdtohgtfyi&m=tx11z5rstjoxuyd3_ug5ogurhwa-bbgkgj9mgfanukm&s=j_ii68w_evetfwpehfjnwwrychfnc6al1tu-bvpghwe&e= aiia lab: https://urldefense.proofpoint.com/v2/url?u=http-3a__www.aiia.csd.auth.gr_&d=dwifaq&c=clk7kqutwtaveovigvi0nu5bouhhpn0h8p7csfnc_gi&r=0w3solp5fswiywf2rl6rss8mcefamfepafdtohgtfyi&m=tx11z5rstjoxuyd3_ug5ogurhwa-bbgkgj9mgfanukm&s=-xyimsfsafb7ss6ehk9dnpgqwewjtbw4nujwnl3upcq&e= icarus.auth: https://urldefense.proofpoint.com/v2/url?u=http-3a__icarus.csd.auth.gr_&d=dwifaq&c=clk7kqutwtaveovigvi0nu5bouhhpn0h8p7csfnc_gi&r=0w3solp5fswiywf2rl6rss8mcefamfepafdtohgtfyi&m=tx11z5rstjoxuyd3_ug5ogurhwa-bbgkgj9mgfanukm&s=2cim2zqfuoxwx6jkdbt3qw8g45vekrlljlfoe-daqro&e= csd auth: https://urldefense.proofpoint.com/v2/url?u=https-3a__www.csd.auth.gr_en_&d=dwifaq&c=clk7kqutwtaveovigvi0nu5bouhhpn0h8p7csfnc_gi&r=0w3solp5fswiywf2rl6rss8mcefamfepafdtohgtfyi&m=tx11z5rstjoxuyd3_ug5ogurhwa-bbgkgj9mgfanukm&s=q5p1eh5sagdeydwma1_svrfqq_lf8hvawj33fcoxdzk&e= auth: https://urldefense.proofpoint.com/v2/url?u=https-3a__www.auth.gr_en&d=dwifaq&c=clk7kqutwtaveovigvi0nu5bouhhpn0h8p7csfnc_gi&r=0w3solp5fswiywf2rl6rss8mcefamfepafdtohgtfyi&m=tx11z5rstjoxuyd3_ug5ogurhwa-bbgkgj9mgfanukm&s=60sa0bdcjzgrw-qmmoruhdxrws2rghvyaok55zrxfwe&e=   send cvs to: professor ioannis pitas, head of aiia lab, pitas at aiia.csd.auth.gr."
+13,2020,ph.d. student position on robot  learning of mobile manipulation @ tu darmstadt in-reply-to: <a19c3097-be50-f9e5-c802-3da1c72cf390@tu-darmstadt.de> references: <6f50080e-7c60-b436-cf04-13707ab601d8@tu-darmstadt.de>  <a19c3097-be50-f9e5-c802-3da1c72cf390@tu-darmstadt.de>," * *robot learning of mobile manipulation ph.d. student position @ tu  darmstadt* ==================================== the newly founded intelligent robotics systems and assistants (irosa)  group, led by georgia chalvatzaki, ph.d.  <https://urldefense.com/v3/__https://www.ias.informatik.tu-darmstadt.de/team/georgiachalvatzaki__;!!lir3w8kk_xxm!4oddqqjpa5xs9xupxxmphg0mpof4vwtx1y_mzllwa0at63wrxjuq3y0wlit9rkyapznadnfc$ >, in  cooperation with the intelligent autonomous systems lab (ias) at the  technical university of darmstadt (tu darmstadt)? is seeking a ph.d.  student with a strong interest in one or more of the following research  topics: * learning of mobile manipulation and grasping; * human-robot interaction and learning for human-robot object handovers; * learning in task and motion planning of long-horizon assistive tasks. the? ph.d. student will work on a highly interdisciplinary topic at the  intersection of machine learning and classical robotics. following the  increasing demand for embodied ai agents that will serve as assistants  in houses, workplaces, etc., we will research how intelligent behavior  may be acquired by the continual purposeful interaction of an agent with  an environment and the induced sensorimotor experience. our central research question is ""how can embodied ai systems,  specifically mobile manipulator robots, acquire skills for performing  long-horizon assistive tasks in human-inhabited environments?"".? as  planning for assistive tasks requires impractical computational time,  coupling planning with learning methods is key to advancing the  state-of-the-art in the field of mobile manipulation. before the  introduction of deep reinforcement learning, learning methods were not  able to scale well to high-dimensional problems, thus prohibiting their  use in real-world problems. irosa group aims to create mobile  manipulation robot assistants with the ability to intelligently acquire  their skills, fluently interact with humans through handover tasks, and  dynamically adapt their behavior for accomplishing long-horizon  household tasks, like the fetch-carry-handover paradigm, in  human-inhabited environments. outstanding students and researchers from the areas of robotics and  robotics-related areas including machine learning, control engineering,  or computer vision are welcome to apply. the candidates are expected to  conduct independent research and at the same time contribute to the  research topics listed above. women and people of underrepresented minority groups are strongly  encouraged to apply. about the applicant ph.d. position applicants need to have a master's degree (high grade  required) in a relevant field (e.g.,? robotics, computer science,  engineering, statistics & optimization, math and physics). expertise in working with real robot systems (including e.g. programming  in ros and sensor data processing) and strong interest or past  experience in working with an interdisciplinary team is a big plus. the position the position is for a 36-month contract. payment will be according to the german tvl payment scheme. how to apply? all complete applications submitted through our online application  system found at https://urldefense.com/v3/__https://www.ias.informatik.tu-darmstadt.de/jobs/applicationwill__;!!lir3w8kk_xxm!4oddqqjpa5xs9xupxxmphg0mpof4vwtx1y_mzllwa0at63wrxjuq3y0wlit9rkyapxoaaepf$  be  considered. the deadline for applications is 18.01.2021. the position is planned to start between march 2021 and september 2021 depending on the candidate's availability. ph.d. applicants should provide at least a research statement, a pdf  with their cv, degrees, and grade-sheets, and two references who are  willing to write a recommendation letter. please state clearly how your past experience in robotics and machine  learning relates to the offered topics in your research statement. note that we favor heavily candidates with real robot experience. please ensure to include your date of availability for starting the  ph.d. position. please, after submitting the application, send a quick notification with  the subject line ?ph.d. student applicant <your name>? to dr. georgia chalvatzaki?  (georgia.chalvatzaki at tu-darmstadt.de) and include your application  number in the e-mail. about irosa and ias the irosa group is a newly founded group on intelligent robotics systems  for assistance led by dr. georgia chalvatzaki  (https://urldefense.com/v3/__https://www.ias.informatik.tu-darmstadt.de/team/georgiachalvatzaki__;!!lir3w8kk_xxm!4oddqqjpa5xs9xupxxmphg0mpof4vwtx1y_mzllwa0at63wrxjuq3y0wlit9rkyapznadnfc$ ).  georgia chalvatzaki, a postdoctoral researcher at the intelligent  autonomous systems group (ias) in the department of computer science at  tu darmstadt, has been accepted into the renowned emmy noether programme  (enp) of the german research foundation (dfg). this project was awarded  within the enp artificial intelligence call of the dfg ? only 9  proposals out of 91 proposals were selected for funding. it enables  outstanding young scientists to qualify for a university professorship  by independently leading a junior research group over six years. in her research group irosa, dr. chalvatzaki and her new team will  research the topic of ""robot learning of mobile manipulation for  assistive robotics"". dr. chalvatzaki proposes new methods at the  intersection of machine learning and classical robotics, taking one step  further the research for embodied ai robotic assistants. the research in  irosa proposes novel methods for combined planning and learning for  enabling mobile manipulator robots to solve complex tasks in house-like  environments, with the human-in-the-loop of the interaction process. the  irosa group has access to two bi-manual manipulator robots tiago++ by  pal robotics, a dedicated optitrack motion capture system, kinect azure,  and realsense cameras, a cluster for accelerated computing, etc. dr. chalvatzaki completed her ph.d. studies in 2019 at the intelligent  robotics and automation lab at the electrical and computer engineering  school of the national technical university of athens, greece, with her  thesis ""human-centered modeling for assistive robotics: stochastic  estimation and robot learning in decision making."" during her career,  she has worked on eight research projects, and she has published more  than 30 papers (google scholar  <https://urldefense.com/v3/__https://scholar.google.com/citations?user=mlho5fkaaaaj&hl=en__;!!lir3w8kk_xxm!4oddqqjpa5xs9xupxxmphg0mpof4vwtx1y_mzllwa0at63wrxjuq3y0wlit9rkyaptvk-8j4$ >), most of  which in top-tier robotics and machine learning venues, e.g., icra,  iros, ra-l. her research at the computer science department of tu darmstadt has been  about human-robot collaboration and joint action. in her recent work,  she focused on robotic grasping, manipulation, and motion prediction,  introducing novel methods for orientation attentive grasp synthesis,  accelerated skill learning, and human intention prediction. the intelligent autonomous systems (ias) institute of tuda  (https://urldefense.com/v3/__https://www.ias.informatik.tu-darmstadt.de/__;!!lir3w8kk_xxm!4oddqqjpa5xs9xupxxmphg0mpof4vwtx1y_mzllwa0at63wrxjuq3y0wlit9rkyapenb6-lf$ ) is considered one of the  strongest robot learning groups in europe with expertise ranging from  the development of novel machine learning methods (e.g., novel  reinforcement learning approaches, policy search, imitation learning,  regression approaches, etc.) over semi-autonomy of intelligent systems  (e.g., shared control, interaction primitives, human-collaboration  during manufacturing) to fully autonomous robotics (e.g., robot learning  architectures, motor skill representation acquisition & refinement,  grasping, manipulation, tactile sensing, nonlinear control, operational  space control, robot table tennis). ias members are well-known  researchers both in the machine learning and the robotics community. the  lab collaborates with numerous universities in germany, europe,? the  usa, and japan as well as companies such as abb, honda research, franka  emika, and porsche motorsport. the irosa and the? ias lab are located in the city center campus of?  tu-darmstadt close to the beautiful herrngarten park. about tu darmstadt tu darmstadt is one of germany's top technical universities and is well  known for its research and teaching. it was one of the first  universities in the world to introduce electrical engineering programs,  and it is germany's first fully autonomous university. more information can be found on  https://urldefense.com/v3/__https://en.wikipedia.org/wiki/technische_universit**at_darmstadt__;w6q!!lir3w8kk_xxm!4oddqqjpa5xs9xupxxmphg0mpof4vwtx1y_mzllwa0at63wrxjuq3y0wlit9rkyapqncffyg$  about darmstadt darmstadt is a well-known high-tech center with essential activities in  spacecraft operations (e.g., through the european space operations  centre, the european organization for the exploitation of meteorological  satellites), chemistry, pharmacy, information technology, biotechnology,  telecommunications, and mechatronics, and consistently ranked among the  top high-tech regions in germany. darmstadt's important centers for  arts, music, and theatre allow for versatile cultural activities, while  the proximity of the odenwald forest and the rhine valley allows for  many outdoor sports. the 33,547 students of darmstadt's three  universities constitute a significant part of darmstadt's 140,000  inhabitants. darmstadt is located close to the center of europe. with  just 17 minutes driving distance to the frankfurt airport (closer than  frankfurt itself), it is one of europe's best-connected cities. most  major european cities can be reached within less than 2.5h from darmstadt. *"
+14,2021,ph.d. student position on robot  learning of long-horizon tasks @ tu darmstadt in-reply-to: <3d964aab-b335-f41e-be47-4dc9ba40116f@tu-darmstadt.de> references: <3d964aab-b335-f41e-be47-4dc9ba40116f@tu-darmstadt.de>," the newly founded intelligent robotics for assistance (irosa  <https://urldefense.com/v3/__https://irosalab.com/__;!!lir3w8kk_xxm!88kkgvjcow2myj70kolirbzirnuxk_2xvplqstrjdvpkwcggj1ibhy65tm7q9qwxgjstj4nz$ >) group, led by dr. georgia chalvatzaki, ph.d.,  in cooperation with the intelligent autonomous systems lab (ias) at the  technical university of darmstadt (tu darmstadt)? is seeking a ph.d.  student with a strong interest in the following research topic: /robot learning task and motion planning of long-horizon (mobile)  manipulation tasks. / the? ph.d. student will work on a highly interdisciplinary topic at the  intersection of machine learning and classical robotics. following the  increasing demand for embodied ai agents that will serve as assistants  in houses, workplaces, etc., we will research how intelligent behavior  may be acquired by the continual purposeful interaction of an agent with  an environment and the induced sensorimotor experience.? our central  research question is ?how can embodied ai systems, specifically mobile  manipulator robots, acquire skills for performing long-horizon assistive  tasks in human-inhabited environments??. as planning for assistive tasks  requires impractical computational time, coupling planning with learning  methods is key to advancing the state-of-the-art in the field of mobile  manipulation. before the introduction of deep reinforcement learning,  learning methods were not able to scale well to high-dimensional  problems, thus prohibiting their use in real-world problems. irosa group  aims to create mobile manipulation robot assistants with the ability to  intelligently acquire their skills, fluently interact with humans  through handover tasks, and dynamically adapt their behavior for  accomplishing long-horizon household tasks, like the  fetch-carry-handover, in human-inhabited environments.? for long-horizon  planning, we will explore ideas from classic task and motion planning,  graph neural networks for combinatorial optimization, hierarchical  reinforcement learning, self-supervised representation learning, etc. students and researchers from the areas of robotics and robotics-related  areas including machine learning, control engineering, and computer  vision are welcome to apply. the candidates are expected to conduct  independent research and at the same time contribute to the research  topics listed above.? women and people of underrepresented minority  groups are strongly encouraged to apply. *about the applicant * ph.d. position applicants need to have a master?s degree (high grade  required) in a relevant field (e.g.,? robotics, computer science,  engineering, statistics & optimization, math, and physics).? expertise  in working with real robot systems (including e.g. programming in ros  and sensor data processing) and/or computer vision, deep learning is a  big plus. note that we favor heavily candidates with real robot experience. *the position * the position is for a 36-month contract. payment will be according to  the german tvl payment scheme. *how to apply?* all complete applications submitted through our online application  system found  athttps://www.ias.informatik.tu-darmstadt.de/jobs/applicationwill be  considered. the position is planned to start between june 2021 and september 2021?  depending on the candidate?s availability. *there is no official deadline, but we will adopt a first-come,  first-served policy!* ph.d. applicants should provide a comprehensive research statement on  their research experience and motivation about the ph.d. topic, a pdf  with their cv, degrees (bachelor?s and master?s), and grade-sheets, and  at least two references who are willing to write a recommendation letter. please state clearly how your experience in robotics, computer vision,  and machine learning relates to the offered topics in your research  statement.   * interesting tips on writing a research statement can be found here     (https://urldefense.com/v3/__https://krrish94.github.io/blog/gradschool-sop/__;!!lir3w8kk_xxm!88kkgvjcow2myj70kolirbzirnuxk_2xvplqstrjdvpkwcggj1ibhy65tm7q9qwxget6ctdj$ ), edited by krishna     murthy. please ensure to include your date of availability for starting the  ph.d. position. *after submitting the application*, send a quick notification with the  subject line? ?ph.d. student applicant <your name>? to dr. georgia  chalvatzaki (georgia.chalvatzaki at tu-darmstadt.de) and include your  application number in the e-mail. *about irosa and ias* the*irosa*group (https://urldefense.com/v3/__https://irosalab.com/__;!!lir3w8kk_xxm!88kkgvjcow2myj70kolirbzirnuxk_2xvplqstrjdvpkwcggj1ibhy65tm7q9qwxgjstj4nz$ ) is a newly founded group on  intelligent robotics for assistance led by dr. georgia chalvatzaki  (https://urldefense.com/v3/__https://www.ias.informatik.tu-darmstadt.de/team/georgiachalvatzaki__;!!lir3w8kk_xxm!88kkgvjcow2myj70kolirbzirnuxk_2xvplqstrjdvpkwcggj1ibhy65tm7q9qwxgau7hf2j$ ).  georgia, previously a postdoctoral researcher at the intelligent  autonomous systems group (ias) in the department of computer science at  tu darmstadt, has been accepted into the renowned emmy noether programme  (enp) of the german research foundation (dfg) in 2021. this project was  awarded within the enp artificial intelligence call of the dfg ? only 9  proposals out of 91 proposals were selected for funding. it enables  outstanding young scientists to qualify for a university professorship  by independently leading a junior research group over six years. in her  research group irosa, dr. chalvatzaki and her new team will research the  topic of ?robot learning of mobile manipulation for assistive robotics?.  dr. chalvatzaki proposes new methods at the intersection of machine  learning and classical robotics, taking one step further the research  for embodied ai robotic assistants. the research in irosa proposes novel  methods for combined planning and learning for enabling mobile  manipulator robots to solve complex tasks in house-like environments,  with the human-in-the-loop of the interaction process. the irosa group  has access to two bi-manual manipulator robots tiago++ by pal robotics,  a dedicated optitrack motion capture system, kinect azure, and realsense  cameras, a cluster for accelerated computing, etc. dr. chalvatzaki completed her ph.d. studies in 2019 at the intelligent  robotics and automation lab at the electrical and computer engineering  school of the national technical university of athens, greece, with her  thesis ?human-centered modeling for assistive robotics: stochastic  estimation and robot learning in decision making.? during her career,  she has worked on eight research projects, and she has published more  than 35 papers (google scholar  <https://urldefense.com/v3/__http://scholar.google.gr/citations?user=mlho5fkaaaaj&hl=el__;!!lir3w8kk_xxm!88kkgvjcow2myj70kolirbzirnuxk_2xvplqstrjdvpkwcggj1ibhy65tm7q9qwxggnqjstx$ >), most of  which in top-tier robotics and machine learning venues, e.g., icra,  iros, ra-l. her research at the computer science department of tu  darmstadt has been about human-robot collaboration and joint action. in  her recent work, she focused on robotic grasping, manipulation, and  motion prediction, introducing novel methods for orientation attentive  grasp synthesis, accelerated skill learning, and human intention  prediction. the*ias*group of tuda (https://urldefense.com/v3/__https://www.ias.informatik.tu-darmstadt.de/__;!!lir3w8kk_xxm!88kkgvjcow2myj70kolirbzirnuxk_2xvplqstrjdvpkwcggj1ibhy65tm7q9qwxgeqliex5$ ) is  considered one of the strongest robot learning groups in europe with  expertise ranging from the development of novel machine learning methods  (e.g., novel reinforcement learning approaches, policy search, imitation  learning, regression approaches, etc.) over semi-autonomy of intelligent  systems (e.g., shared control, interaction primitives,  human-collaboration during manufacturing) to fully autonomous robotics  (e.g., robot learning architectures, motor skill representation  acquisition & refinement, grasping, manipulation, tactile sensing,  nonlinear control, operational space control, robot table tennis). ias  members are well-known researchers both in the machine learning and the  robotics community. the lab collaborates with numerous universities in  germany, europe,? the usa, and japan as well as companies such as abb,  honda research, franka emika, and porsche motorsport.? the irosa and  the? ias lab are located in the city center campus of tu-darmstadt close  to the beautiful herrngarten park. *about tu darmstadt* tu darmstadt is one of germany?s top technical universities and is well  known for its research and teaching. it was one of the first  universities in the world to introduce electrical engineering programs,  and it is germany?s first fully autonomous university. more information  can be found  onhttps://en.wikipedia.org/wiki/technische_universit%c3%a4t_darmstadt *about darmstadt* darmstadt is a well-known high-tech center with essential activities in  spacecraft operations (e.g., through the european space operations  centre, the european organization for the exploitation of meteorological  satellites), chemistry, pharmacy, information technology, biotechnology,  telecommunications, and mechatronics, and consistently ranked among the  top high-tech regions in germany. darmstadt?s important centers for  arts, music, and theatre allow for versatile cultural activities, while  the proximity of the odenwald forest and the rhine valley allows for  many outdoor sports. the 33,547 students of darmstadt?s three  universities constitute a significant part of darmstadt?s 140,000  inhabitants. darmstadt is located close to the center of europe. with  just 17 minutes driving distance to the frankfurt airport (closer than  frankfurt itself), it is one of europe?s best-connected cities. most  major european cities can be reached within less than 2.5h from darmstadt."

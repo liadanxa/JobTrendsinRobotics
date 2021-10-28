@@ -1,0 +1,1297 @@
+,year,subject,content
+0,2005,1x postdoc and 1x phd student position at the international university bremen (iub),"1x postdoc and 1x phd student position at the international university 
+bremen (iub)
+
+the positions are within the project “learning of 3-dimensional maps of 
+unstructured environments on a mobile robot” funded by the deutsche 
+forschungsgemeinschaft (dfg). the project deals with learning a three 
+dimensional representation of an unstructured indoor environment by an 
+autonomous mobile robot. as demonstrator scenario, the system will be 
+implemented on the iub rescue robots operating in a practice disaster 
+scenario.
+
+the ideal candidates have a background in mobile robotics and they are 
+experienced with research in the field of mapping. strong programming 
+skills in c/c++ and knowledge of linux are required. possible additional 
+assets are experiences with embedded hard- and software, know-how about 
+off-the-shelf sensors for localization and obstacle sensing, or some 
+previous research in the area of vision. for the postdoc position, some 
+experience with project management is desirable.
+
+the international university bremen (www.iu-bremen.de) is a private 
+university located in north germany. the working language at iub is 
+english. applications should be send by september 15, 2005 to prof. dr. 
+andreas birk ( a.birk at iu-bremen.de). late applications will be 
+considered until the positions are filled.
+
+
+-- 
+==========================================================
+prof. dr. andreas birk
+==========================================================
+international university bremen
+school of engineering and science
+
+research 1, campus ring 12, 28759 bremen, germany
+
+a.birk at iu-bremen.de, http://www.faculty.iu-bremen.de/birk/
+==========================================================
+"
+1,2005,"open phd position announcement at ai lab, university of zurich","----------------------------------
+
+open phd position announcement
+
+artificial intelligence laboratory
+university of zurich, switzerland
+
+----------------------------------
+
+one fully funded phd student position will be available from
+1st of october, 2005 at the artificial intelligence laboratory,
+university of zurich, switzerland (lab director: rolf pfeifer, project
+leader: fumiya iida).
+
+this is a position in a newly established project called ""from
+locomotion to cognition"" funded by the swiss national science
+foundation. the goal of the project is twofold: first, we want to make
+inroads into the fundamental question of how the low-level dynamics
+(such as dynamic legged locomotion) can be related to higher-level
+cognitive or symbolic processes, or stated differently how cognition can
+be “grounded” in embodiment. second, we will show that by providing an
+appropriate framework to approach this philosophical issue, we can
+actually design better robots. in this sense, we hope to make
+theoretical contributions to artificial intelligence and cognitive
+science, but also to make progress in very practical engineering terms.
+for experimental work of this project, candidates are expected to have a
+strong motivation in designing/building physical mechanical systems, and
+basic programming skill for control, simulation and data analysis.
+
+applicants should have a msc in one of the following disciplines (but
+other areas are also possible):
+
+* mechanical, electronic engineering and/or robotics
+* physics, biology and/or biomechanics
+* embodied cognitive science
+
+proficiency in writing/spoken english is mandatory (preferably
+native-level). phd students will be requested to do class assistance and
+communicating with leading scientists world wide as a part of the job.
+
+to apply for the position, please send a letter of motivation along with
+a cv and two academic references to rolf pfeifer (pfeifer at ifi.unizh.ch).
+for further information, please contact: fumiya iida (iida at ifi.unizh.ch).
+
+deadline for applications: 30.11.2005
+(we will close this call as soon as we fix the position.)
+
+for more information:
+university of zurich: www.unizh.ch
+artificial intelligence laboratory: www.ifi.unizh.ch/ailab/
+
+
+
+-- 
+fumiya   iida
+
+artificial intelligence laboratory
+department of informatics, university of zurich
+andreasstrasse 15, ch-8050 zurich, switzerland
+office: and2.05
+
+phone:  +41-44-635 43 54
+fax;  +41-44-635 45 07
+url: http://www.ifi.unizh.ch/ailab/people/iida/
+e-mail: iida at ifi.unizh.ch"
+2,2005,"phd studentship in slam using vision at imperial college, uk","                        imperial college london
+                        department of computing
+                   phd studentship in computer vision
+
+a phd studentship is available within the visual information processing 
+(vip) group of the department of computing. the position is for three 
+years, and covers fees and a tax-free bursary with london weighting. 
+only uk and other european union nationals are eligible to apply.
+
+the studentship, under the supervision of dr. andrew davison, is 
+associated with a project developing new techniques in real-time 
+simultaneous localisation and mapping (slam) using computer vision. this 
+is technology with a wide range of applications including autonomous 
+robot navigation, wearable computing, augmented reality and interactive 
+entertainment. applicants will need to have a good honours degree in 
+computer science, engineering, mathematics, physics or other related 
+areas and be able to demonstrate a strong mathematical background. high 
+levels of interest and ability in computing and programming are also 
+desirable.
+
+the department of computing at imperial college was rated 5* at the last 
+rae (research quality assessment), and has been placed among the top ten 
+departments worldwide by several academic surveys. there is extensive 
+expertise in all branches of computing, including distributed systems, 
+high-performance computing, software engineering, computer vision, and 
+biomedical image processing. detailed information about the department 
+and its research areas can be found at http://www.doc.ic.ac.uk. informal 
+queries can be directed to: ajd at doc.ic.ac.uk.
+
+applicants should complete an application form, downloadable from 
+http://www.imperial.ac.uk/publications/pgapp/pg1_2004.pdf, including a 
+full cv plus names and addresses of three referees.
+
+please return completed application forms (clearly marked slam 
+studentship) to:
+
+duncan sillato
+department of computing
+imperial college
+180 queen’s gate
+london
+sw7 2az
+uk
+
+closing date: 31 october 2005
+
+imperial college is striving towards equal opportunities.
+
+-- 
+-------------------------------------------
+dr. andrew davison
+lecturer and epsrc advanced research fellow
+department of computing
+imperial college london
+huxley building room 306
+180 queen's gate
+south kensington campus
+sw7 2az, uk
++44-20-75948316
+
+http://www.doc.ic.ac.uk/~ajd/
+ajd at doc.ic.ac.uk
+-------------------------------------------"
+3,2005,post-doc position at carnegie mellon robotics institute,"i have three years of funding for a post-doc in the area of snake robot
+climbing and locomotion. with my research group, this person will develop
+rigorous control laws and path planning algorithms that will enable a
+snake robot to climb, first in a semi-structured and then in an
+unstructured, environment. altough the project does not call for a
+mechanism design, per-say, we are hoping to either adapt an existing
+snake robot or build an inexpensive proof-of-concept device.
+
+naturally, the candidate must have a deep background in control theory,
+differential geometry, motion planning, and related topics. moreover, the
+candidate must have experience in putting together experimental set ups on
+real mechanism.
+
+please send all correspondances to both peggy martin (pm1e at andrew.cmu.edu)
+and myself. see http://snakerobot.com for cool videos.
+
+thank you
+howie
+
+howie choset, associate professor
+carnegie mellon university
+newell simon hall 3211
+5000 forbes ave
+pittsburgh, pa 15213
+tel: 412-268-2495
+fax: 412-268-3348
+choset at cs.cmu.edu
+http://voronoi.sbp.ri.cmu.edu/
+"
+4,2005,"post-doc position available at inria rhone-alpes, grenoble (fr) - autonomous navigation in dynamic environments","----------------------
+     post-doctoral proposal
+     ----------------------
+
+the inria e-motion research project-team at inria rhone-alpes is opening a
+post-doctoral position in the field of:
+
+       autonomous navigation in dynamic environments.
+
+
+
+o subject description:
+
+mobivip is a french research project whose purpose is to study, evaluate
+and experiment technologies revolving around novel forms of transportation
+systems based on ""public individual vehicles"" (see
+http://www-sop.inria.fr/mobivip for more details).  public individual
+vehicles are similar to their european counterparts, the cybercars (see
+http://www.cybercars.org).
+
+in this framework, the e-motion group of inria rhone-alpes addresses the
+problem of automated driving in open and dynamic environments. an
+environment is dynamic when it features moving objects and it is open when
+full knowledge about it is not available beforehand (which is typically the
+case of most real environments, in particular roadway-like environments).
+
+the inria e-motion research project-team (formerly known as sharp) has a
+long history in the field of motion autonomy.  it has been involved in a
+number of french, european and international programmes and has
+demonstrated in various occasions different autonomous driving skills with
+real vehicles (parking, platooning, obstacle avoidance).  e-motion has
+developed a number of techniques in fields as different as perception,
+localisation, map building, motion planning, sensory-motor coupling and
+reactive motion execution.
+
+e-motion is currently exploring a motion planning scheme called ""partial
+motion planning"" (pmp) whose purpose is to explicitly deal with the
+constraints imposed by a dynamic environment, in particular the real-time
+constraint imposed by the dynamicity of the environment: the motion planner
+has a limited-time only to compute a motion.
+
+given the intrinsic complexity of motion planning, fulfilling such a
+real-time constraint is in general impossible to guarantee (even with the
+most efficient randomised motion planners existing today).  one way to cope
+cope with this issue is to compute a partial motion only, ie the best
+partial motion given the time available.  in a way, pmp can be seen as a
+compromise between pure motion planning and reactive approaches.
+
+pmp, like reactive approaches, raises a safety issue: what guarantee do we
+have that the robotic system will never find itself in a dangerous
+situation yielding a collision in the future (this issue is critical in
+dynamic environments).
+
+to solve this problem, we believe that the concept of ""inevitable collision
+states"" (ics) can be useful.  an ics is a state such that no matter what
+the future trajectory of a robotic system is, it eventually collides with
+an obstacles.  this concept is general and permits to take into account the
+dynamics of both the robotic system and the moving objects.  clearly, for
+its own safety, a robotic system should never be in one of these ics.
+
+a first version of the pmp algorithm has been developed and implemented on
+the experimental vehicle of the inria research unit located near paris (phd
+of stephane petti).  the primary purpose of this post-doc position is to
+integrate this algorithm onto the experimental vehicle of inria rhone-alpes
+and then to further the work on pmp and ics so as to demonstrate the
+validity of the overall concept on a real car-like vehicle.
+
+
+o requirements (educational and technical background, knowledge of
+  specific material):
+
+  the experimental component of this post-doc will be significant.  it will
+  involve a lot of development on the e-motion experimental platform, a
+  cycab vehicle.  candidates should be motivated and definitely have a
+  taste for this kind of work. former experience in real-time programming
+  and control theory is a plus.
+
+  mobivip being a french programme, fluency in french is very much welcomed
+  (although not technically required).
+
+
+o starting date: as early as possible (december 2005 would be great).
+
+
+o duration: one year.
+
+
+o wages: approximately 1800 euros per month, including standard health
+   coverage.
+
+
+o person to contact (name, email, postal address, url):
+
+  - dr. thierry fraichard
+  - thierry.fraichard at inria.fr
+  - inria rhone-alpes
+    655 avenue de l'europe
+    montbonnot
+    38334 saint ismier cedex
+    france
+  - http://emotion.inrialpes.fr/fraichard
+
+
+o application dossier: applicants should send a small (preferably
+         electronic) dossier featuring:
+
+ - motivation letter,
+ - complete curriculum vitae,
+ - academic background with the courses attended, the grades and the
+   rankings obtained (very important),
+ - list and pointers to selected publications and phd.
+ - recommendation letters,
+ - and any additional information you might find useful.
+
+
+o project web server: http://emotion.inrialpes.fr
+
+
+    thierry fraichard, september 12, 2005"
+5,2005,"postdoc, ph.d. openings, swiss fed. inst. tech. (eth), zurich","the institute of robotics and intelligent systems at the swiss federal institute of technology (eth), zurich has immediate openings for a postdoc and two ph.d. students in the areas of microrobotics and nanorobotics. please see our website www.iris.ethz.ch for more details.
+
+prof. dr. bradley nelson
+swiss federal institute of technology (eth), zurich
+professor of robotics and intelligent systems
+
+eth zürich
+institut für robotik und intelligente systeme (iris)                   www.iris.ethz.ch
+tannenstrasse 3, cla h15.2                                                 tel:    +41 44 632 55 29
+ch-8092 zürich, switzerland                                                  fax:  +41 44 632 10 78
+
+-------------- next part --------------
+an html attachment was scrubbed...
+url: http://duerer.usc.edu/pipermail/robotics-worldwide/attachments/20050907/fedc9250/attachment.html
+"
+6,2005,postdoctoral post at oxford university," - advert -
+
+postdoctoral research assistant in mobile robotics.
+
+applications are invited from suitably qualified candidates for the above
+position.  this post is available initially for 12 months with an
+anticipated continuation of up to three years.
+
+the successful candidate will have a doctoral degree in estimation, mobile
+robotics, computer vision or a closely related area in computer science and
+an understanding of the simultaneous localisation and mapping (slam) problem
+and contemporary approaches.  you will also need to have a strong
+familiarity with optimisation techniques especially those commonly used for
+tasks in computer vision.  excellent proven ability in software writing and
+debugging skills in c++ and matlab, demonstrated ability to work as part of
+a team, experience in validation of algorithms using real data and the
+ability to work to deadlines are essential.  a background in computer vision
+/ robotics, a knowledge of systems engineering and a desire to to work in an
+energetic group of researchers are highly desirable.
+
+the starting salary will be in the ra1a scale £19460 - £23643
+
+further particulars may be obtained from www.eng.ox.ac.uk or mr c j
+scotcher, the senior administrator, university of oxford, department of
+engineering science, parks road, oxford, ox1 3pj, or by email to
+administrator at eng.ox.ac.uk ; to whom written applications should be made
+enclosing a curriculum vitae and the names and addresses of two referees.
+
+please quote df05066 in all correspondence.
+
+the closing date for applications is 30th september 2005
+
+"
+7,2005,"phd studentships in mobile robotics at ntu, singapore.","nanyang technological university, singapore
+
+department of electrical & electronic engineering
+
+ph.d. scholarship positions in mobile robotics
+
+ 
+
+ph.d. positions are available within the mobile robotics group, school
+of electrical & electronic engineering, ntu, singapore. each phd
+scholarship position is for 3 years, and covers university tuition fees,
+and a scholarship of approximately sgd 1,600.00 per month, and all
+nationalities are invited to apply. subsidized housing is available on
+campus.
+
+ 
+
+the positions, under the supervision of dr. martin adams
+http://www.ntu.edu.sg/home/eadams and dr. sardha wijesoma
+http:/www.ntu.edu.sg/home/eswwijesoma
+<http://www.ntu.edu.sg/home/eswwijesoma>  are linked to a project
+entitled ""collaborative autonomous systems for built environments"" in
+which several outdoor mobile robots are to navigate in built-up, outdoor
+environments, for the applications of collaborative surveillance and
+road cleaning. this project covers many robotics technologies from the
+processing and fusion of sensor data (radar, ladar and vision),
+environmental perception, image processing & computer vision, and
+machine learning.
+
+ 
+
+candidates are required to have a good honours degree in engineering,
+computer science, physics or another related field and must demonstrate
+a strong back ground in mathematics, programming and systems
+engineering.
+
+ 
+
+the ability to work with a highly motivated research team on both
+theoretical and practical problems is essential.
+
+ 
+
+further information regarding the position can be obtained by contacting
+the supervisors at eadams at ntu.edu.sg and/or eswwijesoma at ntu.edu.sg. 
+
+ 
+
+applicants should complete an application form downloadable from
+http://www.ntu.edu.sg/personnel/adminres/staffrec/research.pdf and send
+this, together with a full cv, copies of transcripts and three completed
+reference reports (under confidential cover) to:
+
+ 
+
+assoc. prof. martin adams 
+nanyang technological university 
+school of electrical & electronic engineering 
+block s2 
+nanyang avenue 
+singapore 639798
+
+ 
+
+ 
+
+ 
+
+ 
+
+************************************************************ 
+martin adams 
+nanyang technological university 
+school of electrical & electronic engineering 
+block s2 
+nanyang avenue 
+singapore 639798 
+
+email:        eadams at ntu.edu.sg 
+homepage: http://www.ntu.edu.sg/home/eadams/ 
+tel:            ++65 6790 4361 
+fax:           ++65 6792 0415 
+********************************************************** 
+
+ 
+
+-------------- next part --------------
+an html attachment was scrubbed...
+url: http://duerer.usc.edu/pipermail/robotics-worldwide/attachments/20051003/e112cf2f/attachment.html"
+8,2005,"postdoctoral researcher, computer-aided surgery","postdoctoral researcher, computer-aided surgery
+columbia university
+
+the robotics laboratory in the department of computer science and the
+minimal access surgery center at columbia university are seeking a
+postdoctoral researcher to assist in the development of a novel
+insertable imaging device for minimally invasive surgery. qualifications
+include a ph.d. in mechanical engineering, biomedical engineering or
+related discipline, with a solid knowledge of mechanical design and
+electronics interfacing. the initial appointment is for 1 year which may
+be renewed for an additional year. columbia university is one of the
+leading research universities in the united states, and new york city is
+one of the cultural, financial, and communications capitals of the world.
+columbia's campus is located in morningside heights on the upper
+west side of manhattan.
+
+applicants should email a cv, including the names of at least 3
+references, to professor peter allen:: allen at cs.columbia.edu
+
+job posting: www.cs.columbia.edu/~allen/postdoc
+project details: www.cs.columbia.edu/~amiller/camera
+"
+9,2005,"open phd position announcement at ai lab, university of zurich","----------------------------------
+
+open phd position announcement
+
+artificial intelligence laboratory
+university of zurich, switzerland
+
+----------------------------------
+
+one fully funded phd student position will be available immediately or 
+upon agreement at the artificial intelligence laboratory, university of 
+zurich, switzerland (lab director: prof. dr. rolf pfeifer, project 
+leader: gabriel gomez).
+
+this is a position in a project called ""robotcub (robotic open 
+architecture technology for cognition, understanding and behaviors)"" 
+funded by the european commission through unit e5 ""cognition"". the 
+project's main goal is to study cognition through the implementation of 
+a 54 degree-of-freedom humanoid robot. this is an open project (e.g., 
+open distribution of robot platform, open source software development).
+
+the candidates are expected to work on topics such as cognitive 
+development, neural networks, learning, sensorimotor coordination 
+(reaching, grasping, exploration, manipulation), object affordance, etc. 
+they are expected to have a strong motivation in designing/building 
+physical mechanical systems, and programming skills for control, 
+simulation and data analysis.
+
+applicants should preferably have an msc in one of the following 
+disciplines:
+
+* mechanical engineering
+* electronic engineering
+* robotics
+
+candidates from other disciplines are also welcome if they demonstrate 
+skills in the above-mentioned areas.
+
+proficiency in writing/spoken english is mandatory (preferably 
+native-level). phd students will be requested to do some class 
+assistance and communicate with leading scientists world wide as part of 
+the job.
+
+to apply for the position, please send a letter of motivation along with 
+a cv, certificates, and two academic references to rolf pfeifer 
+(pfeifer at ifi.unizh.ch) with cc to claudia wirth (wirth at ifi.unizh.ch). 
+for further information, please contact gabriel gomez (gomez at ifi.unizh.ch).
+
+deadline for applications: 20.12.2005
+(we will close this call as soon as we fix the position.)
+
+for more information please refer to
+university of zurich: www.unizh.ch
+artificial intelligence laboratory: www.ifi.unizh.ch/ailab/
+robotcub project: http://www.robotcub.org/
+
+-- 
+
+gabriel gomez
+
+*************************************
+gabriel gomez
+ph.d. candidate
+artificial intelligence laboratory
+department of informatics
+university of zurich
+andreasstrasse 15,
+ch-8050 zurich,
+switzerland
+tel: + 41 1 635 67 22
+*************************************"
+10,2005,opening - chair of cs at rpi,"i have completed my term as chair of the cs dept at rpi and now plan
+to return to the faculty to focus on research and educational programs
+relating to robotics.  thus the department is seeking a new
+chairperson (see our ad at http://www.cs.rpi.edu/news/positions.html).
+  a strength of the cs department is its research group spanning
+robotics, graphics, and computer vision.  the landgraf center for
+computer vision, graphics, and robotics (approximately 7000 sq ft of
+renovated laboratory and office space) will be completed in december
+of 2005.  the space is shared among seven faculty: chuck stewart,
+daniel freedman, barbara cutler, wes huang, srinivas akella, volkan
+isler, and me.
+  there are several other factors that give the chair of cs at rpi
+opportunities to achieve great things.  rpi's administration is
+planning to continue the growth of the department beyond our current
+size of 25 tenure track faculty to 31.  in addition to a new
+chairperson, this year we are seeking to fill several new tenure track
+faculty positions. see http://www.cs.rpi.edu/news/positions.html for
+our official ads.  in addition, rensselaer has a number of open
+chaired professorships in areas related to computer and information
+sciences.  the chair of cs will play a dominant role in filling these
+chairs.
+  also, the cs department is well-positioned to take advantage of two
+large infrastructure investments made by rensselaer in recent years. 
+the $150m experimental media and performing arts center (coming on
+line in 2008 - see http://www.rpi.edu/about/empac.html) and the new
+$100m biotechnology and interdisciplinary studies center
+(http://www.rpi.edu/research/biotech/index.html).
+   feel free to call me with questions.
+
+jeff
+
+--
+jeffrey c. trinkle, chair
+department of computer science
+rensselaer polytechnic institute
+110 8th street                                518-276-4033 (fax)
+troy, ny 12180-3590                      518-276-8291 (voice)"
+11,2005,phd studenships available,"the idiap research institute (http://www.idiap.ch) seeks qualified
+candidates for phd positions in the field of brain-computer interfaces.
+the applicant will work in the framework of european and swiss projects
+related to noninvasive brain-actuated control of robots (i.e., the use
+of brain signals to control a wheelchair and a robot arm).
+
+the ideal candidate will hold a degree in computer science, biomedical
+engineering, or related fields. she or he should have good background in
+intelligent/adaptive robotics and statistical machine learning, as well
+as excellent programming skills in c/c++. knowledge of physiological
+signal processing is a plus.
+
+appointment for the phd position is for a maximum of 4 years, provided
+successful progress, and should lead to a phd dissertation. annual gross
+salary ranges from 36,000 swiss francs (first year) to 40,000 swiss
+francs (last year). starting date is immediate.
+
+idiap is an equal opportunity employer and is actively involved in the
+european initiative involving the advancement of women in science. idiap
+seeks to maintain a principle of open competition (on the basis of
+merit) to appoint the best candidate, provides equal opportunity for all
+candidates, and equally encourages both females and males to consider
+employment with idiap.
+
+although idiap is located in the french part of switzerland, english is
+the main working language. free english and french lessons are provided.
+
+idiap is located in the town of martigny (http://www.martigny.ch) in
+valais, a scenic region in the south of switzerland, surrounded by the
+highest mountains of europe, and offering exciting recreational
+activities, including hiking, climbing and skiing, as well as varied
+cultural activities. it is within close proximity to montreux (jazz
+festival) and lausanne.
+
+interested candidates should send a letter of motivation outlining
+qualifications for the position, along with their detailed cv and names
+of 3 references to jobs at idiap.ch. more information can also be obtained
+by contacting josé del r. millán (jose.millan at idiap.ch).
+
+-- 
+josé del r. millán
+senior researcher, idiap research institute
+professor, swiss federal institute of technology lausanne (epfl)
+idiap. rue du simplon 4. 1920 martigny. switzerland
+tel: +41-27-7217.770   fax: +41-27-7217.712
+jose.millan at idiap.ch"
+12,2005,"postdoctoral fellowship in machine learning and robotics in edinburgh, uk.","applications are invited for a postdoctoral research fellow in the
+area of machine learning and robotics as part of an eu-ist fp6 funded
+four year project ""sensopac - sensorimotor structuring of perception
+and action"". the post is available from jan. 2006 for a maximum of
+48 months and located in the school of informatic at the university
+of edinburgh. salary is on the ra1a scale (gbp 20,044 to gbp 30,002)
+and will depend upon qualifications and experience.
+
+the postdoctoral fellow will be responsible for developing statistical
+machine learning techniques for automatically extracting sensorimotor
+contingences from dynamic and kinematic movement data (collected from
+robots and human experiments) and using this to learn latent model
+representations of various contexts and tasks. this will involve basic
+research in the fields of high dimensional, online nonparametric
+regression, bayesian model selection and latent model learning as well
+as applied areas of adaptive motor control and robotics.
+
+candidates are expected to have a phd in the area of machine learning
+and/or adaptive motor control and strong mathematical skills in the
+area of optimization, algebra and probability theory in addition to
+strong programming skills in c, c++, matlab or equivalent. some
+experience with real world robotic systems and motor control is a plus.
+
+more details of the job and the research group can be found at:
+http://www.ipab.inf.ed.ac.uk/slmc/index.html
+
+online applications are encouraged at:
+http://www.jobs.ed.ac.uk/vacancies/index.cfm?fuseaction=vacancies.detail&amp;vacancy_ref=3005309
+application deadline: december 20, 2005
+
+informal enquiries may be addressed to:
+dr. sethu vijayakumar (sethu.vijayakumar [at] ed.ac.uk)
+
+dr. marc toussaint (mtoussai [at] inf.ed.ac.uk) will be available at
+nips for an informal discussion/interview.
+
+(please advertise in your department using the attached flyer)
+(we will continue to accept applications till the post is filled)
+
+-- 
+------------------------------------------------------------------
+sethu vijayakumar, ph.d.          assistant professor(uk lecturer)
+director, ipab, school of informatics, the university of edinburgh
+2107f jcmb, the kings buildings, edinburgh eh9 3jz, united kingdom
+url: http://homepages.inf.ed.ac.uk/svijayak ph: +44(0)131 651 3444
+slmc research group url: http://www.ipab.informatics.ed.ac.uk/slmc
+------------------------------------------------------------------
+adjunct assistant professor,
+department of computer science,  university of southern california
+------------------------------------------------------------------
+-------------- next part --------------
+a non-text attachment was scrubbed...
+name: postdoc_edin.doc
+type: application/msword
+size: 101888 bytes
+desc: not available
+url : http://duerer.usc.edu/pipermail/robotics-worldwide/attachments/20051129/298282ec/postdoc_edin-0001.doc"
+13,2005,ra/postdoc & phd in grounding language with a robot,"many people used to talk about using robots to ground semantics -- now 
+some lucky people can make a fair living in an awesome city while 
+actually trying to do so...
+
+
+joanna
+
+dr. joanna j. bryson             artificial models of natural intelligence
+                                                        university of bath   
+                              http://www.bath.ac.uk/comp-sci/ai/amoni.html
+-------------- next part --------------
+        university of edinburgh, school of informatics
+
+
+
+
+
+  research fellowship and research associate/phd studentship
+
+
+
+                             in
+
+
+
+    computational linguistics and artificial intelligence
+
+
+
+
+
+the institute for communicating and collaborative processes/human
+
+communication research center, in the school of informatics,
+
+university of edinburgh, seeks a research fellow and a research
+
+associate/phd student to work on an eu fp6 ist-funded project
+
+paco-plus, to develop grounded object-centered symbolic
+
+representations for action planning and language acquisition for a
+
+manipulating robot.
+
+
+
+*** note short deadline---contact mark steedman if it's a problem ***
+
+
+
+=========================
+=========================
+========================
+
+
+
+research fellowship in computational linguistics and artificial intellige
+nce
+
+
+
+vacancy details
+
+
+
+    * vacancy reference: 3005174
+
+    * department: informatics
+
+    * principal investigator: prof. mark steedman
+
+    * job title: research fellow
+
+    * job function: research
+
+    * job type: full time
+
+    * closing date: 01-dec-2005
+
+    * salary scale: ?20,044 - ?36,959
+
+
+
+
+
+the aim of the multi-site eu ist-funded project paco-plus is to
+
+semiautomatically induce a grounded knowledge representation for
+
+planning and reasoning about object-oriented action by a robot.  the
+
+edinburgh component is to develop an associated semantic
+
+representation, supporting grammar induction. responsibilities of the
+
+post include assisting in the theoretical development of the research,
+
+and helping to advise a graduate student supported by the
+
+project. they also include liaison and integration with other
+
+partners, in particular the karlsruhe robotics group.
+
+
+
+the successful candidate will have a phd or msc by research in the
+
+areas of artificial intelligence, planning and/or natural language
+
+processing. they will have strong programming skills in java and/or
+
+python or equivalent. knowledge of parsing technologies and machine
+
+learning techniques is a plus.
+
+
+
+fixed term: 48 months
+
+
+
+
+
+application details: 
+
+
+
+          http://www.inf.ed.ac.uk/events/vacancies/index.html
+
+
+
+=========================
+=========================
+========================
+
+
+
+research associate/phd student in computational linguistics 
+
+    and artificial intelligence
+
+
+
+vacancy details
+
+
+
+    * vacancy reference: 3005178
+
+    * department: informatics
+
+    * principal investigator: prof. mark steedman
+
+    * job title: research associate/phd student
+
+    * job function: research
+
+    * job type: full time
+
+    * closing date: 01-dec-2005
+
+    * salary scale: ?20,044 - ?30,022
+
+
+
+the aim of the multi-site eu ist-funded project paco-plus is to
+
+semiautomatically induce a grounded knowledge representation for
+
+planning and reasoning about object-oriented action by a robot.  the
+
+edinburgh component is to develop an associated semantic
+
+representation, supporting grammar induction. responsibilities of the
+
+post include assisting in the theoretical and practical development of
+
+the research.  the successful candidate will either already have, or
+
+be expected to do research towards, a phd degree under the pi's
+
+supervision.
+
+
+
+the successful candidate will have a degree in computer science or
+
+equivalent and some knowledge of natural language processing and/or
+
+artificial intelligence planning and reasoning methods. strong
+
+programming skills are essential.
+
+
+
+fixed term: 48 months
+
+
+
+application details: 
+
+
+
+          http://www.inf.ed.ac.uk/events/vacancies/index.html
+
+
+
+
+
+=========================
+=========================
+========================"
+14,2005,associate professorship in modern ai & robotics,"*associate professor in research on modern artificial intelligence and 
+robotics*
+
+*job description:*
+
+applications are invited for a position as associate professor in modern 
+artificial intelligence and robotics at the maersk mc-kinney moller 
+institute for production technology, the university of southern denmark, 
+in odense, starting on 1 april 2006 or as soon as possible 
+thereafter.the institute performs internationally-oriented research in 
+robotics, software engineering and modern artificial intelligence, and 
+the successful applicant will mainly be involved in research and 
+development activities in the field of modern artificial intelligence 
+and robotics.
+
+the successful applicant will form part of the institute's research on 
+modern artificial intelligence within the adaptronics group 
+(www.adaptronics.dk), the main focus of which is morphology, materials 
+and control for development of robots and intelligent artefacts. the 
+adaptronics group's research on modern artificial intelligence is 
+focused on the role of morphology in development of intelligence. 
+therefore, it is desirable that applicants have an interest in and 
+empirical experience with this kind of modern artificial intelligence as 
+well as hands-on experience with robots.
+
+the adaptronics group develops robotic building blocks that create 
+global behaviour through their composition. this allows everyday users 
+to employ and develop robotic artefacts and this is the reason why the 
+group, in addition to technology, takes a great interest in areas such 
+as interaction design for development of robotics in products and use 
+such as toys, playgrounds, hospital equipment, etc.
+
+the adaptronics group is internationally known for its state-of-the-art 
+research in the fields mentioned above exemplified by robocup humanoids 
+free style world championship 2002, the atron modules for 
+self-configuration, african i-blocks, and the playware playgrounds. the 
+vacancy requires an associate professor that is able to participate in 
+this work at high, international level.
+
+the person appointed is, to an extent to be agreed upon, expected to 
+teach and instruct students enrolled at the university of southern 
+denmark, who participate in courses or do projects as part of their 
+computer systems engineering study programme. the person appointed may 
+expect to be involved in other work activities as well.
+
+an expert committee will assess applications and the applicants will be 
+informed of their assessment by the university.
+
+for further information please contact professor henrik hautop lund, 
+tel. +45 6550 3575, e-mail: hhl at mip.sdu.dk and/or by visiting the web 
+site of the university: http//www.sdu.dk
+
+
+*application, salary, etc.:*
+
+the successful applicant will be employed in accordance with the 
+agreement between the ministry of finance and ac (the danish 
+confederation of professional associations)
+
+. a curriculum vitae with paper qualifications
+. a list of all publications plus a list of 5-10 of the most relevant 
+publications (these publications must be enclosed)
+. a research program for the first three years
+. documentation of previous teaching experience
+
+all enclosures must be numbered, state the applicants name, and be 
+assembled in sets.
+
+the university encourages all interested persons to apply, regardless of 
+age, gender, religious affiliation or ethnic background.
+
+please send 4 copies of the application including all enclosures, marked 
+""position no. 063001"" to: det naturvidenskabelige fakultetssekretariat, 
+campusvej 55, dk-5230 odense m, denmark.
+
+the closing date is 2 february 2006 at 12:00
+
+-------------- next part --------------
+an html attachment was scrubbed...
+url: http://duerer.usc.edu/pipermail/robotics-worldwide/attachments/20051230/7cd9847c/attachment.html"
+15,2005,faculty hiring at the carnegie mellon robotics institute,"the robotics institute at carnegie mellon university is interviewing
+candidates for research, teaching, and systems faculty tracks this year.
+we are focusing our search on intelligent prosthetics, humanoids, and
+robotic systems engineering but we are interested in strong candidates
+in all areas relevant to the robotics institute.
+
+for details on how to apply please see the carnegie mellon school of
+computer science advertisement:
+
+http://www.cs.cmu.edu/~burks/facultysearch.html
+
+please send me an email when you apply so that i can track your
+application.
+
+     jessica hodgins 
+     chair, hiring committee
+     jkh at cs.cmu.edu"
+16,2005,faculty positions in robotics and control,"faculty positions in control and mechatronic engineering
+  shenzhen graduate school of harbin institute of technology (hit)
+
+hit shenzhen graduate school is  a publicly funded institute located in
+the center of china's silicon valley-the shenzhen high tech park.  the
+school's division of control and mechatronic engineeirng  has an intake
+of 50 mphil  students, 15 phd students  and 5 postdoctors per year.  new
+faculty members will have the opportunity to participate in building the
+division and moving it forward in exciting new directions. ample
+opportunities  also exist for  collaborating with the vast
+manufacturing, it and other high-tech industries in the region. strong
+applicants   with expertise in control, systems, computer vision,
+robotics, manufacturing, mechatronics and other related areas will be
+considered (the medium of instruction is english).  the appointments
+will be made at the level of assistant professor, associate professor,
+full professor or  industry endowed chair professor (applications for
+visiting appointments will also be considered).
+
+the salary level for these positions is much higher than the norm in
+china, with chair professor in the range of rmb260k to 360k per year,
+full professor in the range of rmb130k to 200k per year,
+assistant/associate professor in the range of rmb90k to 120k per year.
+interested candidates can send a cv and a statement on  research plan,
+together with a cover letter including names of three referees to
+professor z.x. li, division of control and mechatronic engineering, hit
+shenzhen graduate school, shenzhen, china. (email: eezxli at ust.hk)"
+17,2005,job announce,"hello!
+anthrotronix, incorporated is looking for candidates for a sr. position 
+- director of robotics research.  please pass this job announcement on 
+to anyone you think might be interested.
+best,
+corinna lathan, pe, phd
+president and ceo
+anthrotronix, inc.
+---------------------
+
+job announcement:
+director of robotics research
+anthrotronix, inc.
+silver spring, maryland
+
+anthrotronix mission:
+to build innovative technology with passion and integrity that empowers 
+our customers and inspires our employees.
+
+perspective applicants should have a ph.d. in a robotics related field 
+such as mechanical, electrical, or software engineering. experience 
+with product development, manufacturing, and team management desirable. 
+perspective applicants should be prepared to assume a leadership role 
+in building anthrotronix’ research division and lead the efforts to 
+transfer technology from research to product.  applicants will have the 
+opportunity to manage and implement multiple projects with a dedicated 
+and growing team.
+
+about anthrotronix:
+anthrotronix (atinc) is an engineering r and d company founded in 1999 
+to develop advance human-technology interfaces for computer-based 
+technology such as wearable computers and robotics.  atinc is a member 
+of the agile robotics alliance - an initiative of the national center 
+for defense robotics - and part of the rehabilitation engineering 
+research center on telerehabilitation  atinc is located in the heart of 
+the newly renovated silver spring business district (also montgomery 
+county’s art district), only five metro stops from the nation’s 
+capitol.
+
+atinc is developing human-robot controllers for the department of 
+defense and integrating with robots systems for the dismount solder. 
+other applications of interest include robots for search and rescue, 
+medical, and homeland security applications. atinc is also developing 
+cosmo’s learning systems, which includes an interactive robot for 
+children with disabilities.  cosmobot can be controlled by video-based 
+gestures, wearable sensors, speech, and mission control – a unique 
+computer interface. collaborators include mit, univ. of pittsburgh, the 
+national rehabilitation hospital, the university of maryland, 
+georgetown university, the catholic university of america, and 
+lockheed-martin advanced technology laboratories.  current funders 
+include nasa, the u.s. army, nsf, nih, cure autism now, and the 
+department of education.
+
+email cv and letter of introduction to:
+charlotte safos
+csafos at atinc.com
+8737 colesville rd.  10th floor
+silver spring, md 20910
+phone: 301-495-0770
+fax: 301-585-9075
+http://www.atinc.com/
+
+
+
+http://www.atkidsystems.com/     ***new!!!!
+**********************************************************
+corinna (cori) e. lathan, ph.d.
+president and ceo
+anthrotronix, inc.
+8737 colesville rd.  10th floor
+silver spring, md 20910
+phone: 301-495-0770 x346
+fax: 301-585-9075
+mobile: 240-498-9471
+lathan at alum.mit.edu
+
+http://www.atinc.com/
+-------------- next part --------------
+a non-text attachment was scrubbed...
+name: not available
+type: text/enriched
+size: 3167 bytes
+desc: not available
+url : http://duerer.usc.edu/pipermail/robotics-worldwide/attachments/20051223/d99733ab/attachment.bin"
+18,2005,ph.d. research opportunities,"the international university bremen (iub) offers the cs graduate program
+""smartsystems"" with strong robotics related components. there are
+various funding options both on the master as well as on the phd level.
+the next round of applications starts soon in january.
+
+the general description of the program and especially information about
+how to apply is attached below. questions concerning the content of the
+robotics oriented parts can be addressed to prof. andreas birk. please
+note that all general information on the program can be found under
+http://www.eecs.iu-bremen.de/smartsystems/ and that the actual
+application must be done via the admission office of iub as described
+below. questions concerning the application process can be directed to
+mrs. svenja frischholz (s.frischholz at iu-bremen.de).
+
+
+***********************************************************************
+graduate program in computer science
+""smartsystems""
+international university bremen (iub)
+
+http://www.eecs.iu-bremen.de/smartsystems/
+***********************************************************************
+
+as humans we can sense, act, speak, listen, decide and sometimes
+understand.  the 21st century will witness technologies that can do the
+same. we will see cars that negotiate with each other in order to
+optimize traffic flow. our t-shirts may have their own internet
+addresses and tell the manufacturer if they are only rarely worn.
+in addition to their well-established role as programmable
+machine-tools, robots are also more and more used in domains where
+some autonomy and intelligence is necessary. they work under conditions
+where the robot is not constantly supervised by a human operator and
+where it has to be adaptive as its developer can not fully predict which
+situations it will encounter in its application environment.
+
+we all know future descriptions of this kind; we also know that they
+are no longer science fiction, although real future may still look
+quite differently. but whatever route the future takes, it will be
+scientists and engineers who help in shaping it. they will develop
+systems (yet unthinkable) that could likewise be described as robots,
+user interfaces, web agents, enhanced reality or personal assistants.
+
+the international university bremen (iub) takes part in this rapidly
+growing, boldly interdisciplinary enthe intelligent autonomous systems lab
+(http://www.ualr.edu/cxye/laboratory.htm) at the university of arkansas at
+little rock has an open ph.d. research positions in mobile robotics. the
+applicant is expected to work in mobile robot navigation in unstructured
+environments. we are particularly interested in the following areas: (1)
+mobile robot localization and mapping in unstructured environments, (2) 3-d
+range data processing and understanding for autonomous navigation, and (3)
+machine learning for autonomous navigation in unstructured environments. 
+
+the ideal candidate should hold a degree in electrical engineering, computer
+science, or related fields. she or he should have good background in
+control, computer vision or statistical machine learning. excellent
+programming skills in c/c++ are required. experience with programming in
+linux operating system is a plus.
+
+general guideline of admission to graduate study at the university is
+referred to the graduate student handbook
+(http://dynamic.appsci.ualr.edu/index_flash.html). the university of
+arkansas at little rock is a dynamic metropolitan university locating at the
+state's capital city, little rock (http://www.littlerock.com
+<http://www.littlerock.com/> ). interested candidates should send a letter
+of application outlining qualifications for the position, along with their
+detailed cv to dr. cang ye (cxye at ualr.edu).
+
+----------------------------------------------------
+cang ye
+assistant professor
+department of applied science
+
+college of system engineering & information science
+university of arkansas at little rock
+2801 south university avenue, etas 575
+little rock, ar 72204
+ph:  (501) 683-7284 fax: (501) 569-8020 
+email: cxye at ualr.edu
+webpage: http://www.ualr.edu/cxye
+
+ 
+
+ 
+
+-------------- next part --------------
+an html attachment was scrubbed...
+url: http://duerer.usc.edu/pipermail/robotics-worldwide/attachments/20051204/48741ae4/attachment.htmldeavor. as part of the iub computer
+science education, the graduate program in smartsystems is offered. it
+integrates a rigorous training in several important disciplines of
+computer science, especially robotics, networks, artificial
+intelligence, databases and the mathematics of complex systems. a
+student acquires in this graduate program the knowledge to work at the
+forefront of technological developments.
+
+the smartsystems program offers the following two degrees, for which a
+variety of funding options and stipends is available:
+
+master of science
+=================
+the m.sc.program takes two years. students on the m.sc.track who excel
+in their first three semesters may enter the ph.d track.
+
+doctor of philosophy (ph.d)
+===========================
+students with an excellent record of achievement in their bachelor's or
+master's studies may apply to directly pursue a ph.d degree at iub. the
+completion of a ph.d degree will typically take three years.
+
+
+the courses in the program start each year on september 1. only a small
+number of students is accepted; the admission to the program is highly
+competitive. admitted students can expect financial support in several
+ways. for the about twenty available places in the program, the fees are
+can be waived. furthermore, there are generous additional stipends for
+excellent students. the result of a gre subject test in computer science
+must be included in the application. there are two rounds of admission
+with respective closing dates on february 1st and may 1st.
+
+detailed information on admission to graduate studies at iub and the
+related forms can be found at:
+
+http://www.iu-bremen.de/affairs/graduatedegrees/27765/
+
+
+***********************************************************************
+cs graduate program ""smartsystems""
+http://www.eecs.iu-bremen.de/smartsystems/
+***********************************************************************"
+19,2005,ph.d. research opportunities,"the intelligent autonomous systems lab (http://www.ualr.edu/cxye/laboratory.htm) at the university of arkansas at little rock has an open ph.d. research positions in mobile robotics. the applicant is expected to work in mobile robot navigation in unstructured environments. we are particularly interested in the following areas: (1) mobile robot localization and mapping in unstructured environments, (2) 3-d range data processing and understanding for autonomous navigation, and (3) machine learning for autonomous navigation in unstructured environments. 
+   
+  the ideal candidate should hold a degree in electrical engineering, computer science, or related fields. she or he should have good background in control, computer vision or statistical machine learning. excellent programming skills in c/c++ are required. experience with programming in linux operating system is a plus.
+   
+  general guideline of admission to graduate study at the university is referred to the graduate student handbook (http://dynamic.appsci.ualr.edu/index_flash.html). the university of arkansas at little rock is a dynamic metropolitan university locating at the state’s capital city, little rock (http://www.littlerock.com). interested candidates should send a letter of application outlining qualifications for the position, along with their detailed cv to dr. cang ye (cxye at ualr.edu).
+   
+  ----------------------------------------------------
+cang ye
+assistant professor
+department of applied science
+  college of system engineering & information science
+university of arkansas at little rock
+2801 south university avenue, etas 575
+little rock, ar 72204
+ph:  (501) 683-7284 fax: (501) 569-8020 
+email: cxye at ualr.edu
+webpage: http://www.ualr.edu/cxye
+   
+
+
+   
+---------------------------------
+yahoo! shopping
+ find great deals on gifts at yahoo! shopping 
+-------------- next part --------------
+an html attachment was scrubbed...
+url: http://duerer.usc.edu/pipermail/robotics-worldwide/attachments/20051204/dc4d1c55/attachment-0001.html"
+20,2005,position for a postdoctoral researcher,"applications are called for the following position :
+postdoctoral research fellow / research academic in sensor networks
+a sound theoretical knowledge in communications/control is desirable.
+http://www.deakin.edu.au/hrs/employment/#acad
+ref no: 50489 (click on 'ref no' for position description)
+
+personal details form (click on 'personal details form' and please attach to
+your application)
+
+salary range $42,091 - $57,120 p.a. (plus 17% superannuation)
+salary range $60,130 - $71,403 p.a. (plus 17% superannuation)
+geelong campus at waurn ponds
+the position is full time and fixed term for 3 years
+further information is available from dr pubudu pathirana, on (03) 5227
+2914, pubudu at deakin.edu.au.
+applications (quoting ref no: 50489) should include a full resume and should
+be forwarded to
+chris russo, personnel consultant, human resources services division,
+burwood or via email on
+psm-applications at deakin.edu.au by 21 january 2006
+
+
+
+
+best rgds
+dr pubudu n pathirana
+senior lecturer
+director of mechatronics and robotics programmes.
+school of engineerng and technology
+deakin university
+geelong, victoria 3217.
+australia
+tel : +61 3 52272914
+fax : +61 3 52272167
+mobile: 0407842140
+http://www.deakin.edu.au/~pubudu
+"

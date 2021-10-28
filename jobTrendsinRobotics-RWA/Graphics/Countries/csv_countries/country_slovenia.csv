@@ -1,0 +1,572 @@
+,year,subject,content
+0,2010,research positions at jozef stefan institute,"department of automatics, biocybernetics, and robotics, jozef stefan institute (jsi) in ljubljana,   slovenia  , has several research positions available in the area of cognitive robotics, robot learning, and robot vision (funded phd studentships and postdoctoral positions). the positions are related to new eu fp7 cognitive systems projects and   slovenia  n national projects (principal investigator for these projects at jsi is dr. ales ude). the research topics include
+
+- motor and action learning in large databases of motion capture data
+- observation of human activities by a humanoid visual system
+- learning object categories and affordances on humanoid robots
+- motor learning with dynamic systems
+- robot coaching
+- physical robot-robot and robot-human interaction
+
+the above topics indicate the possible themes of research. precise research programmes will be defined based on interests and abilities of the successful candidates. their research will be conducted on state of the art robotic systems available at jsi and in collaboration with several leading european robotics and cognitive systems research groups who work with jsi on eu fp7 projects.
+
+interested candidates holding a degree in computer science, engineering, or applied mathematics are invited to apply. desired skills include programming in c/c++ and matlab, and prior experience in fields such as robot learning, computer vision, machine learning, and autonomous robots.
+
+to apply you should send a statement of motivation related to one of the above topics (up to one page), a curriculum vitae, scanned transcripts of grades and diplomas, and contact information of at least two referees to ales.ude at ijs.si. applications will be evaluated as they are received, until all positions are filled. the earliest possible starting date is january 1st, 2011."
+1,2011,open research positions at jozef stefan institute,"department of automatics, biocybernetics, and robotics, jozef stefan institute (jsi) in ljubljana,  slovenia , is looking for two new researchers, one at a phd student level and the other at the postdoc level. the successful candidates will work in fp7 ""cognitive systems and robotics"" projects. the possible research themes include:
+
+- imitation learning
+- motor learning with dynamic systems
+- learning object categories and affordances on humanoid robots
+- physical robot-robot and robot-human interaction
+
+precise research programmes will be defined based on interests and abilities of the successful candidates. their research will be conducted on state of the art robotic systems available at jsi and in collaboration with several leading european robotics and cognitive systems research groups who work with jsi on eu fp7 projects. the initial contract will be limited to at most one year with the possibility to extend it.
+
+interested candidates holding a degree in computer science, engineering, or applied mathematics are invited to apply. desired skills include programming in c/c++ and matlab, and prior experience in fields such as robot learning, computer vision, machine learning, and autonomous robots.
+
+for further information regarding the projects, please contact dr. ales ude (ales.ude at ijs.si). to apply you should send a statement of motivation related to one of the above topics (up to one page), a curriculum vitae, scanned transcripts of grades and diplomas, and contact information of at least two referees to ales.ude at ijs.si. applications will be evaluated as they are received, until both positions are filled. successful candidates can start working at jsi as soon as all the paper work is completed."
+2,2011,"phd position in rehabilitation robotics at uclouvain, belgium","phd position in rehabilitation robotics at uclouvain, belgium
+
+the centre for research in mechatronics at uclouvain (belgium) is 
+seeking applications for a phd position in rehabilitation robotics, 
+offered in the framework of a european project on a cognitive prosthesis 
+design. the position should start as soon as possible, and no later than 
+the 1st of february, 2012. the position is fully funded and will involve 
+strong interactions with the project partners: scuola superiore 
+sant'anna (pisa, italy), vrije universiteit brussel (belgium), rizzoli 
+ortopedia (italy), and univerza v ljubljani (ljubljana,  slovenia ).
+
+project topic
+
+the goal of the project is to develop an intelligent, cognitive 
+prosthesis for lower-limb amputees. this high-performance device will 
+combine cutting-edge properties like energy efficient (through compliant 
+elements), user-intention detection, intuitive interaction, and 
+maximization of the user's safety.
+ucl is mainly in charge of the controller design. this work will be 
+completed in collaboration with a postdoc and will require the design of 
+an advanced controller, multibody, physics-oriented simulations of the 
+user/device interactions, and experimental activities (both with healthy 
+and impaired participants) carried out with the group of rehabilitation 
+& physical medicine (institute of neuroscience) at ucl.
+
+this work will be validated with a novel mechatronic device relying on a 
+new type of sensory integration. both will be developed by our partners, 
+such that strong interactions will be required during the whole project.
+
+requested profile
+
+we are seeking candidates with an msc degree in mechanical/biomedical 
+engineering, mechatronics or a related discipline, with a strong 
+background in controls, mechanical simulation (e.g. multibody dynamics) 
+and robotics. good programming skills and/or experiences in experimental 
+investigations with humans are a plus. good communication skills are 
+further required in this project, due to its collaborative framework. 
+having the capacity to act independently and to take initiatives is more 
+than welcome.
+
+what we offer
+
+- a highly dynamic working environment, in a friendly international 
+university city
+- a framework to boost intensive collaborations with the project 
+partners, but also with other partners at the national and european level
+- a competitive salary and social benefits
+- a high-quality graduate training in mechanics and/or dynamical systems
+
+how to apply
+
+your application should be sent by e-mail to renaud ronsse 
+(renaud.ronsse at uclouvain.be), with ""phd position in rehabilitation 
+robotics"" as subject. application should include a motivation letter, 
+full cv with photograph, list of publications, academic transcripts, and 
+contact information of two references. short-listed candidates will be 
+contacted for a telematic or physical interview.
+
+links
+
+centre for research in mechatronics: http://www.cerem.be
+uclouvain: http://www.uclouvain.be
+louvain-la-neuve: http://en.wikipedia.org/wiki/louvain-la-neuve"
+3,2011,"funded phd position in computer vision and robotics at university of birmingham, uk","-----------------------------------------------------------------------------------------------------------------------------------
+
+funded phd position available at university of birmingham for 3 years,  
+to start october 2011.
+
+a funded research student position is available at the university of  
+birmingham, uk for three years in the area of computer vision and  
+robotics.
+
+the research by the candidate will focus on computer vision methods  
+that will enable efficient and scalable learning and inference of  
+objects and object categories in the context of robotic tasks such as  
+object manipulation, grasping, and exploiting affordances. the main  
+emphasis will be on developing and evaluating computational approaches  
+to scalable visual recognition of 3d object classes, building on our  
+previous work on compositional hierarchies
+[http://vicos.fri.uni-lj.si/alesl/research/].
+
+prospective applicants should have an exceptionally strong academic  
+record, and a solid knowledge of computer science, and/or mathematics,  
+physics and engineering. they must also have demonstrable interest in  
+computer vision and/or pattern recognition and machine learning, as  
+well as very strong programming skills.
+
+contact: in the first instance please contact prof ales leonardis: ales.leonardis at fri.uni-lj.
+  and dr jeremy l wyatt: jlw at cs.bham.ac.uk attaching a cv with your  
+academic record.
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+--
+dr jeremy l wyatt
+reader in robotics and artificial intelligence
+school of computer science
+university of birmingham
+www.cs.bham.ac.uk/~jlw || +44 121 414 4788
+"
+4,2011,"phd/postdoc positions in the intelligent autonomous systems group, tu münchen","the intelligent autonomous systems group (department of informatics, tu
+münchen) is looking for excellent doctoral and post-doctoral
+researchers.
+
+
+our research focuses on cognition-enabled mobile manipulation, aiming at
+integrating perception, knowledge representation, reasoning, task
+planning, motion planning and action execution on physical robots
+performing complex, realistic tasks. recent demonstrations include
+baking pancakes, preparing bavarian sausages, and mobile
+pick-and-place-tasks including interaction with articulated objects like
+cupboards and drawers.
+
+as part of the pr2 beta program by willow garage, the group has received
+a pr2 robot to develop the cram (cognitive robot abstract machine)
+framework (http://ias.cs.tum.edu/new/research/cram). cram
+is a software toolbox for the design, the implementation, and the
+deployment of cognition-enabled autonomous robots performing everyday
+manipulation activities. cram equips autonomous robots with lightweight
+reasoning mechanisms that can infer control decisions rather than
+requiring the decisions to be preprogrammed.
+
+the ias group is integrated into the cluster of excellence ""cognition
+for technical systems"", in which more than 120 researchers from
+different disciplines and 5 renowned research institutes collaborate.
+furthermore, the ias group is involved in several national and european
+projects and collaborates with multiple renowned research groups all
+over the world.
+
+tu münchen enjoys an excellent international reputation as an academic
+leader and has been consistently ranked as one of the three best
+universities in germany. the munich area itself offers high quality of
+living, with unparalleled out-door recreational opportunities and a
+great cultural life.
+
+
+
+about the candidate
+
+candidates for phd positions should have a master's degree in computer
+science or equivalent. expertise in one or more topics related to our
+research on cognition-enabled autonomous robots is expected, e.g.
+artificial intelligence, robotics, knowledge representation, task
+planning, control systems engineering, probabilistic models, and
+machine learning. experience in working with real robot systems is a
+plus.
+
+the candidates should have strong programming skills in more than one
+language, preferably including a functional programming language, and
+should be interested in programming language design concepts.
+
+research in our group involves close collaboration with other team
+members and with international partners. candidates should therefore be
+willing to work in a team and to integrate their work into the complete
+robotic system. software developed in the group is usually released as
+open source, and candidates are expected to actively contribute to our
+open-source activities.
+
+international candidates are encouraged to apply, knowledge of the
+german language is not required, though fluent english is a must.
+
+
+
+about the position
+
+we offer a full-time employment as scientific research staff with the
+option of obtaining a doctoral degree. the successful candidates will
+perform research in the context of our cognitive robot abstract machine
+project, working on cognition-enabled mobile manipulation in close
+collaboration with the other members of the group and international
+partners. they are further expected to contribute to the group's
+teaching program and will be given the opportunity to work with bachelor
+and master students.
+
+the employment is limited with the possibility of extension to four
+years. the position is to be filled at the earliest date possible. the
+salary will be according to the german tv-l e13 payment scheme. tu
+münchen aims for a higher proportion of women. therefore, applications
+from women are explicitly appreciated. severely disabled people will be
+considered preferentially if qualifications are basically equal.
+
+
+
+how to apply
+
+applicants should provide the following material:
+- motivation letter that briefly describes the candidate's background
+- cv
+- academic certificates
+- date of availability
+
+all documents should be submitted as a pdf file via email to michael
+beetz <beetz at cs.tum.edu>, cc to moritz tenorth <tenorth at cs.tum.edu>. for
+further questions please contact moritz tenorth (+49-89-289-26912,
+tenorth at cs.tum.edu) or consult our website.
+
+applicants are encouraged to contact michael beetz during iros 2011 in
+san francisco or humanoids 2011 in bled,  slovenia .
+
+
+
+related links
+
+* intelligent autonomous systems group: http://ias.cs.tum.edu
+
+* our robots making pancakes: http://www.youtube.com/watch?v=4usoe981e7i
+
+* our robots preparing bavarian breakfast:
+http://www.youtube.com/watch?v=gbidpqb_2im
+
+* cognitive robot abstract machine (cram)
+http://ias.cs.tum.edu/new/research/cram
+
+* tu münchen: http://www.tum.de/
+
+* salary calculator (in german):
+  http://oeffentlicher-dienst.info/c/t/rechner/tv-l/west?id=tv-l-2011"
+5,2012,postdoc and phd student positions,"department of automatics, biocybernetics, and robotics, jozef stefan institute (jsi) in ljubljana,  slovenia , is looking for two new researchers, one at a phd student level and one at the postdoc level. the successful candidates will work in fp7 ""cognitive systems and robotics"". the possible research themes include:
+
+- imitation learning and reinforcement learning in robotics
+- active vision and visual learning on humanoid robots
+- physical robot-robot and robot-human interaction
+
+precise research programmes will be defined based on interests and abilities of the successful candidates. your research will be conducted in close collaboration with prof. ales ude (http://www.ijs.si/~aude/) and in collaboration with several leading european robotics and cognitive systems research groups who work with jsi on eu fp7 projects. the initial contract will be limited to one year with the possibility to extend it after one year.
+
+interested candidates holding a degree in computer science, engineering, or applied mathematics are invited to apply. desired skills include programming in c/c++ and matlab, and prior experience in fields such as robot learning, computer vision, machine learning, and autonomous robots.
+
+for further information regarding the projects, please contact prof. ales ude (ales.ude at ijs.si). to apply you should send a statement of motivation related to one of the above topics (up to one page), a curriculum vitae (with bibliography), scanned transcripts of grades and diplomas, and contact information of at least two referees to ales.ude at ijs.si. applications will be evaluated as they are received, until both positions are filled. successful candidates can start working at jsi as soon as all the paper work is completed."
+6,2012,phd position in compositional hierarchies for vision and manipulation,"phd studentship in school of computer science, university of birmingham, uk
+
+a research student position is available at the university of 
+birmingham, uk for three years in the area of computer vision and 
+robotics.funding includes fees
+and a stipend of £14k per annum.
+
+the research by the candidate will focus on computer vision methods that 
+will enable efficient and scalable learning and inference of objects and
+object categories in the context of robotic tasks such as object 
+recognition and categorization, manipulation, grasping, and exploiting 
+affordances.
+the main emphasis will be on developing and evaluating computational 
+approaches to scalable visual recognition of 3d object classes, building on
+the previous work on compositional 
+hierarchies [http://vicos.fri.uni-lj.si/alesl/research/].
+
+requirements:
+prospective applicants should have an exceptionally strong academic 
+record, and a solid knowledge of computer science, and/or mathematics, 
+physics
+and engineering. they must also have demonstrable interest in computer 
+vision and/or pattern recognition and machine learning, as well as very 
+strong
+programming skills.
+
+contact:
+in the first instance please contact prof ales leonardis: 
+a.leonardis at cs.bham.ac.uk <mailto:ales.leonardis at fri.uni-lj.si> and dr 
+jeremy l wyatt: jlw at cs.bham.ac.uk <mailto:jlw at cs.bham.ac.uk> attaching a cv
+with your academic record.
+
+-- 
+dr jeremy l wyatt
+reader in robotics and artificial intelligence
+school of computer science
+university of birmingham
+www.cs.bham.ac.uk/~jlw || +44 121 414 4788
+"
+7,2013,"phd positions on planning and simulation of grasping under uncertainty, centro piaggio, univ of pisa, italy","---
+
+university of pisa, italy
+research center ""e. piaggio""
+
+two phd positions are available on the following topics:
+
+1.  active haptic information gathering under uncertainty + grasp planning under uncertainty 
+
+2. advanced simulation of dexterous manipulation under uncertainty 
+
+these activities cover some tasks within the
+fp7-funded project pacman ”probabilistic and compositional
+representations of objects for robotic manipulation”. pacman will
+develop technologies to allow robots to generalize manipulation skills
+to novel objects, and to cope with the uncertainty inherent in sensor
+driven manipulation. this will be achieved by employing hierarchical,
+compositional representations of objects (e.g. part based
+representations of shape) that incorporate both visual and haptic
+information.
+
+the appointees for the positions will work on the following topics:
+
+1. learning the haptic characteristics of objects by in hand exploration (definition of control strategies for concurrent stable object grasping and object surface tracing / object surface rolling, frictional coefficient estimation, testing in simulation and on a real platform (kuka lwr4+ and dlr-hit hand)) + grasping under uncertainty (autonomous selection and execution of feed-forward pre-shaping hand-arm primitives within the soft-synergy paradigm, incipient grasp quality evaluation and local contact point refinement, grasp quality force optimization, grasp planning under uncertainty as a belief space planning problem)
+
+a solid background in most of these subjects is required: efficient incremental representation of surfaces, machine learning and probabilistic methods of information propagation, grasp modeling, pomdp, strong coding (c/c++) and hardware/software integration skills.
+
+---
+
+2. develop efficient and realistic numerical simulations for grasping and manipulation under uncertainty (incipient grasp quality evaluation and local contact point refinement, grasp quality force optimization)
+
+candidates for this topic should have an excellent background in: rigid-body dynamics algorithms, contact and impact modelling, nonlinear control, optimal control, experience with physics engines (adams, gazebo, openrave, bullet, ode), c/c++, parallel programming, gpgpu programming. 
+
+
+references: 
+(http://www.centropiaggio.unipi.it/publications)
+(http://vicos.fri.uni-lj.si/alesl/research/),
+
+
+phd studentship: full studentship available. candidates should contact
+us for details. you should have a master's degree in
+computer science or mechanical engineering, together with
+strong mathematical and coding skills. you should be in the top 10% of
+your graduating class.
+
+project overview:
+
+pacman involves the following groups:
+
+university of pisa (www.centropiaggio.unipi.it)
+university of birmingham (www.cs.bham.ac.uk/go/irlab)
+university of innsbruck (iis.uibk.ac.at)
+
+applying:
+applications (cv+letters of recommendation) should be made to local unit coordinator dr marco gabiccini (m.gabiccini at ing.unipi.it) and to the principal research supervisor
+prof. antonio bicchi (bicchi at centropiaggio.unipi.it). please always copy ms. maley in email: (laura.maley at centropiaggio.unipi.it)
+
+please mark your email
+
+""pacman phd application""
+
+
+marco gabiccini, phd
+assistant professor of applied mechanics and robotics
+dept. of mechanical, nuclear and production engineering
+university of pisa
+via diotisalvi 2, 56122 pisa pi
+italy
+phone: +39-050-221.80.77
+fax: +39-050-221.80.65
+homepage: http://www.dimnp.unipi.it/gabiccini-m/
+"
+8,2013,"post-doc position in grasping and haptic information gathering under uncertainty, centro piaggio, univ. of pisa, italy","---
+
+university of pisa, italy
+research center ""e. piaggio""
+
+one post-doc position working and coordinating the research on the following topics:
+
+-  active haptic information gathering under uncertainty (learning the haptic characteristics of objects by in hand exploration)
+
+- grasping under uncertainty (grasping hand synthesis, reach to grasp planning in a cluttered environment, reactive strategies for on-line grasp quality optimization)
+
+these activities cover some tasks within the
+fp7-funded project pacman ”probabilistic and compositional
+representations of objects for robotic manipulation”. pacman will
+develop technologies to allow robots to generalize manipulation skills
+to novel objects, and to cope with the uncertainty inherent in sensor
+driven manipulation. this will be achieved by employing hierarchical,
+compositional representations of objects (e.g. part based
+representations of shape) that incorporate both visual and haptic
+information.
+
+the appointee will work on the following topics:
+
+1. grasping under uncertainty (autonomous selection and execution of feed-forward pre-shaping hand-arm primitives within the soft-synergy paradigm, incipient grasp quality evaluation and local contact point refinement, grasp quality force optimization, grasp planning under uncertainty as a belief space planning problem)
+
+2. learning the haptic characteristics of objects by in hand exploration (definition of control strategies for concurrent stable object grasping and object surface tracing / object surface rolling, frictional coefficient estimation, testing in simulation and on a real platform (kuka lwr4+ and dlr-hit hand))
+
+the candidate for the above topics should have a strong background in: grasping and manipulation modeling (including fingertip rolling and sliding), differential geometry and cad surface representation, nonlinear control theory, optimal control, machine learning, strong coding and hardware/software integration skills
+
+references: (http://www.centropiaggio.unipi.it/publications)
+(http://vicos.fri.uni-lj.si/alesl/research/),
+
+research fellow: salary around 30,000 euros a year. 
+appointment will be made at the
+appropriate salary grade based on qualifications, skills and experience.
+
+project overview:
+
+pacman involves the following groups:
+
+university of pisa (www.centropiaggio.unipi.it)
+university of birmingham (www.cs.bham.ac.uk/go/irlab)
+university of innsbruck (iis.uibk.ac.at)
+
+applying:
+application (cv + letters of recommendation) should be made to local unit coordinator dr marco gabiccini (m.gabiccini at ing.unipi.it) and to the principal research supervisor
+prof. antonio bicchi (bicchi at centropiaggio.unipi.it). please always copy ms. maley in email: (laura.maley at centropiaggio.unipi.it)
+
+please mark your email
+“pacman postdoc application”
+
+---
+
+
+marco gabiccini, phd
+assistant professor of applied mechanics and robotics
+dept. of mechanical, nuclear and production engineering
+university of pisa
+via diotisalvi 2, 56122 pisa pi
+italy
+phone: +39-050-221.80.77
+fax: +39-050-221.80.65
+homepage: http://www.dimnp.unipi.it/gabiccini-m/"
+9,2013,postdoc and phd studentship in compositional hierarchies in vision for robot manipulation: university of birmingham,"university of birmingham, uk
+school of computer science
+
+one research fellow and one phd position are available on learning
+compositional visual models of objects for robotic manipulation.
+
+we are looking for a research fellow and a phd student to work on a new
+fp7-funded project pacman ”probabilistic and compositional
+representations of objects for robotic manipulation”. pacman will
+develop technologies to allow robots to generalize manipulation skills
+to novel objects, and to cope with the uncertainty inherent in sensor
+driven manipulation. this will be achieved by employing hierarchical,
+compositional representations of objects (e.g. part based
+representations of shape) that incorporate both visual and haptic
+information.
+
+the appointees for both positions will work to develop new computer
+vision methods to enable efficient and scalable learning and inference
+of objects and object categories for robot manipulation. the emphasis
+will be on developing and evaluating computational approaches to scalable
+visual recognition of 3d object classes, building on our previous work
+on compositional hierarchies (http://vicos.fri.uni-lj.si/alesl/research/).
+
+research fellow: starting salary between £27,854-£44,607 a year, with
+potential progression to £50,186 a year. appointment will be made at the
+appropriate salary grade based on qualifications, skills and experience.
+the post is available for 3 years. you should have or be about to obtain
+a phd on a relevant topic, have strong mathematical and coding skills,
+and a strong publication record.
+
+phd studentship: full studentship available. candidates should contact
+us for details. you should have a batchelor's or master's degree in
+computer science, engineering, physics or mathematics, together with
+strong mathematical and coding skills. you should be in the top 10% of
+your graduating class.
+
+project overview:
+
+pacman involves the following groups:
+
+university of birmingham (www.cs.bham.ac.uk/go/irlab)
+university of innsbruck (iis.uibk.ac.at)
+university of pisa (www.centropiaggio.unipi.it)
+
+you will work as part of a team of seven researchers on pacman at birmingham,
+and around 20 researchers in pacman as a whole. the irlab at birmingham is a
+lab of 20 researchers working on a range of projects within robotics.
+
+applying:
+informal enquiries should be made to project coordinator dr jeremy l
+wyatt (j.l.wyatt at cs.bham.ac.uk) and to the principal research supervisor
+prof ales leonardis (a.leonardis at cs.bham.ac.uk). please mark your email
+“pacman fellowship enquiry” or ""pacman phd enquiry""
+
+formal applications for the fellowship must also be submitted via the
+university. to download the details and submit an electronic application
+online visit: www.hr.bham.ac.uk/jobs . click on the current vacancies link.
+then type the reference number into the search box to retrieve the necessary
+details.
+
+reference: 43999
+closing date: 5 march 2013
+
+
+
+-- 
+dr jeremy l wyatt
+reader in robotics and artificial intelligence
+school of computer science
+university of birmingham
+www.cs.bham.ac.uk/~jlw || +44 121 414 4788"
+10,2013,"phd and postdoc positions in whole-body motion at university of birmingham, uk","research dynamic models and control methodologies for whole-body motion
+with external contact interactions in humans and humanoid robots. ****
+
+*phd and postdoc positions available at the university of birmingham* -****
+
+you will work as part of the european fp7 project codyco (codyco.eu). the
+university of birmingham is among a consortium of leading european labs
+including iit in italy, upmc in france, tu darmstadt in germany, and jsi in
+ slovenia .****
+
+at birmingham you will be a member of the irlab, a group with six faculty,
+seven research fellows and fifteen research students. the lab has state of
+the art equipment with access to a wide range of advanced platforms for
+mobility and manipulation (
+http://www.cs.bham.ac.uk/research/groupings/robotics/).****
+
+you will also be part of the centre for computation neuroscience and
+cognitive robotics (
+http://www.birmingham.ac.uk/research/activity/cncr/index.aspx), with
+additional equipment for motion analysis and psychophysics.****
+
+phd applicants should have a bachelors or master’s degree in computer
+science, engineering (mechanical, electrical, or bio), mathematics, or
+physics. you should have excellent mathematical and coding skills, and have
+graduated in the top 5% of your class.****
+
+for the postdoc position, you should have a phd in computer science,
+engineering (mechanical, electrical, or bio), mathematics, physics,
+psychology, or neurosciences. you should also have skills and a research
+record in human experimentation, biomechanics, modelling, and analysis.
+coding skills are a plus.****
+
+to apply, first contact michael mistry (m.n.mistry at bham.ac.uk), with your
+cv and transcript. put “codyco phd application"" or “codyco postdoc
+application"" as appropriate in the subject line.****
+
+deadline for applications is the 15th november 2013, and late applications
+may be considered."
+11,2015,postdoc position in whole body 	compliant control of humanoids," department of automation, biocybernetics and robotics at jozef stefan institute (http://abr.ijs.si) in ljubljana,  slovenia  is opening one postdoc position in the scope of whole body compliant control of humanoid robots. the emphasis will be given on studying how humans utilize hand contacts to perform whole body tasks and to empower humanoid robots with the same ability. the position is part of the codyco project (http://www.codyco.eu) funded by european commission. the work will be carried out in collaboration with partner groups at italian institute of technology, university of pierre and marie curie, technical university of darmstadt and university of birmingham. candidates should have a phd and a strong background in the fields relevant to the opened position and should be fluent in oral and written english. candidates should send the application, consisting of a 1-page motivation letter and a full cv including publication list to jan.babic at ijs.si the position is open until filled and the earlier applications will be considered first. ? dr. jan babic,                                             +386 1 4773638 senior researcher                                       jan.babic at ijs.si jozef stefan institute,  slovenia         http://www.ijs.si/~jbabic"
+12,2015,position in mechatronics design," job title: early-stage researcher (esr) position for the marie-curie initial training network ?virtual prototyping of tactile displays?. project prototouch. job description: the post is an 18-36 month full-time position for an early stage researcher (esr) in mechatronics design to study the frictional interactions of the human finger pad with next generation touch screens having haptic feedback, which will be developed as the main aim of the itn prototouch. it is eventually possible to enrol in a phd program. the salary and mobility allowance is generous. the prototouch network is coordinated by the university of birmingham in the uk and comprises 10 industrial and academic partners from the uk, belgium,  sweden ,  slovenia , switzerland, france and germany. in addition, 4 associated partners will provide training and secondment opportunities: unilever r&d, esa, redux, skillstudio and the department of design. the esr will be based at metec-ag, germany, stuttgart. the aim is to develop a novel tactile display for visually impaired people, (please see the following link www.hyperbraille.de for further information. however, this is a rather old, large and expensive model). in addition, the role will include making studies and tests for haptic interaction with different shapes of braille pins to identify the optimal solution for graphic tactile devices. the work requires a first degree in mechanical engineering or precision engineer cad skills (preferred solid edge) and experience in construction design. the start date will be 1st october 2015. the start of the project was in may 2013. the network will operate an equal opportunities recruitment policy and female candidates are encouraged to apply. ? at the time of recruitment, you must be in the first four years (full-time equivalent research experience) of your research career and have not yet been awarded a doctoral degree. ? at the time of recruitment, you must not have resided or carried out your main activity (work, studies, etc.) in germany for more than 12 months in the 3 years immediately prior to the date of your recruitment on the project. ? you may be of any nationality but you must have good verbal and written communication skills in english. elementary german would be helpful. contact: uwe  grotz   <ug at metec-ag.de> background: the next generation of electronic user interfaces such as touch pads will have high definition haptic feedback since tactile displays enhance user performance, ease of use and user experience e.g. by the tactile illusion that onscreen buttons press and release for nonphysical keyboards. the main research goal of prototouch is to exploit multiscale multiphysics simulation software, supported by neurophysiological measurements, for the virtual prototyping and optimisation of tactile displays, which with the associated research activities, will lead to a radical understanding of the underlying design principles and hence to the development of future generation devices. this will be achieved by the deployment of an inter-disciplinary network involving experts in tactile displays, computer simulation, cognitive and neural science, psychophysics, information processing, materials science, tribology and medical rehabilitation. the research is biomimetic in nature, being based on an understanding of the cellular, neurological and psychophysical response to tactile experiences such as those associated with tactile displays. the inter-sectoral dimension of the consortium links fundamental and applied scientists and engineers in 7 universities, 3 multi-national companies and 4 smes. the research will catalyse greater commercial activity by european companies in the development of tactile displays. this will be facilitated by a key training target of prototouch to develop a cohort of next generation researchers that has the appropriate expertise in tactile displays and the ability to communicate across disciplinary boundaries and value the synergistic benefits of solving problems across the engineering-life science interface. the post is an opportunity for an energetic post-graduate esr with interests in bio-mechanics to collaborate with researchers in internationally-leading academic institutions, multi-national companies and smes in order to create an exciting novel user interface. ---------------------------------- http://people.isir.upmc.fr/hayward"
+13,2015,post-doc and phd positions in control  and learning for exoskeletons and assistive devices," the department of automation, biocybernetics and robotics at jozef stefan institute in  slovenia  invites applications for post-doc researchers and phd students in the field of control and learning for exoskeletons and assistive robotic devices. the successful candidates will work on human-robot interfaces, control and learning of exoskeletons for power augmentation, injury prevention and rehabilitation. the research will be focused on models of human motor control and their integration into the control algorithms of robotic systems. the work will be tightly related to several ongoing national and international projects including fp7 and horizon 2020 projects. expected starting date is january 2016. successful candidates will be offered a one-year contract, with possible future extensions. the candidates should have keen interest in experimental robotic systems and prior experience in robot control and machine learning. the post-doc candidates are required to have phd in either computer science, electrical engineering, mechanical engineering or a related field. they will be expected to conduct cutting-edge research and publish scholarly papers. the candidates for phd position should hold either a bsc, msc or equivalent in either computer science, engineering, physics or applied mathematics. they should have a solid background in linear algebra, statistics, signal processing and programming. applications should be emailed to jan babic (jan.babic at ijs.si) and should contain a cover letter describing research interests and goals, cv, a complete list of publications, and names and contact information of two references willing to provide letters of recommendation. -- dr. jan babic | http://www.ijs.si/~jbabic dept. of automation, biocybernetics and robotics | http://abr.ijs.si jozef stefan institute | http://www.ijs.si  slovenia  | http://www. slovenia .si"
+14,2017,"phd openings in biomechatronics lab.  ozyegin university, istanbul turkey"," biomechatronics laboratory in ozyegin university, istanbul has 3 funded phd openings with a start in fall (september) 2017 for those who have profound interest in both fundamental and applied robotics research. we are looking for highly motivated candidates with an msc in appropriate engineering disciplines. candidates should be willing to play leading key roles in the following high-risk high pay-off projects. project 1: comrade: a *co*llaborative *m*obile *r*obot *a*rm that learns impe*d*anc*e* critical tasks from humans funded by: eu h2020 msca project info: currently, fixed base industrial robot arms are extensively employed in factories. although these systems perform given tasks in an agile and dexterous manner, they only operate in robot-specific special environments where the robots are statically placed in a caged cell and continuously repeat carefully pre-engineered actions. as expected, they remain stationary for decades and cannot be easily reconfigurable; thus, decreasing the degree of transformability in production lines. considering the fact that industrial manufacturing experiences a paradigm shift from mass production to mass customization, current-day factories must improve the reconfigurability aspect of automated manufacturing lines. in response to this matter, the 4th industry revolution, industry 4.0, dictates the use of multi-tasking non-stationary robots which should safely work in human environments that require no robot-specific arrangements. it is also anticipated that the robot must possess cognitive abilities so as to learn certain tasks from humans with no engineering expertise. research theme [eu1]: whole-body motion control of a mobile manipulator: appropriate candidate background:  master degree in mechanical / mechatronic / control / electrical engineering, strong background in dynamic system control and control theory, system modeling, dynamics, matlab, c/c++ mathematics. the student will be implementing whole body motion control techniques (e.g. [1]) that synergistically combine the omni-wheeled mobile base motion with the multi-dof manipulator (ur-3), while the robot tool is physically interacting with the environment. the robot should be able to mechanically transparent (zero-impedance) [2] for interference-free human-robot physical interaction. research theme [eu2]: human-to-robot skill transfer for the impedance-critic task execution appropriate candidate background: master degree in computer science, strong background in machine learning, matlab, c/c++ mathematics. knowledge on fundamentals of robot manipulators is a plus. the student will develop new algorithms that enables a mobile manipulator to effectively learn impedance critical tasks (drilling, screwing, etc.) by means of physical interactions with a human and acquire human?s abilities via human-to-robot skill transfer for subsequent autonomous task execution [3]. human-in-the-loop robot learning will be key to this phd theme. -- project 2: development of a self-balancing and physically compliant lower body exoskeleton robot for 3d walking support funded by: tubitak (scientific and technological research council of turkey) info: the purpose of this project is to design and implement a new generation lower body exoskeleton robot that could be used to provide robot-aided walking support for those who suffer paraplegia or similar pathological lower body diseases. in line with this purpose, the main objective of this project is to develop and synergistically integrate new technologies for a novel lower body exoskeleton robot that has advanced capabilities, such as, providing 3d walking support with no auxiliary tools, active self-balancing, and possessing competent actuator units. research theme [tr1]: motion planning and real-time controller synthesis for the exoskeleton-supported paraplegia walking appropriate candidate background: master degree in mechanical / mechatronic / control / electrical engineering, strong background in dynamic system control and control theory, system modeling, dynamics, matlab, c/c++ mathematics. the state-of-the-art exoskeletons mostly actuate hip and knee joints through flexion/extension; therefore, the users must actively engage their upper body via crutches to maintain balance. recently, a self-balancing exoskeleton system (xor) was developed [4]. thus, this project will follow the footsteps of xor project, and pave the way for next generation lower body exoskeletons. -- general info: the research environment requires mastering the english language in writing, speaking and reading. gradually increasing turkish language ability will make your life more enjoyable in istanbul, but not required. biomechatronics lab. @ ?z? is a young and vibrant research group that is strongly tied to several international laboratories, e.g., toyota technological institute - japan, italian institute of technology ? italy, computational neuroscience labs. atr ? japan, ijs - institut ""jozef stefan"" -  slovenia , and more. the eu h2020 comrade project will be conducted with a strong collaboration with dr. ales ude (ijs) and dr. erhan oztop (?z?). prospect students should send their cv, transcript, publications (if any), master thesis (if completed) and motivation letter to: barkan.ugurlu at ozyegin.edu.tr via e-mail. please make sure to indicate [phdozu] in the subject field, and express the research theme in which you show interest. references: [1] dietrich et al. ?whole-body impedance control of wheeled mobile manipulators?, autonomous robots, vol. 40, no. 3, march 2016. [2] *ugurlu* et al. ?proof of concept for robot-aided upper limb rehabilitation using disturbance observers?, ieee transactions on human-machine systems, vol. 45, no.1, february 2015. [3] peternel et al. ?teaching robots to cooperate with humans in dynamic manipulation tasks based on multi-modal human-in-the-loop approach?, autonomous robots, vol. 36, no. 1, january 2014. 4 *ugurlu* et al. ?variable ankle stiffness improves balance control: experiments on a bipedal exoskeleton?, ieee transactions on mechatronics, vol. 21, no. 1, february 2016. -------------------------------- barkan ugurlu, ph.d. marie sk?odowska-curie fellow dept. of mechanical engineering ozyegin university 34794 istanbul, turkey --------------------------------"
+15,2017,-," **************************************************** fully funded phd position at jozef stefan institute **************************************************** laboratory for humanoid and cognitive robotics, department of  automation, biocybernetics and robotics at jozef stefan institute is  looking for one highly motivated phd student with interest in humanoid  robotics. the fully funded position is starting in october 2017. department of automation, biocybernetics and robotics is one of the  leading eu laboratories for cognitive robotics and participates in many  eu projects. the candidate will work on full size humanoid robot talos  in one of the following research activities: autonomous robot learning,  model predictive robot control, bi-manual manipulation interacting with  the environment and human-robot cooperation. the technical know-how of previous and current projects, including  xperience, intellact, acat, codyco reconcell and autoware will  contribute to the development of interfaces for advanced, adaptive and  cognitive behavior of the humanoid robot talos. admission requirements: master or bachelor degree in electrical  engineering, computer science, mathematics or similar fields, with a  solid background in the area of robotics, dynamical systems theory and  computer programming. application: duration: 4 years, possibly renewed place: jozef stefan institute, ljubljana, slovenija to apply: send an email to: bojan.nemec at ijs.si institute web page : www.ijs.si department web page: abr.ijs.si please contact: prof. dr. bojan nemec, head of the laboratory for humanoid and cognitive  robotics (bojan.nemec at ijs.si)"
+16,2017,-," **************************************************** fully funded phd position at jozef stefan institute **************************************************** laboratory for humanoid and cognitive robotics, department of  automation, biocybernetics and robotics at jozef stefan institute is  looking for one highly motivated phd student with interest in humanoid  robotics. the fully funded position is starting in october 2017. department of automation, biocybernetics and robotics is one of the  leading eu laboratories for cognitive robotics and participates in many  eu projects. the candidate will work on full size humanoid robot talos  in one of the following research activities: autonomous robot learning,  model predictive robot control, bi-manual manipulation interacting with  the environment and human-robot cooperation. the technical know-how of previous and current projects, including  xperience, intellact, acat, codyco, andy, reconcell and autoware will  contribute to the development of interfaces for advanced, adaptive and  cognitive behavior of the humanoid robot talos. admission requirements: master in electrical engineering, computer  science, mathematics or similar fields, with a solid background in the  area of robotics, dynamical systems theory and computer programming. due  to the requirements of the  slovenia n research agency, the age of the  candidate is limited to 28 years and the average score of all exams in  bachelor and master studies should be above 8 (out of 10). application: duration: 4 years, possibly renewed place: jozef stefan institute, ljubljana, slovenija to apply: send an email to: bojan.nemec at ijs.si institute web page : www.ijs.si department web page: abr.ijs.si please contact: prof. dr. bojan nemec, head of the laboratory for humanoid and cognitive  robotics (bojan.nemec at ijs.si)"
+17,2018,"research engineer in humanoid  tele-operation, in inria, france"," *************** full job description here:   https://urldefense.proofpoint.com/v2/url?u=https-3a__jobs.inria.fr_public_classic_en_offres_2017-2d00205&d=dwifag&c=clk7kqutwtaveovigvi0nu5bouhhpn0h8p7csfnc_gi&r=0w3solp5fswiywf2rl6rss8mcefamfepafdtohgtfyi&m=tzvd8nqoe_xaawjfnjuuqtrgkzcpjz2xabntxajnqis&s=wct1cjtevkelmx1nfdl10v_qwobzynfdq1nke-qgtxc&e= *************** we are looking for a research engineer to join the team larsen in inria (nancy, france). the engineer will join the team working in the european project andy (https://urldefense.proofpoint.com/v2/url?u=http-3a__andy-2dproject.eu_&d=dwifag&c=clk7kqutwtaveovigvi0nu5bouhhpn0h8p7csfnc_gi&r=0w3solp5fswiywf2rl6rss8mcefamfepafdtohgtfyi&m=tzvd8nqoe_xaawjfnjuuqtrgkzcpjz2xabntxajnqis&s=cvljj6f92oua1giq0rday07j8urfd-6i3tbzcdc7lgq&e=) <https://urldefense.proofpoint.com/v2/url?u=http-3a__andy-2dproject.eu_&d=dwifag&c=clk7kqutwtaveovigvi0nu5bouhhpn0h8p7csfnc_gi&r=0w3solp5fswiywf2rl6rss8mcefamfepafdtohgtfyi&m=tzvd8nqoe_xaawjfnjuuqtrgkzcpjz2xabntxajnqis&s=cvljj6f92oua1giq0rday07j8urfd-6i3tbzcdc7lgq&e=)>, a h2020 funded project with several international partners in germany (dlr),  slovenia  (jsi) and italy (iit).  one of the objectives of the project is to realize collaborative scenarios between the humanoid robot icub and a human partner, equipped with several wearable sensors. collaboration is intended as anticipatory physical interaction that assists the human partner in realizing a task while optimizing some criteria (equilibrium, effort, ergonomy). for example, we need to realize a collaborative assembly or pick & place task, where the icub and the human partner pick an object together, transport it (eventually) to a desired location, and then place it, to make some assembly.  in this context, we would like to implement an immersive whole-body tele-operation of the icub, so that a human operator can control in real-time the humanoid icub, to provide demonstrations of the desired robot behavior during these tasks. the human operator will be equipped with a xsens mvn suit, a wearable system for motion capture, a virtual-reality system with joysticks (e.g., htc vive), sensorized gloves and shoes. in the team we proposed preliminary theoretical model for offline synthesis of the robot's movement from xsens data, and we already have a working kinematics retargeting implementation online. the goal of the engineer will be to retarget the movement and actions of the human operator into the robot icub, in real-time, ensuring the safety and stability of the robot motion. requirements: ms or phd in software engineering or robotics and/or experience in collaborative software development excellent teamwork and experience in collaborative software development (agile, ...) excellent knowledge of robotics expertise in programming development and software architecture previous experience in collaborative projects, real robots or tele-operation is a plus the position is for 1 year, extensions are possible. salary depends on experience. to apply: https://urldefense.proofpoint.com/v2/url?u=https-3a__jobs.inria.fr_public_classic_en_offres_2017-2d00205&d=dwifag&c=clk7kqutwtaveovigvi0nu5bouhhpn0h8p7csfnc_gi&r=0w3solp5fswiywf2rl6rss8mcefamfepafdtohgtfyi&m=tzvd8nqoe_xaawjfnjuuqtrgkzcpjz2xabntxajnqis&s=wct1cjtevkelmx1nfdl10v_qwobzynfdq1nke-qgtxc&e= <https://urldefense.proofpoint.com/v2/url?u=https-3a__jobs.inria.fr_public_classic_en_offres_2017-2d00205&d=dwifag&c=clk7kqutwtaveovigvi0nu5bouhhpn0h8p7csfnc_gi&r=0w3solp5fswiywf2rl6rss8mcefamfepafdtohgtfyi&m=tzvd8nqoe_xaawjfnjuuqtrgkzcpjz2xabntxajnqis&s=wct1cjtevkelmx1nfdl10v_qwobzynfdq1nke-qgtxc&e=> candidates are also expected to contact via e-mail serena ivaldi, serena.ivaldi at inria.fr --------- serena ivaldi team larsen inria nancy grand-est room c104 tel: (+33) 03-5495-8475 mail: serena.ivaldi at inria.fr web: https://urldefense.proofpoint.com/v2/url?u=http-3a__members.loria.fr_sivaldi_&d=dwifag&c=clk7kqutwtaveovigvi0nu5bouhhpn0h8p7csfnc_gi&r=0w3solp5fswiywf2rl6rss8mcefamfepafdtohgtfyi&m=tzvd8nqoe_xaawjfnjuuqtrgkzcpjz2xabntxajnqis&s=em5umspdndxe5luqnkutnpdfiary2ru4-oufilvuyra&e= do not miss two important conferences in robotics: * humanoids 2017 @ birmingham (uk): https://urldefense.proofpoint.com/v2/url?u=http-3a__www.humanoids2017.org_&d=dwifag&c=clk7kqutwtaveovigvi0nu5bouhhpn0h8p7csfnc_gi&r=0w3solp5fswiywf2rl6rss8mcefamfepafdtohgtfyi&m=tzvd8nqoe_xaawjfnjuuqtrgkzcpjz2xabntxajnqis&s=mlncgwd3ct_s8qaocbe19nhn-ups7gueq8emuffh350&e= * arso 2018 @ genova (italy): https://urldefense.proofpoint.com/v2/url?u=http-3a__www.arso2018.eu_&d=dwifag&c=clk7kqutwtaveovigvi0nu5bouhhpn0h8p7csfnc_gi&r=0w3solp5fswiywf2rl6rss8mcefamfepafdtohgtfyi&m=tzvd8nqoe_xaawjfnjuuqtrgkzcpjz2xabntxajnqis&s=bxueqzaellolpcpapoy9nv3srcqr19ztxazx1duxvjs&e="
+18,2019,"robotics development engineer, ljubljana,   slovenia  (eu)"," at airnamics,  slovenia , we are a young, driven and ambitious team, developing cutting edge solutions in the field of robotics, ai and simulation technologies. we are on our way to take on the 4th industrial revolution and we know it's going to be one hell of a ride. to do that we'll need some extra forces in our team.  we are looking for a *robotics development engineer * with a burning passion to develop state of the art solutions in the field of ai-powered industrial robotics. the more experience you have, the better, but the main elements we are looking for is a willingness to learn, desire to create and a ""work hard, play hard"" mentality. we offer a top-notch development environment with global technology challenges, so you will not be bored. you will be working with cutting-edge technologies and the development of state-of-the-art robotic systems. no person is just one 'thing', so we pay special attention to help develop our team members business, technical and team competencies. in that sense, we are also flexible in the possibility of remote work, when you need it. since we are developing solutions that have potentials to develop into spin-off projects, we also offer the option of equity participation. it's the people who make the team that makes great stuff, after all.  *join us if you have: * experience in the field of robotics and development of autonomous robotic systems, - knowledge of ros architecture and experiences with developing ros nodes in the field of slam,   - experiences with programming in linux, - good knowledge of programming languages c and c++, - experience in the field of combining sensory data (sensor fusion), - the ability to work in a multidisciplinary team with short development cycles (agile methodology).  the deadline to apply is 14 july 2019.  you can find more information here: https://urldefense.proofpoint.com/v2/url?u=https-3a__airnamics.recruitee.com_o_robotics-2ddevelopment-2dengineer&d=dwicag&c=clk7kqutwtaveovigvi0nu5bouhhpn0h8p7csfnc_gi&r=0w3solp5fswiywf2rl6rss8mcefamfepafdtohgtfyi&m=utlbrkfzwti_6ih1nwrsdegjbzpdhirr612ogkrl40c&s=_5nt6q1d4ljywgo6josgjidhzgnqurdvxamhiviowpm&e=   our other open job posts are available here: https://urldefense.proofpoint.com/v2/url?u=https-3a__airnamics.recruitee.com_&d=dwicag&c=clk7kqutwtaveovigvi0nu5bouhhpn0h8p7csfnc_gi&r=0w3solp5fswiywf2rl6rss8mcefamfepafdtohgtfyi&m=utlbrkfzwti_6ih1nwrsdegjbzpdhirr612ogkrl40c&s=a13iit7sn0tayjknj9ldiqdq5aafwytfhlf4nxradui&e=   -- sent from: https://urldefense.proofpoint.com/v2/url?u=http-3a__robotics-2dworldwide.1046236.n5.nabble.com_&d=dwicag&c=clk7kqutwtaveovigvi0nu5bouhhpn0h8p7csfnc_gi&r=0w3solp5fswiywf2rl6rss8mcefamfepafdtohgtfyi&m=utlbrkfzwti_6ih1nwrsdegjbzpdhirr612ogkrl40c&s=bfkf2xtckgk8dk1svb0vk1v-zelbv5xllgih1bmt5z0&e= "
+19,2019,"various positions (robotics, automation,  machine learning/vision, simulation), ljubljana,  slovenia  (eu)"," at airnamics,  slovenia , we are a young, driven and ambitious team, developing cutting edge solutions in the field of robotics, ai and simulation technologies. we are on our way to take on the 4th industrial revolution and we know it's going to be one hell of a ride. to do that we'll need some extra forces in our team.  currently, we have a few open positions listed below:  robotics development engineer -> https://urldefense.proofpoint.com/v2/url?u=http-3a__bit.ly_airnnamics-2dros&d=dwicag&c=clk7kqutwtaveovigvi0nu5bouhhpn0h8p7csfnc_gi&r=0w3solp5fswiywf2rl6rss8mcefamfepafdtohgtfyi&m=uq4ceakzscfbd4sgmvrqjnwz_d14g5axrnjrdom86dw&s=xodwa1_4l5bdn9vam7zs1bwk8xfp8qzcop1ja0kzd9i&e=   automation engineer -> https://urldefense.proofpoint.com/v2/url?u=http-3a__bit.ly_airnamics-2dautomation&d=dwicag&c=clk7kqutwtaveovigvi0nu5bouhhpn0h8p7csfnc_gi&r=0w3solp5fswiywf2rl6rss8mcefamfepafdtohgtfyi&m=uq4ceakzscfbd4sgmvrqjnwz_d14g5axrnjrdom86dw&s=bud4wfcmmgoaulqsj1vnulvrzwmmv9r8msn-7bq4lok&e=   automation safety engineer -> https://urldefense.proofpoint.com/v2/url?u=http-3a__bit.ly_airnamics-2dsafety&d=dwicag&c=clk7kqutwtaveovigvi0nu5bouhhpn0h8p7csfnc_gi&r=0w3solp5fswiywf2rl6rss8mcefamfepafdtohgtfyi&m=uq4ceakzscfbd4sgmvrqjnwz_d14g5axrnjrdom86dw&s=eca2sprne2uvn8rtlp4shlwrdq7gdnktd2lm3d5plgu&e=  simulation technologies engineer -> https://urldefense.proofpoint.com/v2/url?u=http-3a__bit.ly_airnamics-2dsimtec&d=dwicag&c=clk7kqutwtaveovigvi0nu5bouhhpn0h8p7csfnc_gi&r=0w3solp5fswiywf2rl6rss8mcefamfepafdtohgtfyi&m=uq4ceakzscfbd4sgmvrqjnwz_d14g5axrnjrdom86dw&s=yb8ypudivauvbuztjc3bv7u_wwcbauv2ebsohydifly&e=  machine learning / vision engineer -> https://urldefense.proofpoint.com/v2/url?u=http-3a__bit.ly_airnamics-2dmachinelearn&d=dwicag&c=clk7kqutwtaveovigvi0nu5bouhhpn0h8p7csfnc_gi&r=0w3solp5fswiywf2rl6rss8mcefamfepafdtohgtfyi&m=uq4ceakzscfbd4sgmvrqjnwz_d14g5axrnjrdom86dw&s=fmmpnpzhmuzo7by588texub2v2nevtub8-3flnkox9c&e=  matlab & simulink developer -> https://urldefense.proofpoint.com/v2/url?u=http-3a__bit.ly_airnamics-2dmatlabsimulink&d=dwicag&c=clk7kqutwtaveovigvi0nu5bouhhpn0h8p7csfnc_gi&r=0w3solp5fswiywf2rl6rss8mcefamfepafdtohgtfyi&m=uq4ceakzscfbd4sgmvrqjnwz_d14g5axrnjrdom86dw&s=ihsqjpm5ostjiihuezjdjgjffx7wmxmf3xk-yjyggby&e=  embedded system development engineer -> https://urldefense.proofpoint.com/v2/url?u=http-3a__bit.ly_airnamics-2dembedded&d=dwicag&c=clk7kqutwtaveovigvi0nu5bouhhpn0h8p7csfnc_gi&r=0w3solp5fswiywf2rl6rss8mcefamfepafdtohgtfyi&m=uq4ceakzscfbd4sgmvrqjnwz_d14g5axrnjrdom86dw&s=p1gfbhhptvo8s2piinsq71mrmzxi4-r1wg35kgmo3mw&e=  we are located in ljubljana,  slovenia , europe. we offer a top-notch development environment with global technology challenges, so you will not be bored. you will be working with cutting-edge technologies and the development of state-of-the-art robotic systems. no person is just one 'thing', so we pay special attention to help develop our team members business, technical and team competences. in that sense, we are also flexible in the possibility of remote work, when you need it. the position does require moving to  slovenia , though. our administration team will help with the transition process and bureaucracy for citizens outside the eu. since we are developing solutions that have potentials to develop into spin-off projects, we also offer the option of equity participation. it's the people who make the team that makes great stuff, after all.  in case of any questuions you are welcome to contact me, anja kodra, head of talent & knowledge development, anja.kodra at airnamics.com.  -- sent from: https://urldefense.proofpoint.com/v2/url?u=http-3a__robotics-2dworldwide.1046236.n5.nabble.com_&d=dwicag&c=clk7kqutwtaveovigvi0nu5bouhhpn0h8p7csfnc_gi&r=0w3solp5fswiywf2rl6rss8mcefamfepafdtohgtfyi&m=uq4ceakzscfbd4sgmvrqjnwz_d14g5axrnjrdom86dw&s=54v9qcd5ew9cs4venq1404r1ehehozm2dw7zf8d4siw&e= "
+20,2019,"robotics development engineer, ljubljana,   slovenia  (eu)"," at airnamics we are looking for a *robotics development engineer* with a burning passion to develop state of the art solutions in the field of ai powered industrial robotics. the more experience you have, the better, but the main elements we are looking for is willingness to learn, desire to create and a ""work hard, play hard"" mentality. we offer you a top-notch development environment with global technology challenges, so you will not be bored. you will be working with cutting-edge technologies and the development of state-of-the-art robotic systems. no person is just one 'thing', so we pay special attention to help develop our team members business, technical and team competences. in that sense we are also flexible in the possibility of remote work, when you need it. since we are developing solutions that have potentials to develop into spin-off projects, we also offer the option of equity participation. it's the people who make the team that makes great stuff, after all.  *join us if you have:* - experience in the field of robotics and development of autonomous robotic systems, knowledge of ros architecture and experiences with developing ros nodes in the field of slam,   - experiences with programming in linux, - good knowledge of programming languages c and c++, - experience in the field of combining sensory data (sensor fusion), - the ability to work in a multidisciplinary team with short development cycles (agile methodology).  the deadline to apply is 30 november 2019. we are a young, driven and ambitious team from slovenija, ljubljana. we are developing cutting edge solutions in the field of robotics, ai and simulation technologies. we are on our way to take on the 4th industrial revolution and we know it's going to be one hell of a ride. to do that we'll need some extra forces in our team. you can find the application here: https://urldefense.proofpoint.com/v2/url?u=https-3a__airnamics.recruitee.com_o_robotics-2ddevelopment-2dengineer&d=dwicag&c=clk7kqutwtaveovigvi0nu5bouhhpn0h8p7csfnc_gi&r=0w3solp5fswiywf2rl6rss8mcefamfepafdtohgtfyi&m=rqfajg81e9ssauzkzud9_dmsvoc1wcrz5yyip7ls-kk&s=wwsha7jej4mntauk72yhe_ocec7tzsgkiziylkgkryc&e=  our other open job posts are available here: https://urldefense.proofpoint.com/v2/url?u=https-3a__airnamics.recruitee.com_&d=dwicag&c=clk7kqutwtaveovigvi0nu5bouhhpn0h8p7csfnc_gi&r=0w3solp5fswiywf2rl6rss8mcefamfepafdtohgtfyi&m=rqfajg81e9ssauzkzud9_dmsvoc1wcrz5yyip7ls-kk&s=ygeuk84fbtrijnewjnfcwrlrqrto09qgxrmw4emntlo&e=  or contact our hr manager directly -> anja kodra, anja.kodra at airnamics.com  -- sent from: https://urldefense.proofpoint.com/v2/url?u=http-3a__robotics-2dworldwide.1046236.n5.nabble.com_&d=dwicag&c=clk7kqutwtaveovigvi0nu5bouhhpn0h8p7csfnc_gi&r=0w3solp5fswiywf2rl6rss8mcefamfepafdtohgtfyi&m=rqfajg81e9ssauzkzud9_dmsvoc1wcrz5yyip7ls-kk&s=6u7dv4s9behiggfui3ytf44_yg5jxzttslwr_l_ao08&e= "
+21,2019,open postdoc position in development of  exoskeletons and physical human robot interaction," the laboratory for neuromechanics and biorobotics (https://urldefense.proofpoint.com/v2/url?u=http-3a__nbr.ijs.si&d=dwibaq&c=clk7kqutwtaveovigvi0nu5bouhhpn0h8p7csfnc_gi&r=0w3solp5fswiywf2rl6rss8mcefamfepafdtohgtfyi&m=3qe0cdx-tuu0od3wflipyblnqey-mclcktuq_l7kiak&s=ms-nwjbzawhprbtbrdpnrgbkab7tq_hd09pgcqv-vbc&e= ) at department of automation, biocybernetics and robotics at jozef stefan institute in  slovenia  invites applications for post-doc researchers in the field of wearable robotics and physical human-robot interaction. successful candidates will work on theoretical and experimental research of human motor control aiming towards the development of human-robot interfaces and exoskeletons. the research will be focused on models of human motor control in interaction with environment and their integration into the control algorithms of robotic systems. the work will be tightly related to several ongoing national and international projects including horizon 2020 project andy (https://urldefense.proofpoint.com/v2/url?u=http-3a__www.andy-2dproject.eu&d=dwibaq&c=clk7kqutwtaveovigvi0nu5bouhhpn0h8p7csfnc_gi&r=0w3solp5fswiywf2rl6rss8mcefamfepafdtohgtfyi&m=3qe0cdx-tuu0od3wflipyblnqey-mclcktuq_l7kiak&s=ztmrjwst2wcccmtffv0nfnl3pdbsa7_bywl0axff9fa&e= ). the candidates should have keen interest in experimental robotic systems and will be expected to conduct cutting-edge research, lead phd students, and publish scholarly papers. successful candidates will be offered a competitive one-year full-time contract, with possible future extensions and even permanent position. applications should be emailed to jan babic (jan.babic at ijs.si) and should contain a cover letter describing research interests and goals, cv, a complete list of publications, and contact information of two references willing to provide letters of recommendation. -- dr. jan babic laboratory for neuromechanics and biorobotics department of automation, biocybernetics and robotics jozef stefan institute jan.babic at ijs.si https://urldefense.proofpoint.com/v2/url?u=https-3a__www.ijs.si_-7ejbabic&d=dwibaq&c=clk7kqutwtaveovigvi0nu5bouhhpn0h8p7csfnc_gi&r=0w3solp5fswiywf2rl6rss8mcefamfepafdtohgtfyi&m=3qe0cdx-tuu0od3wflipyblnqey-mclcktuq_l7kiak&s=glrsdkd1cit8dsmtro557vypg86d-w_prnx3wv1gwd4&e=  https://urldefense.proofpoint.com/v2/url?u=http-3a__nbr.ijs.si&d=dwibaq&c=clk7kqutwtaveovigvi0nu5bouhhpn0h8p7csfnc_gi&r=0w3solp5fswiywf2rl6rss8mcefamfepafdtohgtfyi&m=3qe0cdx-tuu0od3wflipyblnqey-mclcktuq_l7kiak&s=ms-nwjbzawhprbtbrdpnrgbkab7tq_hd09pgcqv-vbc&e= "
+22,2020,"full-time doctoral position in medical  robotics, 3 years (university of klagenfurt; jan steinbrener, stephan weiss)"," a three-year pre-doctoral position (doctoral student position) is available at universit?t klagenfurt in the institute for smart system technologies, control of networked systems group (https://urldefense.com/v3/__http://sst.aau.at/cns__;!!lir3w8kk_xxm!6ji5aouq2layvfmfu9hsc-it8infowyyjnglaegwzqkmy4mvfh9gk-_usiub-irth61mfbuc$ , https://urldefense.com/v3/__http://uav.aau.at__;!!lir3w8kk_xxm!6ji5aouq2layvfmfu9hsc-it8infowyyjnglaegwzqkmy4mvfh9gk-_usiub-irth0yqxiq-$ ). the position is part of a research project in medical robotics that aims to develop the basis for the next generation of autonomous surgical robots with the help of artificial intelligence and multi-sensor fusion.  the successful candidate is expected to contribute to the tasks and milestones of the project through independent research and to present the results in journals and at conferences. the position is aimed at the scientific training of graduates of a diploma or master program with the goal of obtaining a phd degree in engineering.  in the ""control of networked systems"" group, we seek to push the current limits in ai supported state estimation, cooperative visual perception, and multi-modal sensor fusion for autonomous and mobile networked systems. the group publishes in international top journals and conference proceedings. successful applicants will be encouraged and supported to publish their work in such journals and proceedings, and will have the opportunity to cooperate with our world renowned international partners from science and industry. we currently cooperate with partners in the usa, australia, asia, and in europe. we specifically encourage and support close and open collaboration with our peers both internationally and at the university. our young research group provides a highly dynamic, familiar, and friendly attitude and thus a collaborative and inspiring work environment with highly modern infrastructure (including state of the art computing hardware and one of the largest indoor drone halls in europe). our university is located next to a large lake in a beautiful area of europe with easy access to the alps, the adriatic sea, italy, croatia, and  slovenia  offering plenty of outdoor and cultural activities nearby year round.  description of the position:     ? start date: june 1st, 2020     ? full-time, three years tasks and responsibilities:     ? independent research with the aim to submit a dissertation and acquire the phd degree     ? presentation of scientific results in journals and at conferences     ? contributing to the tasks and milestones of the current projects in the research group     ? student mentoring and team work        required qualifications:     ? a university degree (master or diplom-ingenieur) in electrical engineering and information and communication engineering, mechanical engineering, computer science, statistics or related field, graded with excellent academic success.     ? proven knowledge and extensive experience in at least one of the following areas: machine learning for robotics, probabilistic state estimation, ai-based image analysis and tracking.     ? proven programming skills in the languages python, matlab, c / c++, ros.     ? fluent in english both spoken and written.        application process: please submit a cover letter, curriculum vitae, transcripts and certifications to the departmental secretary, ms. mich?le aichner: cns.office at aau.at by may 20th, 2020. if you have questions about the position, please contact jan steinbrener, jan.steinbrener at aau.at or stephan weiss, stephan.weiss at aau.at. short-listed candidates will be invited to an interview. travel and accommodation costs incurred during the application procedure cannot be reimbursed. ________________________________________ dr. jan steinbrener senior postdoctoral research associate (tenure track) alpen-adria-universit?t klagenfurt institute of smart system technologies control of networked systems group universit?tsstr. 65-67 9020 klagenfurt austria jan.steinbrener at aau.at"
+23,2020,"full-time post-doctoral position in  ai-based uav control, 2 years (university of klagenfurt;  jan steinbrener, stephan weiss)"," a two-year post-doctoral position is available at universit?t klagenfurt in the institute for smart systems technologies, control of networked systems group (sst.aau.at/cns, uav.aau.at). the position is part of an exciting research project funded by the austrian science fund (fwf) that seeks to push the boundaries of ai-based control algorithms trained and executed directly on the drone. the successful applicant is expected to be highly motivated to contribute to the project goals and to present the results in top international journals and at conferences.  in the control of networked systems group, we aim to extend the current limits in ai supported state estimation and control, cooperative visual perception, and multi-modal sensor fusion for autonomous and mobile networked systems. the group publishes in international top journals and conference proceedings. successful applicants will have the opportunity to cooperate with our world renowned international partners from science and industry. we currently cooperate with partners in the usa, australia, asia, and in europe. we specifically encourage and support close and open collaboration with our peers both internationally and at the university. our young research group provides a highly dynamic, familiar, and friendly attitude and thus a collaborative and inspiring work environment with highly modern infrastructure (including state of the art computing hardware and one of the largest indoor drone halls in europe). our university is located next to a large lake in a beautiful area of europe with easy access to the alps, the adriatic sea, italy, croatia, and  slovenia  offering plenty of outdoor and cultural activities nearby year-round. additional information about the research group and drone research at universit?t klagenfurt     ? sst.aau.at/cns     ? uav.aau.at     ? https://urldefense.com/v3/__https://www.youtube.com/channel/ucaldltj_ihdoscfz2fzqxww__;!!lir3w8kk_xxm!5idklraffw7oifq6q1diisbmj5pmxpjx5qn3pubuosllubz9rwsuokpfiwolfjyhhbokjl5a$  description of the position:     ? preferred start date: december 1st, 2020     ? duration: full-time, two years tasks and responsibilities:     ? independent research in the area of ai-based control algorithms for uavs     ? presentation of scientific results in journals and at conferences     ? contributing to the tasks and milestones of the current projects in the research group     ? conceptualization of new research ideas in line with the research focus of the group is highly encouraged     ? student mentoring and team work required qualifications:     ? a doctoral degree in electrical engineering, information and communication engineering, computer science, statistics or related field, graded with excellent academic success.     ? proven knowledge (i.e. publications) and extensive experience in at least one of the following areas: control of autonomous systems, probabilistic machine learning methods, embedded machine learning, or continual machine learning.     ? proven programming skills in the languages python, c / c++, ros.     ? fluent in english both spoken and written. application process: please submit a cover letter, curriculum vitae incl. publication list, transcripts and certifications to the departmental secretary, ms. melissa aichholzer (melissa.aichholzer at aau.at) by oct 18th, 2020. if you have questions about the position, please contact jan steinbrener, jan.steinbrener at aau.at. short-listed candidates will be invited to an interview."
+24,2020,"full-time post-doctoral position in  ai-based uav control, 2 years (university of klagenfurt;  jan steinbrener, stephan weiss) in-reply-to: <19abe49b43bf40b3bef9c04de1c155a5@aau.at> references: <19abe49b43bf40b3bef9c04de1c155a5@aau.at>"," dear colleagues! a two-year post-doctoral position is available at universit?t klagenfurt in the institute for smart systems technologies, control of networked systems group (sst.aau.at/cns, uav.aau.at). the position is part of an exciting research project funded by the austrian science fund (fwf) that seeks to push the boundaries of ai-based control algorithms trained and executed directly on the drone. the successful applicant is expected to be highly motivated to contribute to the project goals and to present the results in top international journals and at conferences.  in the control of networked systems group, we aim to extend the current limits in ai supported state estimation and control, cooperative visual perception, and multi-modal sensor fusion for autonomous and mobile networked systems. the group publishes in international top journals and conference proceedings. successful applicants will have the opportunity to cooperate with our world renowned international partners from science and industry. we currently cooperate with partners in the usa, australia, asia, and in europe. we specifically encourage and support close and open collaboration with our peers both internationally and at the university. our young research group provides a highly dynamic, familiar, and friendly attitude and thus a collaborative and inspiring work environment with highly modern infrastructure (including state of the art computing hardware and one of the largest indoor drone halls in europe). our university is located next to a large lake in a beautiful area of europe with easy access to the alps, the adriatic sea, italy, croatia, and  slovenia  offering plenty of outdoor and cultural activities nearby year-round. additional information about the research group and drone research at universit?t klagenfurt     ? sst.aau.at/cns     ? uav.aau.at     ? https://urldefense.com/v3/__https://www.youtube.com/channel/ucaldltj_ihdoscfz2fzqxww__;!!lir3w8kk_xxm!7pymiofssqxuhmww0kaaf9zqwmtleso79vfr6cgjswfrivfzfholoeig9lt6xuwogh0jzazr$  description of the position:     ? preferred start date: december 1st, 2020     ? duration: full-time, two years tasks and responsibilities:     ? independent research in the area of ai-based control algorithms for uavs     ? presentation of scientific results in journals and at conferences     ? contributing to the tasks and milestones of the current projects in the research group     ? conceptualization of new research ideas in line with the research focus of the group is highly encouraged     ? student mentoring and team work required qualifications:     ? a doctoral degree in electrical engineering, information and communication engineering, computer science, statistics or related field, graded with excellent academic success.     ? proven knowledge (i.e. publications) and extensive experience in at least one of the following areas: control of autonomous systems, probabilistic machine learning methods, embedded machine learning, or continual machine learning.     ? proven programming skills in the languages python, c / c++, ros.     ? fluent in english both spoken and written. application process: please submit a cover letter, curriculum vitae incl. publication list, transcripts and certifications to the departmental secretary, ms. melissa aichholzer (melissa.aichholzer at aau.at). if you have questions about the position, please contact jan steinbrener, jan.steinbrener at aau.at. short-listed candidates will be invited to an interview. the position is open until filled."
+25,2020,"full-time post-doctoral position in  multi-sensor fusion for aerial robotics -- university of klagenfurt  (stephan weiss, jan steinbrener)"," ============================================================== full-time post-doctoral position in multi-sensor fusion for aerial robotics (university of klagenfurt; jan steinbrener, stephan weiss) ============================================================== a post-doctoral position is available at university of klagenfurt in the institute for smart systems technologies, control of networked systems group (cf. sst.aau.at/cns, uav.aau.at, and our youtube channel https://urldefense.com/v3/__https://www.youtube.com/channel/ucaldltj_ihdoscfz2fzqxww__;!!lir3w8kk_xxm!-fgl7zx3uu7lpdsxr_uryh8bo8bdkjzrogiszwmg4mxyko6kswiwneu9fmhegm11mapsbw8m$ ). the position over-arches a number of our efforts in consistent, modular multi-sensor fusion for next generation aerial robotics. thus, the position allows both own research in this field as well as guidance and collaboration with junior researchers in our group. the successful applicant is expected to be highly motivated to contribute to project goals, guide fellow researchers, and to present own results in top international journals and at conferences. the start is earliest possible. the initial appointment will be for one year with the possibility to extend on a yearly basis. in the control of networked systems group, we aim to extend the current limits of current methods in state estimation and control, cooperative visual perception, and multi-modal sensor fusion for autonomous and mobile networked systems. the group publishes in international top journals and conference proceedings. successful applicants will have the opportunity to cooperate with our world renowned international partners from science and industry. we currently cooperate with partners in the usa, australia, asia, and in europe. we specifically encourage and support close and open collaboration with our peers both internationally and at the university. our young research group provides a highly dynamic, familiar, and friendly attitude and thus a collaborative and inspiring work environment with highly modern infrastructure: this includes state of the art computing hardware and one of the largest and most modern indoor drone halls in europe with high-precision tracking capabilities and 5g mobile network access. we will also have access to outdoor test sites of several hundreds of square-kilometers area and to official gnss jamming and spoofing devices tackling real issues when navigating in gnss distorted environments. our university is located next to a large lake in a beautiful area of europe with easy access to the alps, the adriatic sea, italy, croatia, and  slovenia  offering plenty of outdoor and cultural activities nearby year-round. ** tasks and responsibilities ** - independent research in the area of state estimation and sensor fusion for aerial robotics - presentation of scientific results in journals and at conferences - contributing to the tasks and milestones of the projects in the research group - conceptualization of new research ideas in line with the research focus of the group is highly encouraged - student mentoring at the doctoral, master, and bachelor?s level, and team work ** required qualifications ** - a doctoral degree in electrical engineering, information and communication engineering, computer science, statistics or related field, graded with excellent academic success. -  proven knowledge (i.e. publications) and extensive experience in at least one of the following areas: state estimation, sensor fusion, machine learning methods in the area of mobile robot navigation, control of autonomous mobile systems. - proven programming skills in the languages python, c / c++, matlab, and in ros. - fluent in english both spoken and written. german knowledge is not required. ** application process ** please submit a cover letter, curriculum vitae incl. publication list, transcripts and certifications to the departmental secretary, melissa aichholzer (melissa.aichholzer at aau.at). if you have questions about the position, please contact jan steinbrener, jan.steinbrener at aau.at or stephan weiss, stephan.weiss at aau.at. short-listed candidates will be invited to an interview. the position is open until filled."
+26,2020,"full-time doctoral position in ai based  aerial robotics -- university of klagenfurt (stephan weiss, jan steinbrener)","
+
+a three-year pre-doctoral position (doctoral student position) is available at university of klagenfurt in the institute for smart system technologies, control of networked systems group (https://urldefense.com/v3/__http://sst.aau.at/cns__;!!lir3w8kk_xxm!5ryuyolk2bkleugl1zul9hmxioerskdtd1t0kwqgesd0leq9c87bfh6tekb6a6qqsh1o9t8o$ , https://urldefense.com/v3/__http://uav.aau.at__;!!lir3w8kk_xxm!5ryuyolk2bkleugl1zul9hmxioerskdtd1t0kwqgesd0leq9c87bfh6tekb6a6qqsjgqjajc$ ). the position is part of a research project in aerial robotics that aims to develop the basis for the next generation of autonomous aerial inspection robots with the help of artificial intelligence and multi-sensor fusion. the successful candidate is expected to contribute to the tasks and milestones of the project through independent research and to present the results in journals and at conferences. the position is aimed at the scientific training of graduates of a diploma or master program with the goal of obtaining a phd degree. the start is earliest possible.
+in the control of networked systems group, we seek to push the current limits in ai supported state estimation, cooperative visual perception, and multi-modal sensor fusion for autonomous and mobile networked systems. the group publishes in international top journals and conference proceedings. successful applicants will be encouraged and supported to publish their work in such journals and proceedings, and will have the opportunity to cooperate with our world renowned international partners from science and industry. we currently cooperate with partners in the usa, australia, asia, and in europe. we specifically encourage and support close and open collaboration with our peers both internationally and at the university. our young research group provides a highly dynamic, familiar, and friendly attitude and thus a collaborative and inspiring work environment with highly modern infrastructure: this includes state of the art computing hardware and one of the largest and most modern indoor drone halls in europe with high-precision tracking capabilities and 5g mobile network access. we will also have access to outdoor test sites of several hundreds of square-kilometers area and to official gnss jamming and spoofing devices tackling real issues when navigating in gnss distorted environments. our university is located next to a large lake in a beautiful area of europe with easy access to the alps, the adriatic sea, italy, croatia, and  slovenia  offering plenty of outdoor and cultural activities nearby year round. 
+
+** tasks and responsibilities **
+- independent research with the aim to submit a dissertation and acquire the phd degree
+- presentation of scientific results in journals and at conferences
+- contributing to the tasks and milestones of the current projects in the research group
+- student mentoring and team work
+      
+** required qualifications **
+- a university degree (master or diplom-ingenieur) in electrical engineering and information and communication engineering, mechanical engineering, computer science, statistics or related field, graded with excellent academic success.
+- proven knowledge and extensive experience in at least one of the following areas: machine learning for robotics, probabilistic state estimation, ai-based image analysis and tracking.
+- proven programming skills in the languages python, matlab, c / c++, ros.
+- fluent in english both spoken and written. german knowledge is not required.
+      
+** application process **
+please submit a cover letter, curriculum vitae incl. publication list, transcripts and certifications to the departmental secretary, melissa aichholzer (melissa.aichholzer at aau.at). if you have questions about the position, please contact jan steinbrener, jan.steinbrener at aau.at or stephan weiss, stephan.weiss at aau.at. short-listed candidates will be invited to an interview. the position is open until filled."
